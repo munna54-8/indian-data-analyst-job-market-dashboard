@@ -1,0 +1,34 @@
+[
+  {
+    "id": "5782868868",
+    "description": "The Clinton Health Access Initiative, Inc. (CHAI) is a global health organization committed to our mission of saving lives and reducing the burden of disease in low-and middle-income countries. We work at the invitation of governments to support them and the private sector to create and sustain high-quality health systems. CHAI was founded in 2002 in response to the HIV/AIDS epidemic with the goal of dramatically reducing the price of life-saving drugs and increasing access to these medicines i…",
+    "latitude": 28.62623,
+    "title": "Associate",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": 77.21808,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Scientific & QA Jobs",
+      "tag": "scientific-qa-jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5782868868?utm_medium=api&utm_source=7cd92d92",
+    "created": "2026-07-01T10:22:48Z",
+    "salary_is_predicted": "0",
+    "contract_time": "full_time",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Clinton Health Access Initiative"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Delhi",
+        "New Delhi",
+        "Sansad Marg"
+      ],
+      "display_name": "Sansad Marg, New Delhi",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4Mjg2ODg2OCIsInMiOiJwQTU4VDZkNDhSR0FEWVNPWER6cGtnIn0.8yU_tCtAGkitjuxrRcocMICdAKZqc4fBapg941zOM_c"
+  }
+]

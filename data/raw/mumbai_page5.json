@@ -1,0 +1,309 @@
+[
+  {
+    "latitude": 18.9552,
+    "contract_time": "full_time",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4OTA3MjU0NCIsInMiOiJkbmg3UzZkNDhSR190c01oN0dnbGVRIn0.zwaAnSXEbLv2AFPPNt3mwsEeCLBzn3tOAY08g9TPb5c",
+    "longitude": 72.83482,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "WebEngage"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5689072544?utm_medium=api&utm_source=7cd92d92",
+    "id": "5689072544",
+    "created": "2026-04-04T02:03:24Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai",
+        "Null Bazar"
+      ],
+      "display_name": "Null Bazar, Mumbai"
+    },
+    "title": "Data Engineer",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "About WebEngage: WebEngage is an enterprise-grade customer engagement and retention platform that helps global brands across industries such as e-commerce, fintech, travel, edtech, gaming, media, and consumer apps. and turn data into measurable revenue impact. Trusted by 800 brands globally, we have strong presence in India, UAE, KSA, SEA, Europe and beyond. WebEngage powers intelligent, real-time engagement across the entire customer lifecycle. We are built for scale. We are built for complexi…"
+  },
+  {
+    "category": {
+      "label": "Accounting & Finance Jobs",
+      "tag": "accounting-finance-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Description We are looking for an analyst for our Client Services Operations team which performs, Data extraction, Data analysis on financial models and financial valuation reports along with report updates and various support services. The team undertakes research and collects financial and business data based on the request from the internal Kroll business units. The relevant financial and business data is collected through various publicly available sources and Kroll proprietary files. Pursu…",
+    "created": "2025-12-14T00:29:50Z",
+    "id": "5541212539",
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "title": "Senior Analyst, Client Services Operations",
+    "longitude": 72.84415,
+    "company": {
+      "display_name": "Kroll",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5541212539?utm_medium=api&utm_source=7cd92d92",
+    "contract_time": "full_time",
+    "salary_is_predicted": "0",
+    "latitude": 19.00821,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MTIxMjUzOSIsInMiOiJkbmg3UzZkNDhSR190c01oN0dnbGVRIn0.Flotk2FAWIZs2_S4SHc0tFMZlg_fvbd6Hrwuyel4H68"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Accounting & Finance Jobs",
+      "tag": "accounting-finance-jobs"
+    },
+    "description": "PJT Partners is a global advisory-focused investment bank. Our team of senior professionals delivers a wide array of strategic advisory, shareholder advisory, restructuring and special situations and private fund advisory and placement services to corporations, financial sponsors, institutional investors and governments around the world. We offer a unique portfolio of advisory services designed to help our clients achieve their strategic objectives. We also provide, through PJT Park Hill, priva…",
+    "id": "5750951140",
+    "created": "2026-06-04T02:15:57Z",
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Associate - Strategic Advisory (India Coverage)",
+    "company": {
+      "display_name": "PJT Partners",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": 72.84415,
+    "redirect_url": "https://www.adzuna.in/details/5750951140?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "salary_is_predicted": "0",
+    "latitude": 19.00821,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1MDk1MTE0MCIsInMiOiJkbmg3UzZkNDhSR190c01oN0dnbGVRIn0.-m2EVcknB6bbgrbpuE_jTZ5cnLBb5pCpJk-IoRHZNyU"
+  },
+  {
+    "description": "Business Unit: Financial And Valuation Advisory Industry: Generalist/REVS&xa;&xa; Overview Houlihan Lokey, Inc. (NYSE:HLI) is a leading global investment bank recognized for delivering independent strategic and financial advice to corporations, financial sponsors, and governments. With uniquely deep industry expertise, broad international reach, and a partnership approach rooted in trust, the firm provides innovative, integrated solutions across mergers and acquisitions, capital solutions, fina…",
+    "category": {
+      "label": "Accounting & Finance Jobs",
+      "tag": "accounting-finance-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Financial Analyst, Real Estate Valuation and Advisory Services",
+    "created": "2026-04-17T02:03:53Z",
+    "id": "5701774746",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5701774746?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "company": {
+      "display_name": "Houlihan Lokey",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5oN1M2ZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NzAxNzc0NzQ2In0.aC_6CxLC11UyyBOYy6WYnB0Jntwa470KyF2kv2QGCdc",
+    "contract_time": "full_time",
+    "salary_is_predicted": "0",
+    "latitude": 19.00821
+  },
+  {
+    "created": "2026-03-28T09:39:18Z",
+    "id": "5680957909",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "title": "SOC Engineer - L2",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "description": "Make an impact with NTT DATA Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion - it's a place where you can grow, belong and thrive. Your day at NTT DATA The Senior Associate Information Security Analyst is a developing subject matter expert, responsible for designing and implementing security systems to pro…",
+    "latitude": 19.00821,
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5oN1M2ZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NjgwOTU3OTA5In0.hyQy82m9zL0uKVesZpLkMKRUQ0qTbMhMCNGQQbRXRQI",
+    "longitude": 72.84415,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "NTT America, Inc."
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5680957909?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "description": "About WPP Media WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigate change, capture opportunity, and deliver transformational growth. WPP Media is WPP's AI-driven media operating unit, bringing together media, data, and partnerships to deliver creative personalisation at scale. Connected through WPP Open…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "PR, Advertising & Marketing Jobs",
+      "tag": "pr-advertising-marketing-jobs"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "title": "Principal Partner",
+    "created": "2026-06-16T02:31:00Z",
+    "id": "5764670987",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5764670987?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "WPP Media"
+    },
+    "longitude": 72.84415,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2NDY3MDk4NyIsInMiOiJkbmg3UzZkNDhSR190c01oN0dnbGVRIn0.B4HoFc5SYjUw5pUSWuKhbH7a4iZOwgZ56e6AL5okQ-Y",
+    "salary_is_predicted": "0",
+    "latitude": 19.00821
+  },
+  {
+    "company": {
+      "display_name": "NTT",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": 72.84415,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5472362631?utm_medium=api&utm_source=7cd92d92",
+    "contract_time": "full_time",
+    "salary_is_predicted": "0",
+    "latitude": 19.00821,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5oN1M2ZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NDcyMzYyNjMxIn0.mnVSRPkhuZU8LmASgjAd2BRS2EljX44wd5Ls9-mMHyw",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "description": "Make an impact with NTT DATA Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion – it’s a place where you can grow, belong and thrive. Your day at NTT DATA The Senior Associate Information Security Analyst is a developing subject matter expert, responsible for designing and implementing security systems to pro…",
+    "created": "2025-10-31T15:12:13Z",
+    "id": "5472362631",
+    "title": "Senior MS Engineer, SOC",
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "NTT"
+    },
+    "longitude": 72.84415,
+    "redirect_url": "https://www.adzuna.in/details/5435278086?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "0",
+    "contract_time": "full_time",
+    "latitude": 19.00821,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQzNTI3ODA4NiIsInMiOiJkbmg3UzZkNDhSR190c01oN0dnbGVRIn0.VyiRYu5JuiN0tkhIDpqEQH9ItRpCwmPF1g8_p81Nacc",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "description": "Make an impact with NTT DATA Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion – it’s a place where you can grow, belong and thrive. Your day at NTT DATA The Senior Associate Information Security Analyst is a developing subject matter expert, responsible for designing and implementing security systems to pro…",
+    "created": "2025-10-07T14:53:08Z",
+    "id": "5435278086",
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "SOC Engineer - L2"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "description": "Make an impact with NTT DATA Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion - it's a place where you can grow, belong and thrive. Your day at NTT DATA The Senior Associate Information Security Analyst is a developing subject matter expert, responsible for designing and implementing security systems to pro…",
+    "id": "5472244973",
+    "created": "2025-10-31T11:09:28Z",
+    "title": "Senior MS Engineer, SOC",
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "display_name": "NTT America, Inc.",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": 72.84415,
+    "redirect_url": "https://www.adzuna.in/details/5472244973?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "0",
+    "latitude": 19.00821,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3MjI0NDk3MyIsInMiOiJkbmg3UzZkNDhSR190c01oN0dnbGVRIn0.WDKPp_0ePuIzoAqXwI1eyYq6Y0qBMHCFaioogzj3hAQ"
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/5436825343?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "NTT America, Inc.",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": 72.84415,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5oN1M2ZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NDM2ODI1MzQzIn0.NyVLwlQhwi_OnvHJUXctkmVNP8zQ0yhSYjWB9r8OZw4",
+    "salary_is_predicted": "0",
+    "latitude": 19.00821,
+    "description": "Make an impact with NTT DATA Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion - it's a place where you can grow, belong and thrive. Your day at NTT DATA The Senior Associate Information Security Analyst is a developing subject matter expert, responsible for designing and implementing security systems to pro…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "title": "SOC Engineer - L2",
+    "id": "5436825343",
+    "created": "2025-10-08T10:44:29Z"
+  }
+]

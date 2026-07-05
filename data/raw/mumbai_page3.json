@@ -1,0 +1,1564 @@
+[
+  {
+    "longitude": 72.84415,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIxMTc3OTE0OCIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.xVqFemTUxIRd5Bvf5yzIdF6xE5fmRrZRWjLu9yHMlH4",
+    "redirect_url": "https://www.adzuna.in/details/5211779148?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5211779148",
+    "created": "2025-05-23T06:51:57Z",
+    "latitude": 19.00821,
+    "contract_time": "full_time",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Wissen Technology"
+    },
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Power Bi Developer",
+    "description": "Job Description: We are seeking a skilled Power BI Developer with 4 to 7 years of experience to join our dynamic team in Mumbai. The ideal candidate will have a strong background in data visualization, data modeling, and the ability to work with large datasets to provide actionable insights through Power BI. Skill : Power BI Experience: 4 to 7 years Location : Mumbai (Goregaon) Notice Period: 0 to 15 days Key Responsibilities: Develop and Maintain Dashboards & Reports: Design, build, and deploy…"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5728264990",
+    "created": "2026-05-14T02:04:34Z",
+    "longitude": 72.84415,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyODI2NDk5MCIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.oG0Wy-hrqaNrD_xr1oCPU84O5SBiqgro5YxVsKzxBF8",
+    "redirect_url": "https://www.adzuna.in/details/5728264990?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs",
+      "label": "Accounting & Finance Jobs"
+    },
+    "salary_is_predicted": "0",
+    "description": "Job Description: Credit Risk Analytics and Modelling – Analyse, model, validate and document various measures of Credit Risk for use in Expected Credit Loss and Capital computations. Hands-on experience in building, implementing, documenting, monitoring, validating, refining models and scorecards – in particular for PD, LGD, EAD and related Credit Risk metrics - using statistical methods and / or expert judgement based techniques In depth understanding of the underlying statistical techniques a…",
+    "title": "Credit Risk : BKC, Mumbai",
+    "latitude": 19.00821,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Acura Solution"
+    },
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "contract_time": "full_time"
+  },
+  {
+    "latitude": 19.00821,
+    "contract_time": "full_time",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Acura Solution"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Kotak Mahindra Bank/ Data Anayltics/ Mumbai",
+    "description": "Job Description: . Data Scientist – KMPL Support Services – Analytics Location: Mumbai Grade: M1 to M4 Reports to: Lead/Principal Data Scientist Role Overview: Responsible for building analytical models for the banking, NBFC, and insurance sectors. Utilize machine learning algorithms or statistical models to optimize business processes across the customer lifecycle. Key Responsibilities: Develop and deploy machine learning models. Conduct exploratory data analysis to uncover trends and patterns…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NzI3MDg2MTQyIn0.HkLNeAtHRiHJJZMabs2xj8_lEdEzlirZeAPtjoCe69E",
+    "longitude": 72.84415,
+    "redirect_url": "https://www.adzuna.in/details/5727086142?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5727086142",
+    "created": "2026-05-13T01:57:19Z"
+  },
+  {
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5756755734?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NzU2NzU1NzM0In0.ZWKJ1q0VPbrAPesIFu5b2NeZTgh2qasmB9gx2NYzx8g",
+    "created": "2026-06-09T06:51:52Z",
+    "id": "5756755734",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Morningstar"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "latitude": 19.00821,
+    "title": "Team Lead",
+    "description": "Assist in managing and developing a team of 10 Data Research Analysts by providing clear direction, establishing SMART goals, and optimizing resource allocation for processes/projects. Working closely with multiple global teams and across various functions. Participate regularly in global calls and meetings. Assist the team to identify and eliminate roadblocks by partnering with technology teams and other database teams. Should be able to research complex projects leading to actionable recommen…"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 1200000,
+    "id": 1155089050,
+    "created": "2019-05-17T21:02:42Z",
+    "longitude": 72.84415,
+    "redirect_url": "https://www.adzuna.in/details/1155089050?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Associate Product Manager at Truebil As an Associate Product Manager at Truebil, you will assist in driving the product planning and conceptual definition, as well as the technical execution of the product from beginning to end. You should be keen for building and constantly improving the product using industry experience and feedback from customers. You possess a unique blend of business and technical savvy. You will work with the Technology team to define product release requirements. Your wo…",
+    "title": "Associate Product Manager",
+    "salary_max": 1800000,
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOjExNTUwODkwNTB9.n0SgKNhlL5hY5n8q4rXHPrHwBjx1sEtEAPl87prnHQE",
+    "salary_is_predicted": "0",
+    "latitude": 19.00821,
+    "company": {
+      "display_name": "Truebil.com",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/5737267101?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NzM3MjY3MTAxIn0.14HWIzk9tXu59tRfNR436WchJlxYXgz9p6BZ6DJabC0",
+    "longitude": 72.84415,
+    "salary_is_predicted": "0",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5737267101",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-05-22T10:08:09Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Citigroup"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 19.00821,
+    "description": "Overview of the Role Citi, the leading global bank, has approximately 200 million customer accounts and does business in more than 160 countries and jurisdictions. Citi provides consumers, corporations, governments, and institutions with a broad range of financial products and services, including consumer banking and credit, corporate and investment banking, securities brokerage, transaction services, and wealth management. As a bank with a brain and a soul, Citi creates economic value that is …",
+    "title": "AI-Data Solutions Lead -Vice President"
+  },
+  {
+    "id": "5662846792",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-03-13T01:55:07Z",
+    "redirect_url": "https://www.adzuna.in/details/5662846792?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.8567,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NjYyODQ2NzkyIn0.cFwgYQeH08Anv0JmoEL5dSbgZOezMy69SApEwGuuTQY",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "Manager",
+    "description": "Line of Service Advisory Industry/Sector Not Applicable Specialism Data, Analytics & AI Management Level Manager Job Description & Summary A career within Data and Analytics services will provide you with the opportunity to help organisations uncover enterprise insights and drive business results using smarter data analytics. We focus on a collection of organisational technology capabilities, including business intelligence, data management, and data assurance that help our clients drive innova…",
+    "contract_time": "full_time",
+    "company": {
+      "display_name": "PricewaterhouseCoopers",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Goregaon East, Mumbai",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai",
+        "Goregaon East"
+      ]
+    },
+    "latitude": 19.1542
+  },
+  {
+    "latitude": 19.00821,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Morningstar"
+    },
+    "description": "The Role: The Equity Data team is looking for a knowledgeable, enthusiastic, creative, and results-driven candidate with 3 years of experience in content writing in Equity & Financial data to join its Equity Data Methodology Team. The team's mandate is to be the experts in the field of equity data, whom our external and internal clients can trust to provide intelligent, valuable, and timely solutions. To this end, as a Data Content Researcher, you will work with business leaders, product manage…",
+    "title": "Content Researcher",
+    "longitude": 72.84415,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1Njc1NTczNSIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.cV2lNhcqSB_m74lWG7QQQRxSJ1acQoU3OYiECQgsWyE",
+    "redirect_url": "https://www.adzuna.in/details/5756755735?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5756755735",
+    "created": "2026-06-09T06:51:52Z"
+  },
+  {
+    "id": "5770241516",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-06-20T10:56:07Z",
+    "redirect_url": "https://www.adzuna.in/details/5770241516?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NzcwMjQxNTE2In0.I7HVz1brc2bRShAmAlK0cDuQaAsKbisZHd00yjEeTLU",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "consultancy-jobs",
+      "label": "Consultancy Jobs"
+    },
+    "salary_is_predicted": "0",
+    "title": "Senior Analyst (Data Center Design Expert) Job Details | Black & Veatch Family of Companies",
+    "description": "Senior Analyst (Data Center Design Expert) Date: Jun 18, 2026 Location: Vikhroli, West Mumbai, MH, IN Pune, MH, IN Company: Black & Veatch Family of Companies We believe real value is powered by the unique skills and experiences of our professionals. The interchange of ideas from a diverse group of people gives our teams an expanded perspective and the ability to find better solutions for our clients. Req Id : 115491 Job Title : Senior Analyst (Data Center Design Expert) Business Unit sector : …",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Black & Veatch"
+    },
+    "latitude": 19.00821
+  },
+  {
+    "latitude": 19.00821,
+    "company": {
+      "display_name": "Morningstar",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "contract_time": "full_time",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Senior Software Engineer",
+    "description": "The Role: At Morningstar, helping investors is what brings us together and drives our work. We are looking for a Senior Data Engineer to join the Corporate Systems Data Enablement t eam to su pport Morningstar’s Business Intelligence Reporting , grow with us, introduce us to new ideas and develop products that empower our users. Every day, you’ll partner with team members across disciplines developing products for investors. You’ll interact daily with product managers , and business stakeholder…",
+    "longitude": 72.84415,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2ODU1NjI5NSIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.0dfIi3xFrIKXrIrUs0724Klj_IuybLa35SGtyjyw1_Q",
+    "redirect_url": "https://www.adzuna.in/details/5768556295?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5768556295",
+    "created": "2026-06-19T02:33:17Z"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1Njk5ODQ0ODAxIn0.cTLKEEr4_df7o-hUau7I1Vd2y0YC9c6g62GqUzuAM6A",
+    "salary_is_predicted": "0",
+    "latitude": 19.00821,
+    "company": {
+      "display_name": "The Sleep Company",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5699844801",
+    "salary_min": 1500000,
+    "created": "2026-04-15T11:46:27Z",
+    "longitude": 72.84415,
+    "redirect_url": "https://www.adzuna.in/details/5699844801?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_max": 2500000,
+    "description": "About Us: As India's fastest-growing D2C brand, we are at the forefront of innovation and transformation in the market. We’re a well-funded, rapidly growing (we have recently launched our 100th store), omnichannel D2C brand with a passionate and innovative team. Job Summary: We are seeking a Data Engineer to help us design, build and maintain our BigQuery data warehouse by performing ETL operations and creating unified data models. You will work across various data sources to create a cohesive …",
+    "title": "Sleep Company is hiring for Data Engineer - Immediate Joiner",
+    "contract_time": "full_time"
+  },
+  {
+    "created": "2026-05-30T10:12:19Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5745231650",
+    "category": {
+      "tag": "sales-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Sales Jobs"
+    },
+    "salary_is_predicted": "0",
+    "longitude": 72.84415,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0NTIzMTY1MCIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.2LbDn30C9Kc9rkOO2fQVqGFQUjiBbxNTwDj7BiNlLSo",
+    "redirect_url": "https://www.adzuna.in/details/5745231650?utm_medium=api&utm_source=7cd92d92",
+    "description": "Description At Amazon Ads, we sit at the intersection of Advertising, Media and eCommerce. With millions of customers visiting us every day to find, discover, and buy products, we believe that advertising, when done well, can enhance the value of the customer experience and generate a positive ROI for our advertising partners. We strive to make advertising relevant so that customers welcome it - across Amazon's ecosystem of mobile and desktop websites, proprietary devices, and the Amazon Advert…",
+    "title": "Sales Operations Analyst, Amazon Ads",
+    "latitude": 19.00821,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Amazon"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    }
+  },
+  {
+    "created": "2026-07-03T00:54:21Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5785771919",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "longitude": 72.84415,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1Nzg1NzcxOTE5In0.cz2UxpwDARGf_knzFyRhvU0mZ0G5_T7TJE0QFr78Etw",
+    "redirect_url": "https://www.adzuna.in/details/5785771919?utm_medium=api&utm_source=7cd92d92",
+    "description": "This job is with Morningstar, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. The Role: At Morningstar, helping investors is what brings us together and drives our work. We are looking for a Senior Data Engineer to join the Corporate Systems Data Enablement t eam to su pport Morningstar's Business Intelligence Reporting , grow with us, introduce us to new ideas and develop products that e…",
+    "title": "Senior Software Engineer",
+    "latitude": 19.00821,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Morningstar"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "contract_time": "full_time"
+  },
+  {
+    "id": "5694150917",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-04-09T09:39:19Z",
+    "redirect_url": "https://www.adzuna.in/details/5694150917?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1Njk0MTUwOTE3In0.xjVKhM38RA6vVPLGcSSXfi6utOjT4P7TwuCwByfg1a8",
+    "salary_is_predicted": "0",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "description": "Team Leader - Company Financials Industries Data - Asia Energy, Materials and Utilities Sectors, Mumbai Location Mumbai Business Area Data Ref  10050252 Description & Requirements Bloomberg runs on data. Our products are fueled by powerful information. We combine data and context to paint the whole picture for our clients, around the clock - from around the world. In Data, we are responsible for delivering this data, news and analytics through innovative technology - quickly and accurately. We …",
+    "title": "Team Leader - Company Financials Industries Data - Asia Energy, Materials and Utilities Sectors, Mumbai",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Bloomberg"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 19.00821
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "3142255689",
+    "salary_min": 300000,
+    "created": "2022-05-17T05:30:17Z",
+    "longitude": 72.84415,
+    "redirect_url": "https://www.adzuna.in/details/3142255689?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "label": "PR, Advertising & Marketing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "pr-advertising-marketing-jobs"
+    },
+    "description": "Designation Digital Marketing Manager Performance Marketing Manager Paid Marketing Manager Digital Lead Lead- Digital Marketing Online Marketing Manager Digital Marketing Analyst/Senior Digital Marketing Analyst Digital Success Manager About the Role: We're looking for a growth-oriented leader to own and lead the Digital Marketing function at Impact Guru. You are the ideal candidate if you are comfortable with continuous experimenting and learning and are obsessed with data. You're not afraid t…",
+    "salary_max": 1200000,
+    "title": "Digital Marketing Manager/Assistant Manager",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzE0MjI1NTY4OSIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.bi_p0vNTuphrq6olq7xOgFiBZb6cBQOvjW9O6lZimmY",
+    "salary_is_predicted": "0",
+    "latitude": 19.00821,
+    "company": {
+      "display_name": "Impact Guru",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "company": {
+      "display_name": "Morningstar",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "latitude": 19.00821,
+    "description": "Position Title: Senior Software Engineer The Area : Morningstar Data for equities provides comprehensive coverage of global stock markets from as early as 1975. We are continuously broadening our coverage and creating new products to help clients prepare for regulatory changes and other industry shifts. Our data features proprietary statistics and is developed using stringent quality screens to ensure accuracy. From APIs to data feeds, our solutions are delivered quickly to help institutions me…",
+    "title": "Senior Software Engineer",
+    "redirect_url": "https://www.adzuna.in/details/5756755739?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1Njc1NTczOSIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.smLvOd0rItgM4nm2GvT62fhzsaX52fCpZiQHekcUmOo",
+    "longitude": 72.84415,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "id": "5756755739",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-06-09T06:51:53Z"
+  },
+  {
+    "description": "Description Roles & Responsibilities : Experience in Data Analytics & Seismic Tool ( Configuration, create layers) Good to have - Develop interactive dashboards and reports using Tableau , Power BI , or Alteryx to support business decisions and monitor KPIs. Monitor and analyze content usage and engagement data within the Seismic platform. Collaborate with internal teams to understand data requirements and translate platform usage data into actionable insights. Ensure the integrity, accuracy, a…",
+    "title": "Analyst",
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "display_name": "eClerx",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 19.00821,
+    "created": "2026-06-27T02:26:07Z",
+    "id": "5778138918",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5778138918?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1Nzc4MTM4OTE4In0.EYd1Bal1X-tw_T8tjRhD2jqCCkxH_vB46C8-FPqxKyQ",
+    "longitude": 72.84415
+  },
+  {
+    "description": "Junior Data Analyst (1 to 4 years experience into PV) Responsibilities 1. Triage & intake of ICSRs in ARGUS databases within agreed timelines 2. Download and monitor valid ICSRs from EudraVigilance (EV)- or any other sources 3. Process literature, spontaneous, clinical trial, and solicited cases 4. Search for valid ICSRs in Literature search tools 5. Generate reports and submit to health authorities and business partners 6. Enter serious and non-serious ICSRs in ARGUS per client SOP and WI with…",
+    "title": "SPE-Pharmacovigilance",
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "display_name": "Cognizant",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 19.00821,
+    "created": "2026-06-19T10:25:36Z",
+    "id": "5768996374",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "admin-jobs",
+      "label": "Admin Jobs"
+    },
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5768996374?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NzY4OTk2Mzc0In0.GzA-D0w-7HkRnyiwqW33MGgw_ECcW4tgyz6jUiJ4wnM",
+    "longitude": 72.84415
+  },
+  {
+    "contract_time": "full_time",
+    "salary_max": 5000000,
+    "description": "Role & Responsibilities: As a Product Designer (Growth), you'll be the design force behind our growth initiatives—obsessing over conversion funnels, user onboarding, engagement mechanics, and monetization touchpoints. You'll combine deep UX expertise with growth hacking mindset, leveraging data and experimentation to design experiences that drive measurable business impact. We're looking for a metrics-driven, hypothesis-oriented designer who thrives on turning insights into scalable growth leve…",
+    "title": "Lead Product Designer (B2C, Tier-1)",
+    "redirect_url": "https://www.adzuna.in/details/5627352864?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "category": {
+      "label": "PR, Advertising & Marketing Jobs",
+      "tag": "pr-advertising-marketing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 3800000,
+    "id": "5627352864",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-02-13T11:41:19Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Peak Hire Solutions"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "latitude": 19.00821,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYyNzM1Mjg2NCIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.vrFCNtSNxXDIbO9do2ILRJfC99JELV_YE-kSuH-C7tw",
+    "salary_is_predicted": "0"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5513865406?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "created": "2025-11-26T04:50:08Z",
+    "salary_min": 2500000,
+    "id": "5513865406",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "title": "Lead Product Designer (Growth) - B2C",
+    "description": "ROLES AND RESPONSIBILITIES: As a Product Designer (Growth), you'll be the design force behind our growth initiatives—obsessing over conversion funnels, user onboarding, engagement mechanics, and monetization touchpoints. You'll combine deep UX expertise with growth hacking mindset, leveraging data and experimentation to design experiences that drive measurable business impact. We're looking for a metrics-driven, hypothesis-oriented designer who thrives on turning insights into scalable growth l…",
+    "salary_max": 4000000,
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NTEzODY1NDA2In0.J30J-fg5mcQp2kXf6VMyWHrftodF1oYdMYXodLNR9NE",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "company": {
+      "display_name": "Peak Hire Solutions",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 19.00821
+  },
+  {
+    "salary_min": 3800000,
+    "id": "5721342028",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-05-07T12:13:41Z",
+    "redirect_url": "https://www.adzuna.in/details/5721342028?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "description": "Role & Responsibilities As a Product Designer (Growth), you'll be the design force behind our growth initiatives—obsessing over conversion funnels, user onboarding, engagement mechanics, and monetization touchpoints. You'll combine deep UX expertise with growth hacking mindset, leveraging data and experimentation to design experiences that drive measurable business impact. We're looking for a metrics-driven, hypothesis-oriented designer who thrives on turning insights into scalable growth lever…",
+    "title": "Lead Product Designer (B2C, Tier-1)",
+    "salary_max": 5000000,
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyMTM0MjAyOCIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.E1k5T2GP7aqcHQTrrHy_sKNu6fsnNpDmYVduwv6Ys48",
+    "salary_is_predicted": "0",
+    "company": {
+      "display_name": "TalentXO",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 19.00821
+  },
+  {
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "display_name": "Burns & McDonnell",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 19.00821,
+    "title": "Data Engineer - Palantir - Contract- Mumbai",
+    "description": "Description Role Overview: As a Data Engineer, you'll play a crucial role in ensuring seamless data flow within Foundry. You'll work closely with cross-functional teams to design, implement, and maintain robust data pipelines.Your expertise will contribute to the success of our organization's data-driven initiatives. As a Data Engineer you will be involved in Business requirements, problem statements and developing end-to-end solutions using Palantir. Incumbent will play a paramount role in tra…",
+    "redirect_url": "https://www.adzuna.in/details/5583457638?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NTgzNDU3NjM4In0.Lun5WFIKDgN6_p_tVELEndaNKPH4m2YW8-2PgSpIXHI",
+    "longitude": 72.84415,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "id": "5583457638",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-01-14T08:57:07Z"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Version 1"
+    },
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 19.00821,
+    "title": "Senior Data Engineer",
+    "description": "Job Description The Role We are looking for a Senior Data Engineer to join Version 1’s Data & AI Practice, working on modern data platforms for enterprise and regulated clients. You will be a hands‑on engineer with strong production experience, contributing to the design, build, and operation of scalable, cloud‑native data solutions that enable analytics and AI at scale. This is a delivery‑focused role for an experienced engineer who enjoys solving complex data challenges, takes ownership of ou…",
+    "redirect_url": "https://www.adzuna.in/details/5764490728?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NzY0NDkwNzI4In0.8wdTihyw0o4p-K9WAinrjdFXsiFitfsqsoAYIq5vv6g",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "id": "5764490728",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-06-15T22:40:47Z"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5758416404",
+    "created": "2026-06-10T17:05:18Z",
+    "longitude": 72.97416,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NzU4NDE2NDA0In0.JtKOV6b1LwePZuAIaSKJYwa-v7_8vWARii_1HxCXlL4",
+    "redirect_url": "https://www.adzuna.in/details/5758416404?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "description": "Job Description – Azure Cloud Engineer Position: Azure Cloud Engineer Location: Mumbai Department: Data Platforms & Engineering Experience: 3–5 Years About the Role ScatterPie Analytics is looking for an experienced Azure Cloud Engineer to design, develop, and maintain scalable cloud-based data solutions on Microsoft Azure. The ideal candidate should possess expertise in Azure data services, ETL/ELT pipeline development, cloud storage, and modern data engineering practices. Key Responsibilities…",
+    "title": "Azure Cloud Engineer",
+    "latitude": 19.1828,
+    "company": {
+      "display_name": "ScatterPie Analytics Private Limited",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai",
+        "Mulund West"
+      ],
+      "display_name": "Mulund West, Mumbai",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "contract_type": "permanent"
+  },
+  {
+    "description": "Job Title: Data Engineer Experience: 2–3 Years Location: Mumbai (Worli) Work Mode: Onsite Notice Period: Immediate or max 15days preffered Role Overview We are seeking a talented and motivated Data Engineer with hands-on experience in PySpark , SQL, and Big Data technologies . The ideal candidate will be responsible for designing, developing, and optimizing scalable data pipelines that support large-scale data processing, analytics, and integration initiatives. This role requires strong technic…",
+    "title": "Data Engineer",
+    "contract_type": "contract",
+    "latitude": 19.01779,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai",
+        "Dadar"
+      ],
+      "display_name": "Dadar, Mumbai"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Evnek Technologies Pvt Ltd"
+    },
+    "created": "2026-06-17T09:33:34Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5766299979",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2NjI5OTk3OSIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.1-5mSbNiSaJPGxZ8DHEupqAOi252_F_WEYedc7plfZw",
+    "longitude": 72.84952,
+    "redirect_url": "https://www.adzuna.in/details/5766299979?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "description": "Relocation Assistance Offered Within Country Job Number 173798 - Mumbai, Maharashtra, India Who We Are Colgate-Palmolive Company is a global consumer products company operating in over 200 countries specialising in Oral Care, Personal Care, Home Care, Skin Care, and Pet Nutrition. Our products are trusted in more households than any other brand in the world, making us a household name! Join Colgate-Palmolive, a caring, innovative growth company reimagining a healthier future for people, their p…",
+    "title": "Sr. Specialist, Solution Architecture",
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "display_name": "Colgate-Palmolive",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 19.00821,
+    "id": "5775778548",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-06-25T10:30:35Z",
+    "redirect_url": "https://www.adzuna.in/details/5775778548?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3NTc3ODU0OCIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.TDNHq-QIZZ4w9yEqdTo_qFEZSQ3bt48kZ1Srrcewoew",
+    "longitude": 72.84415,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_is_predicted": "0"
+  },
+  {
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiI0NTE0Mzc1OTEwIn0.EkDkBjdk5dxIZMUt-gxxCX3-RNbvaBmgn8rJzXJUQRA",
+    "latitude": 19.00821,
+    "company": {
+      "display_name": "Qrata",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "created": "2024-01-07T15:07:38Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "4514375910",
+    "salary_min": 1200000,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "longitude": 72.84415,
+    "redirect_url": "https://www.adzuna.in/details/4514375910?utm_medium=api&utm_source=7cd92d92",
+    "description": "DATA ENGINEER Overview They started with a singular belief - what is beautiful cannot and should not be defined in marketing meetings. It's defined by the regular people like us, our sisters, our next-door neighbours, and the friends we make on the playground and in lecture halls. That's why we stand for people-proving everything we do. From the inception of a product idea to testing the final formulations before launch, our consumers are a part of each and every process. They guide and inspire…",
+    "title": "Data Engineer",
+    "salary_max": 3000000,
+    "contract_time": "full_time"
+  },
+  {
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY3MjgwNTY5MSIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.dznbLf81vjR1zOb04h27IYmtqXKVE9Qzxma9anNzCC4",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "The Sleep Company"
+    },
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 19.00821,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5672805691?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "created": "2026-03-20T11:34:55Z",
+    "id": "5672805691",
+    "salary_min": 4000000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "title": "Director of Product",
+    "description": "Role Overview At The Sleep Company , innovation doesn’t stop at comfort — it extends to how customers discover, buy, and experience our products across every touchpoint. As Director – Product , you will lead the complete consumer journey — from discovery to post-delivery — building frictionless, insight-led experiences that drive growth, efficiency, and customer delight. You’ll head a multidisciplinary team spanning Product Management, UI/UX, and Analytics , acting as the strategic bridge betwe…",
+    "salary_max": 6000000
+  },
+  {
+    "title": "Manager Business Intelligence",
+    "description": "Core Job Responsibilities: Analysis and story boarding  Provide competitive analysis on various companies' market offerings, identify market trends, pricing/business models, sales.  Interpret, evaluate and interrelate various data sets and develop integrated business analysis for incorporation into strategic decision-making.  Develop compelling narratives and visualizations to communicate data insights. Create storyboards that effectively convey the data story to stakeholders2 (https://online.h…",
+    "latitude": 19.00821,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Abbott"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "created": "2026-04-25T09:50:23Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5710024109",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "longitude": 72.84415,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMDAyNDEwOSIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.WBkOFItoolA9TIzhtth7Dgtv0sk2p9NK81r-6pYX-14",
+    "redirect_url": "https://www.adzuna.in/details/5710024109?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "created": "2025-06-07T02:53:17Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5236989397",
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs"
+    },
+    "longitude": 72.84415,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIzNjk4OTM5NyIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.C2F-OWVqO4KnYX1t0NjxLrWfESXm63WT9sdCHMijzLQ",
+    "redirect_url": "https://www.adzuna.in/details/5236989397?utm_medium=api&utm_source=7cd92d92",
+    "title": "Senior Engineer",
+    "description": "We are hiring Senior / Lead Engineers to design, build, and scale robust, production-grade data and platform systems for a product portfolio within Blenheim. This is a hands-on engineering role where you will own complex problem areas end-to-end, influence system architecture, mentor engineers, and deliver scalable solutions in a fast-growing, product-led environment. If you enjoy working with ambiguity, building platforms from the ground up, and shipping real business impact, we’d love to hear…",
+    "latitude": 19.00821,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Blenheim Chalcot India"
+    },
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5754822616?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1NDgyMjYxNiIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.QX9rRb7idMarKw8CqP2NjdHJWWbu5ADf3-ixOppKDbo",
+    "created": "2026-06-07T02:26:23Z",
+    "id": "5754822616",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Datavail Infotech",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "contract_time": "full_time",
+    "latitude": 19.00821,
+    "title": "ETL Tester",
+    "description": "Description Title: Senior ETL Tester Location: Mumbai/Hyderabad/Bengaluru Exp: 8 Years Remote Primary Skills: Strong experience in Data QA / ETL Testing (6 years preferred). Hands-on experience with modern cloud data warehouses, such as: Snowflake BigQuery Redshift Azure Synapse Microsoft Fabric Excellent SQL skills (must-have): Complex joins, window functions, aggregations Query optimization and performance tuning Experience testing ETL/ELT pipelines (e.g., using Airflow, DBT, Informatica, etc…"
+  },
+  {
+    "company": {
+      "display_name": "Datavail Infotech",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "contract_time": "full_time",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 19.00821,
+    "description": "Description Title: Senior ETL Tester with Health Care Location: Mumbai/Hyderabad/Bengaluru Exp: 8 Years Remote Primary Skills: Strong experience in Data QA / ETL Testing (6 years preferred). Hands-on experience with modern cloud data warehouses, such as: Snowflake BigQuery Redshift Azure Synapse Microsoft Fabric Excellent SQL skills (must-have): Complex joins, window functions, aggregations Query optimization and performance tuning Experience testing ETL/ELT pipelines (e.g., using Airflow, DBT,…",
+    "title": "Senior Quality Assurance Engineer",
+    "salary_is_predicted": "0",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5759038035?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1OTAzODAzNSIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.8DRgvI25VnRh-gmkXVx_jRT3esnQWfvAjwk81j3s5lI",
+    "created": "2026-06-11T02:34:31Z",
+    "id": "5759038035",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/2904496884?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "id": "2904496884",
+    "salary_min": 500000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2022-02-17T04:50:37Z",
+    "contract_time": "full_time",
+    "title": "Junior Data Engineer",
+    "description": "We’re building the future of private financial markets Traditionally a space only for the wealthy and well-connected, we believe in a future where private markets are more accessible to investors and fundraisers. By leveling the playing field we hope to create a more equitable economy, where inspiring companies are connected to inspired investors, whoever and wherever they are. Leveraging our trusted brand, global networks and incredible team, we’re building a technology-enabled ecosystem that …",
+    "salary_max": 700000,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiIyOTA0NDk2ODg0In0.FCebfjpqQhUR-4xhARm3tf2iV3wZimfbi-6zioIJ5Yg",
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Fundnel Pte Ltd"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "latitude": 19.00821
+  },
+  {
+    "created": "2026-04-06T02:01:33Z",
+    "id": "5690846898",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5690846898?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5MDg0Njg5OCIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.xx_1k7SgylV5epw29h2oD6viWaj9X8ehDdXapO--xzc",
+    "description": "As a member of the Product and Engineering team at PitchBook, you will be part of a team of big thinkers, innovators and problem solvers who strive to deepen the positive impact we have on our customers and our company every day. We value curiosity and the drive to find better ways of doing things. We thrive on customer empathy, which remains our focus when creating excellent customer experiences through product innovation. We know that greatness is achieved through collaboration and diverse po…",
+    "title": "Software Engineer",
+    "company": {
+      "display_name": "Morningstar",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "contract_time": "full_time",
+    "latitude": 19.00821
+  },
+  {
+    "latitude": 19.00821,
+    "contract_time": "full_time",
+    "company": {
+      "display_name": "Merito",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Senior Director â Strategy (Data & Analytics)",
+    "description": "Senior Director – Strategy (Data & Analytics) The client is a leading media agency who drive more strategic, creative and integrated media approach established to drive better business results. Their team is made up of best in class digital, offline, and integrated media experts who work together to enhance media's contribution to their client's business. Responsibilities of the role: We are looking for a talented Director to join our leadership team and manage the delivery of data engineering …",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM4NjU2MjY1MiIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.UZwjo8KJNwgimEYlZ40-EIvfUOdfTT7CTYpRdiqUm94",
+    "longitude": 72.84415,
+    "redirect_url": "https://www.adzuna.in/details/4386562652?utm_medium=api&utm_source=7cd92d92",
+    "created": "2023-10-22T13:47:53Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "4386562652"
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/5713404938?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMzQwNDkzOCIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.ly9AV9lomJOpORMV6x4XDTbbLfTuyfsIl9_Sq7SRHUI",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_is_predicted": "0",
+    "id": "5713404938",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-04-29T11:51:25Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Credilio Financial Technologies Pvt. Ltd."
+    },
+    "contract_time": "full_time",
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 19.00821,
+    "description": "Job Role: Data Engineer Location: Mumbai, Andheri. WFO(Monday-Friday) Looking for Immediate, 15 days joiner. Required Skills • 3 years of hands-on experience as a Data Engineer. • Strong proficiency in Python and PySpark programming for data engineering tasks. • In-depth knowledge of ETL processes and data pipeline architectures. • Experience with Airflow or Step Functions for orchestration and scheduling. • Solid experience working with AWS services. • Proficiency in building and maintaining C…",
+    "title": "Data Engineer"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5785770842?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NTc3MDg0MiIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.ErPCUd61QJ6JI7ZDH-4pPwu7fy76gD1PMMD0obyDFRI",
+    "longitude": 72.84415,
+    "created": "2026-07-03T00:54:11Z",
+    "id": "5785770842",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Morningstar"
+    },
+    "contract_time": "full_time",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 19.00821,
+    "description": "This job is with Morningstar, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. As a member of the Product and Engineering team at PitchBook, you will be part of a team of big thinkers, innovators and problem solvers who strive to deepen the positive impact we have on our customers and our company every day. We value curiosity and the drive to find better ways of doing things. We thrive on …",
+    "title": "Senior Software Development Engineer"
+  },
+  {
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5MDg1MTQ4NSIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.9G-PnU1oUoUnzgG9iYRkm6qbZ-QqPw0R0gYUkGpDs0Y",
+    "longitude": 72.84415,
+    "redirect_url": "https://www.adzuna.in/details/5690851485?utm_medium=api&utm_source=7cd92d92",
+    "created": "2026-04-06T02:05:28Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5690851485",
+    "latitude": 19.00821,
+    "contract_time": "full_time",
+    "company": {
+      "display_name": "Morningstar",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "description": "As a member of the Product and Engineering team at PitchBook, you will be part of a team of big thinkers, innovators and problem solvers who strive to deepen the positive impact we have on our customers and our company every day. We value curiosity and the drive to find better ways of doing things. We thrive on customer empathy, which remains our focus when creating excellent customer experiences through product innovation. We know that greatness is achieved through collaboration and diverse po…",
+    "title": "Senior Software Development Engineer"
+  },
+  {
+    "latitude": 19.00821,
+    "contract_time": "full_time",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Searce Inc"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Lead Data Engineer",
+    "description": "Lead Data Engineer What are we looking for real solver? Solver? Absolutely. But not the usual kind. We're searching for the architects of the audacious & the pioneers of the possible. If you're the type to dismantle assumptions, re-engineer ‘best practices,’ and build solutions that make the future possible NOW, then you're speaking our language. Your Responsibilities What you will wake up to solve. Lead Technical Design & Data Architecture: Architect and lead the end-to-end development of scal…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NjQyMjY0MyIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.ZV-IzALtS1Hui8Or9N9fqzyO1hiSQS3vD7bH0W9bN0A",
+    "longitude": 72.84415,
+    "redirect_url": "https://www.adzuna.in/details/5696422643?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5696422643",
+    "created": "2026-04-11T11:33:34Z"
+  },
+  {
+    "contract_time": "full_time",
+    "title": "Asst Manager / Manager - Digital Marketing, Mumbai",
+    "salary_max": 1000000,
+    "description": "About Us : ImpactGuru.com, India's leading healthcare financing platform for patients raises money online for medical expenses via crowdfunding. It aggregates a large number of online payments to allow any individual requiring financial assistance to raise funds for medical expenses - be it cancer, transplant, accident, or any medical emergency. ImpactGuru.com has already helped mobilize Rs 1,500 cr / US$200mm via crowdfunding along with its partners. ImpactGuru.com was incubated at Harvard Inn…",
+    "category": {
+      "tag": "pr-advertising-marketing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "PR, Advertising & Marketing Jobs"
+    },
+    "longitude": 72.84415,
+    "redirect_url": "https://www.adzuna.in/details/2792650925?utm_medium=api&utm_source=7cd92d92",
+    "created": "2022-01-06T04:26:15Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 400000,
+    "id": "2792650925",
+    "latitude": 19.00821,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Impact Guru"
+    },
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjc5MjY1MDkyNSIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.7DovYy3r0Tvb15ZgJuJu9sYXVZJC_iy_lNQs9kGH2hY"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjU2Njc3NDk5NSIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.8Ag_MkgW4fPw31JKpBWPK_D-jOWAZm_8YW5puId1Xb8",
+    "salary_is_predicted": "0",
+    "latitude": 19.00821,
+    "company": {
+      "display_name": "Growisto",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 700000,
+    "id": "2566774995",
+    "created": "2021-10-22T05:05:11Z",
+    "longitude": 72.84415,
+    "redirect_url": "https://www.adzuna.in/details/2566774995?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_max": 1200000,
+    "description": "About Us: We are a group of techies, data analysts, digital marketers, and operations professionals who have come together to provide next-generation e-commerce solutions. We help brands & private labels to grow their businesses on platforms such as Amazon and their own website. We love brainstorming ideas on marketing businesses through digital media and utilize technology to execute them further to achieve the desired goals. Current Offerings of Technology Department: Creating scalable and co…",
+    "title": "Business Analyst",
+    "contract_time": "full_time"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjE3MTAzOTk4OSIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.BosrnTz6qnq_wz5R6_5MY5HDRbLP2UsgvVyFJSRAQCc",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Qrata"
+    },
+    "latitude": 19.00821,
+    "id": "2171039989",
+    "salary_min": 1500000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2021-05-08T11:50:51Z",
+    "redirect_url": "https://www.adzuna.in/details/2171039989?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "About the company Qrata is hiring for the company which provides business tools for thecreators to set up paid communities by providing one time and subscription based services. Quick Facts Founded in: 2019 Number of Employees: 11 - 50 Employees Industry: Marketing & Advertising Headquarters: Mumbai Technology Stack: MongoDB, Express, React, Node Full-stack Developer - Job Skills & Responsibilities Work with development teams and product managers to ideate software solutions Design client-side …",
+    "title": "Full-stack Developer",
+    "salary_max": 2300000,
+    "contract_time": "full_time"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Growisto"
+    },
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 19.00821,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiIyOTUzNjYxMjk5In0.aUwUzoiiudBNxGqNp5JweYfOVwBtccB5Fgit9ju_1FM",
+    "salary_is_predicted": "0",
+    "salary_max": 1500000,
+    "description": "About Us: We are a group of 110 techies, data analysts, digital marketers, and operations professionals who have come together to provide next-generation e-commerce solutions. We help brands & private labels to grow their businesses by providing them a scalable and conversion-friendly e-commerce platform using Magento. We love brainstorming ideas on how businesses can utilize technology to achieve their desired goals. Growisto has expertise of providing the below services: 1)Amazon Marketing : …",
+    "title": "Sales Manager",
+    "contract_time": "full_time",
+    "salary_min": 700000,
+    "id": "2953661299",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2022-03-08T05:06:25Z",
+    "redirect_url": "https://www.adzuna.in/details/2953661299?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "category": {
+      "label": "Sales Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "sales-jobs"
+    }
+  },
+  {
+    "company": {
+      "display_name": "Deutsche Bank",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "contract_time": "full_time",
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 19.00821,
+    "title": "APAC CLM (Client Lifecycle Management) - Associate",
+    "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description We are looking for an energetic and self-driven expert with passion for data management and with strong analytical capabilities. The candidate must have the ability to think out of the box, can work independently, and take accountability. As a Business MI Analyst, the candida…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5785773086?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1Nzg1NzczMDg2In0.GPe-5EgXqnuDQkOePseYy-cdmcpM-Vvl3vDjjT3CF-c",
+    "longitude": 72.84415,
+    "created": "2026-07-03T00:54:32Z",
+    "id": "5785773086",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NjkxODYwMzQzIn0.8E0ONXhC_2vUpyz2DbZ49z6_ao8UIQWANfKhy5jOcpA",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Adsremedy Media LLP"
+    },
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 19.00821,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5691860343?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "created": "2026-04-07T11:44:38Z",
+    "id": "5691860343",
+    "salary_min": 300000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "title": "Data Engineer",
+    "salary_max": 1000000,
+    "description": "About the Role: We are seeking a skilled Data Engineer to join our growing AdTech team. In this role, you will design, build, and maintain high-performance ETL pipelines and large-scale data processing systems. You will work with massive datasets and distributed frameworks to power Adsremedy’s data-driven advertising solutions across Programmatic, In-App, CTV, and DOOH platforms. What You’ll Do: Design, develop, and maintain scalable ETL pipelines on self-managed infrastructure Process and opti…"
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/5756755747?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1Njc1NTc0NyIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.hVzxUSC2m_7pCr-3GSwq4iSLPzDspXSdESWf0YEAmJ8",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "id": "5756755747",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-06-09T06:51:54Z",
+    "company": {
+      "display_name": "Morningstar",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 19.00821,
+    "description": "Morningstar DBRS is seeking a Data Team Lead to join the Credit Operations Mumbai Analytics. The Data Team Lead is part of the team responsible for maintaining critical ratings and origination data. In this role, as part of your role you will support analytical teams and initiatives, process transition, automation, and technology innovation. You will assist in project and operations management wherever Mumbai is centrally involved. Responsibilities: Lead a team of Data Research analysts who are…",
+    "title": "Team Lead, Analytical Data Support"
+  },
+  {
+    "description": "Job Responsibilities: Data Pipeline Development : Design, develop, and optimize data pipelines to ingest, process, and transform data from various sources (e.g., APIs, databases, into the data warehouse. Data Integration: Integrate data from various structured and unstructured sources into the Databricks Lakehouse environment, ensuring data accuracy and reliability Data Lakehouse storage Management: Design and maintain data warehouse solutions using medallion architecture practices, optimizing …",
+    "title": "Data Engineer",
+    "company": {
+      "display_name": "Godrej Properties",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 19.00821,
+    "created": "2026-06-11T06:52:26Z",
+    "id": "5759286295",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5759286295?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NzU5Mjg2Mjk1In0.YP5eTddcOiIcgduacisZOeFPUyMg8Ui87jvFHKDNHHk",
+    "longitude": 72.84415
+  },
+  {
+    "latitude": 19.00821,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Godrej Foods"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "title": "Data Engineer",
+    "description": "Data Pipeline Development : Design, develop, and optimize data pipelines to ingest, process, and transform data from various sources (e.g., APIs, databases, into the data warehouse. Data Integration: Integrate data from various structured and unstructured sources into the Databricks Lakehouse environment, ensuring data accuracy and reliability Data Lakehouse storage Management: Design and maintain data warehouse solutions using medallion architecture practices, optimizing storage, cloud utiliza…",
+    "longitude": 72.84415,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1Nzg0NzI3NzA0In0.e_o2RiGZak9roJ9HfhjH8d7jc_3auSME79XE1BTmzSw",
+    "redirect_url": "https://www.adzuna.in/details/5784727704?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5784727704",
+    "created": "2026-07-02T07:17:00Z"
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "company": {
+      "display_name": "Morningstar",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 19.00821,
+    "title": "Associate Language Specialist",
+    "description": "Title : Associate Korean Language Specialist Shift : General The Team : The PitchBook team performs web-based research for private capital markets and also Stock exchange filings for research on public companies. PitchBook's Public Equity Data teams collect, analyze, and maintain comprehensive datasets covering Financial statements, Capital structures, Industry & Normalized Metrics, and Documents Sourcing, Executive insights, Estimates, Transcripts, etc. These teams leverage advanced tools and …",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs",
+      "label": "Accounting & Finance Jobs"
+    },
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5756755689?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibXE3NFJxZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NzU2NzU1Njg5In0.rl6VUmXJUjG1dSvrBZDuYd54KXa2QLZXPDUh4avYarU",
+    "longitude": 72.84415,
+    "created": "2026-06-09T06:51:48Z",
+    "id": "5756755689",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "id": "5397768879",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2025-09-13T23:30:46Z",
+    "redirect_url": "https://www.adzuna.in/details/5397768879?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM5Nzc2ODg3OSIsInMiOiJtcTc0UnFkNDhSRy1jdnZyYTNMLTVRIn0.SjmSNpx7HXbO2e3K9voBJ6Gus3WKlIle2wJFZ4JwMus",
+    "longitude": 72.84415,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "title": "Executive - Performance Metrics & Analytics",
+    "description": "Description Job Title: Executive– Performance Metrics & Analytics Location: Manjari, Pune Department: Operations Key Responsibilities Design, develop, and maintain daily/weekly/monthly MIS reports for operations, finance, sales, and supply chain teams. Automate data processes and report generation using advanced Excel functions, macros, and/or scripts. Prepare dashboards for tracking KPIs such as order fulfillment, inventory movement, vendor performance, and sales trends. Coordinate with cross-…",
+    "company": {
+      "display_name": "Essar Global Fund",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 19.00821
+  }
+]

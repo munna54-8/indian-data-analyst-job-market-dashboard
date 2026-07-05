@@ -1,0 +1,1534 @@
+[
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzIwMTQ4MjYxIn0.AeLiaDstD7g44ap7_sDOw9XM-zetDgAShSotxxJxa6s",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 73.84735,
+    "created": "2026-05-06T10:46:14Z",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5720148261",
+    "title": "Data Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 18.5062,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "AcquireX"
+    },
+    "salary_is_predicted": "0",
+    "description": "Job Title- Data Analyst Experience- 6 plus years. Location- Viman Nagar Pune. Timings- 11 am- 8 pm. Be part of AcquireX team that unleashes the power of leading-edge technologies to help improve e-commerce processes in the e-commerce world. We are looking for a Data Analyst to analyze, transform, and validate data that powers analytics, reporting, and operational decision-making. You will work with multiple data sources and internal systems to ensure data accuracy, consistency, and usability. K…",
+    "redirect_url": "https://www.adzuna.in/details/5720148261?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "longitude": 73.84735,
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1Nzg1NzMyMTg4In0.g4Ur2P-imiWi7dQjRqEB_2ki4IlfzgaHSMy4wokf5Lc",
+    "created": "2026-07-03T00:06:50Z",
+    "title": "Data Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5785732188",
+    "salary_is_predicted": "0",
+    "description": "Job Description Impact - Enable data-driven decisions for leaders for LiveOps events, feature launches, and content updates through dashboards by defining datasets. Track KPIs including and not limited upto - Daily Active Users (DAU), Retention Rate, Churn Rate, ARPU (Average Revenue Per User), and session metrics. Make daily / weekly/monthly reports on player behavior, performance accuracy, engagement, and monetization / revenue trends to improve visibility. Proactively identify patterns, anom…",
+    "redirect_url": "https://www.adzuna.in/details/5785732188?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "Ubisoft",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 18.5062
+  },
+  {
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra"
+    },
+    "longitude": 73.84735,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczNTQ2MzQ1MiIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.ww6Saeb-TZtrVBZo9CShjlvhHlcRRXqeZXrNhi7XDEk",
+    "created": "2026-05-21T02:12:34Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Analyst",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5735463452",
+    "description": "Job Summary - Data Analyst We are looking to hire a data analyst to join our enterprise customer solutions team. As a Data Analyst, one will take responsibility for developing reports, and troubleshooting data issues. To do well in this role you need attention to detail, past experience as a data analyst, and a deep understanding of the popular data analysis tools and databases. Data Analyst Responsibilities: ● Commissioning and decommissioning of data sets. ● Processing confidential data and i…",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5735463452?utm_medium=api&utm_source=7cd92d92",
+    "latitude": 18.5062,
+    "company": {
+      "display_name": "Digital Twin",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data analyst",
+    "id": "5784727356",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "description": "Job Description: We are seeking a talented and motivated Data Analyst to join our team. The ideal candidate will have a passion for data, a strong analytical mindset, and the ability to derive insights that drive business decisions. As a Data Analyst, you will be responsible for collecting, analyzing, and interpreting large datasets to provide actionable insights to various stakeholders across the organization. Key Responsibilities: Data Collection and Cleaning: Collect and clean data from vari…",
+    "redirect_url": "https://www.adzuna.in/details/5784727356?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cars24"
+    },
+    "latitude": 18.5062,
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra"
+    },
+    "longitude": 73.84735,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1Nzg0NzI3MzU2In0.xO0XDu2WY7RdXhjJPwLUiZTfyfv9k0aGkrBzoTiWIMo",
+    "created": "2026-07-02T07:16:47Z"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzU5MjgzNzQxIn0.6Odap8HiLZ6gE3In9pNqbl1KbZRx4i8oEs5iI43sUUc",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 73.84735,
+    "created": "2026-06-11T06:50:59Z",
+    "id": "5759283741",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data analyst",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cars24 Services Private Limited"
+    },
+    "latitude": 18.5062,
+    "redirect_url": "https://www.adzuna.in/details/5759283741?utm_medium=api&utm_source=7cd92d92",
+    "description": "Job description Job Description: We are seeking a talented and motivated Data Analyst to join our team. The ideal candidate will have a passion for data, a strong analytical mindset, and the ability to derive insights that drive business decisions. As a Data Analyst, you will be responsible for collecting, analyzing, and interpreting large datasets to provide actionable insights to various stakeholders across the organization. Key Responsibilities: Data Collection and Cleaning: Collect and clea…",
+    "salary_is_predicted": "0"
+  },
+  {
+    "salary_is_predicted": "0",
+    "description": "We at Reality Premedia pvt ltd is looking for Data Analyst for Pune location. Must have experience in BFSC domain. Exp- Min 3yrs Location- Pune Mandatory Skills- Exp in powerBI/Tableau, SQL Basic Python Skills:- Tableau, PowerBI and Data Analytics",
+    "title": "Data Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "2500155500",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "contract_time": "full_time",
+    "created": "2021-09-29T05:01:45Z",
+    "longitude": 73.84735,
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra"
+    },
+    "redirect_url": "https://www.adzuna.in/details/2500155500?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "Reality Premedia Services Pvt Ltd",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 18.5062,
+    "salary_min": 0,
+    "salary_max": 800000,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjUwMDE1NTUwMCIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.W8Z1dQS2RMFRxLaPsyzzsPICZdKy9XtcWQvfLIry7gk"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Analyst",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5637668857",
+    "description": "Data Analyst - Enterprise Data Management Location: Hyderabad, India About the Role: We are seeking an experienced Data Analyst to join our Enterprise Data Management team, with a core focus on Data Quality, Data Governance, and Master Data Management (MDM). In this role, you will be responsible for analyzing, profiling, and enhancing data within critical enterprise applications, including Salesforce, Oracle ERP, and Marketo. A key part of your responsibilities involves establishing and maintai…",
+    "redirect_url": "https://www.adzuna.in/details/5637668857?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "latitude": 18.5062,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cornerstone onDemand"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 73.84735,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYzNzY2ODg1NyIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.9dsj_kLj0G3P7USCYGNZwmyXwWXy1n15RLeFIno9_Z4",
+    "created": "2026-02-20T13:15:56Z"
+  },
+  {
+    "title": "Data Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5480887283",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "description": "Job Title: Data Analyst Location: Hinjewadi, Pune Experience: 7-10 Years Employment Type: Full-time / On-site Shift Timings: As per US Hours Job Summary: We are seeking an experienced Data Analyst to join our dynamic analytics team. The ideal candidate should possess strong analytical skills, hands-on expertise in HubSpot, R scripting, Python, and cloud platforms (AWS or Azure), along with experience in Data Factory or similar data integration tools. The role involves designing, maintaining, an…",
+    "redirect_url": "https://www.adzuna.in/details/5480887283?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "latitude": 18.5062,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "r3 Consultant"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra"
+    },
+    "salary_min": 1800000,
+    "longitude": 73.84735,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NDgwODg3MjgzIn0.xeTLz9rFrApmIOHIogbJt6UmbOstvI0mpLey0o5pX_8",
+    "salary_max": 2200000,
+    "created": "2025-11-05T00:47:56Z"
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/5769322906?utm_medium=api&utm_source=7cd92d92",
+    "description": "About Fusemachines Founded in 2013, Fusemachines is a global provider of enterprise AI products and services, on a mission to democratize AI. Leveraging proprietary AI Studio and AI Engines, the company helps drive the clients’ AI Enterprise Transformation, regardless of where they are in their Digital AI journeys. With offices in North America, Asia, and Latin America, Fusemachines provides a suite of enterprise AI offerings and specialty services that allow organizations of any size to implem…",
+    "salary_is_predicted": "0",
+    "latitude": 18.5062,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Fusemachines"
+    },
+    "title": "Data Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5769322906",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "contract_time": "full_time",
+    "created": "2026-06-19T17:24:10Z",
+    "longitude": 73.84735,
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2OTMyMjkwNiIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.XzyXa9yApMCy2rddWrEWTre7Hk8YLSTGwVMXyzlDcYA"
+  },
+  {
+    "longitude": 73.84735,
+    "location": {
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1Nzc3MDczODI4In0.lYIV3V9qpmSjBAeGMcX3hk5ipEvRY6xj9QJMmQOljDo",
+    "created": "2026-06-26T07:29:41Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Analyst",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5777073828",
+    "description": "Required Skills & Qualifications: Bachelors degree in Statistics, Mathematics, Computer Science, Economics, or related field 2 years of experience as a Data Analyst or similar role Strong knowledge of SQL, Excel, and data visualization tools (Tableau, Power BI, etc ) Familiarity with Python or R for data analysis is a plus Experience with data warehousing and ETL pipelines is preferred Excellent problem-solving and critical thinking skills Strong communication skills to explain complex data fin…",
+    "redirect_url": "https://www.adzuna.in/details/5777073828?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Webkit24"
+    },
+    "latitude": 18.5062
+  },
+  {
+    "id": "5760748165",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "title": "Data Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Wipzo Systech Private Limited"
+    },
+    "latitude": 18.5062,
+    "salary_is_predicted": "0",
+    "description": "Job description Role: Data Analyst Number of open positions: 5 Location: Pune / Gurgaon/ Bengaluru Must-Have: - 6  years of work experience in large-scale Data applications doing Data Analysis, Data Mapping, Data Modelling and Data Transformations . Experience in Snowflake, Any relational DB Very good Verbal & Written communication & tracking skills Strong SQL , business requirement gatherings , S ource-to-target mappings (STTM) writing Should have exposure to data consolidation, transformation…",
+    "redirect_url": "https://www.adzuna.in/details/5760748165?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzYwNzQ4MTY1In0.BlEcYb-Tpj4waPUQ6KdiouAK7d0vnvutjdPn-Yx9DaQ",
+    "longitude": 73.84735,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ]
+    },
+    "created": "2026-06-12T06:50:30Z"
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/4988851226?utm_medium=api&utm_source=7cd92d92",
+    "latitude": 18.5062,
+    "company": {
+      "display_name": "Millions Advisory",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_min": 500000,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk4ODg1MTIyNiIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.CvP35Wt6sW6qY_2K_vr7cBLUh39o392RwPTcSQTBmPQ",
+    "salary_max": 1700000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Analyst",
+    "id": "4988851226",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "description": "Must have 5-8 years of experience in handling data Must have the ability to interpret large amounts of data and to multi-task Must have strong knowledge of and experience with programming (Python), Linux/Bash scripting, databases(SQL, etc) Must have strong analytical and critical thinking to resolve business problems using data and tech Must have domain familiarity and interest of – Cloud technologies (GCP/Azure Microsoft/ AWS Amazon), open-source technologies, Enterprise technologies Must have…",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ]
+    },
+    "longitude": 73.84735,
+    "created": "2024-12-25T11:57:34Z",
+    "contract_time": "full_time"
+  },
+  {
+    "salary_is_predicted": "0",
+    "description": "Good Opportunity to work with an IT Company. Can Learn new things with out any experience. And many other good thing. Skills: MS Office, Typing and English Proficiency",
+    "redirect_url": "https://www.adzuna.in/details/1155089882?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "TechNex Technologies Private Limited"
+    },
+    "latitude": 18.5062,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Analyst",
+    "id": 1155089882,
+    "category": {
+      "label": "Admin Jobs",
+      "tag": "admin-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "contract_time": "full_time",
+    "created": "2019-05-17T21:02:48Z",
+    "longitude": 73.84735,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxMTU1MDg5ODgyLCJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyJ9.eas5KlPjfZ1t3O1HWMqfQQfL6Qltob5j2yGrqXoKBnQ"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Analyst",
+    "id": "5731966416",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_is_predicted": "0",
+    "description": "Core Skills: Data Product Development, Data Mart design Understanding of Machine Learning / Deep Learning / Time-Series / Optimization Banking Retail, Business & Wholesale Product Knowledge and understanding Communication & Inter-personal skills People Management & Multicultural awareness Technical Skills: Strong skills using Python ( R, SAS, Spark) , SQL, DAX Strong coding skills in a data programming language: Python, R, Java Cloud Data technologies Competencies: Expert-level proficiency in S…",
+    "redirect_url": "https://www.adzuna.in/details/5731966416?utm_medium=api&utm_source=7cd92d92",
+    "latitude": 18.5062,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Allime Tech Solutions"
+    },
+    "location": {
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ]
+    },
+    "longitude": 73.84735,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMTk2NjQxNiIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.eDmrK3-RKYSSk0M1HVmdevHaS9guEyN1QDFwU-1CF5k",
+    "created": "2026-05-17T06:49:57Z"
+  },
+  {
+    "created": "2026-06-24T07:23:38Z",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra"
+    },
+    "longitude": 73.84735,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1Nzc0MjM3ODQ3In0.n_ZgURQ2_G9SfxHaazxCQ6Bj12BRtR4y49D0caCISHg",
+    "description": "Responsibilities: Understanding the reporting requirements and provide valuable advice Continuous optimization and automation of reporting, further development of reporting tools, active management of the reporting portfolio Creation of assigned reports in time and quality Collaboration with international teams Requirements: Must have: Expertise with PowerBI/Tableau or SAP Analytics Cloud (SAC) Expertise with Microsoft Excel, Access, Powerpoint VBA programming skills for Microsoft Excel and Acc…",
+    "redirect_url": "https://www.adzuna.in/details/5774237847?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "latitude": 18.5062,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Caratlane"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Analyst",
+    "id": "5774237847",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "created": "2026-06-24T07:23:38Z",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 73.84735,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3NDIzNzg0OCIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.wi0fG-XzwwBEgEZsMO8-_5pPA3GyimBGfiGwGQ25aew",
+    "description": "Dashboarding (PowerBI, Quicksight etc) - Data preprocessing, cleaning, modelling and deployment experience. Experience in software engineering Requirements engineering Hands on cloud stack experience (preferred aws) Problem solving Good Communication and presentation skills in English Requirements: Understanding of data structures Continuous learning attitude Deep learning hands on experience Building and Deploying the models Automotive data analysis knowhow Front end development and dashboardi…",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5774237848?utm_medium=api&utm_source=7cd92d92",
+    "latitude": 18.5062,
+    "company": {
+      "display_name": "Caratlane",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Data Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5774237848",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMzgzNzY0NCIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.AqO77Sj9kOzu_oy25LqMlqEETEyJHAPxlQAGANhvZ_U",
+    "longitude": 73.84735,
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "contract_time": "full_time",
+    "created": "2025-11-20T00:58:19Z",
+    "contract_type": "contract",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5503837644",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Analyst Intern",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Optimspace"
+    },
+    "latitude": 18.5062,
+    "redirect_url": "https://www.adzuna.in/details/5503837644?utm_medium=api&utm_source=7cd92d92",
+    "description": "Job Title: Data Analyst Intern Company: Optimspace.in Location: Remote Duration: 3 months Opportunity: Full-time based on performance, with a Certificate of Internship Optimspace.in Optimspace.in offers practical experience for students and graduates in data analysis to enhance career prospects and provide hands-on learning opportunities in a real-world environment. Responsibilities Collect, clean, and analyze datasets. Develop reports and data visualizations. Identify trends and patterns in da…",
+    "salary_is_predicted": "0"
+  },
+  {
+    "description": "Description R3 Consultant is looking for a Senior Data Analyst to join our team in Pune. This full-time, on-site position offers an exciting opportunity to delve into data analytics within the staffing and recruiting industry, where your insights will drive strategic decision-making. As a Senior Data Analyst, you will play a pivotal role in analyzing complex datasets to identify trends, patterns, and insights that will enhance our recruitment strategies and improve client outcomes. You will col…",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5543508791?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "r3 Consultant",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 18.5062,
+    "title": "Senior Data Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5543508791",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "contract_time": "full_time",
+    "created": "2025-12-16T02:52:13Z",
+    "longitude": 73.84735,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0MzUwODc5MSIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.UUS-pxHtB-z9hxFscVl99MnjBs06aY7GJ1DRFlzaPZU"
+  },
+  {
+    "longitude": 73.84735,
+    "location": {
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0Mjg0NDQ4MSIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.ER5UqVlRkGM_rlgOB960zhSug2fQLFWJSwr_4PtKNfg",
+    "created": "2026-05-28T06:53:10Z",
+    "title": "Data Analyst, Senior",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5742844481",
+    "description": "At Infor, we embrace Principle Based Management (PBM), a philosophy that empowers employees to leverage their unique strengths and interests to make the greatest contribution. We believe in individualizing roles and responsibilities to match our team members aptitudes and passions. We are looking for an analytical and enthusiastic Senior Data Analyst with a focus on delivering data-driven insights and reporting excellence. This person will play a key role in ensuring the accuracy, performance, …",
+    "redirect_url": "https://www.adzuna.in/details/5742844481?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Infor"
+    },
+    "latitude": 18.5062
+  },
+  {
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra"
+    },
+    "longitude": 73.84735,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0NDI1ODc1MSIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.ovbmR-XUk80jLaeVOG6mvLhxgeFFsFUuGU42J0_23V8",
+    "created": "2026-05-29T10:13:17Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Lead Data Analyst",
+    "id": "5744258751",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "As a Lead Data Analyst here at Honeywell, you will lead the design, development, and implementation of data solution architecture that supports our business objectives. Your role will involve creating and optimizing data models, ensuring data quality, and integrating data from various sources to provide actionable insights and ensuring seamless connectivity with enterprise systems such as SAP and historical storage systems. You will play a crucial role in advancing our data-driven decision-maki…",
+    "redirect_url": "https://www.adzuna.in/details/5744258751?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Honeywell"
+    },
+    "latitude": 18.5062
+  },
+  {
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 73.84735,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyOTY3NzQ1MiIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.Uxj4_xDZUe0TtMOzyJb-O1utOICYi2j7-CkEAHdUc58",
+    "created": "2026-05-15T02:13:52Z",
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Hiring for Data Analyst",
+    "id": "5729677452",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5729677452?utm_medium=api&utm_source=7cd92d92",
+    "description": "Job Description: We’re seeking a seasoned Data Analyst to manage the accuracy, structure, and integrity of the Management Library dataset. You’ll oversee data consistency across companies, executives, and industries. The role requires both strategic thinking and hands-on data management— perfect for someone who enjoys ensuring structured precision in complex, high-volume datasets. You’ll collaborate across engineering, and operation teams to ensure every profile, transcript, and company in our …",
+    "salary_is_predicted": "0",
+    "company": {
+      "display_name": "RECEX",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 18.5062
+  },
+  {
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 73.84735,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzgwODMwODI0In0.CuvgXaO5jiZTjKjhOdIn5ExPIXG06ChzGfk4hbBHPvg",
+    "created": "2026-06-29T10:33:09Z",
+    "title": "Data Analyst 2",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5780830824",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "description": "Requisition number: 2359453 Job category: Business & Data Analytics Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make a…",
+    "redirect_url": "https://www.adzuna.in/details/5780830824?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "UnitedHealth Group"
+    },
+    "latitude": 18.5062
+  },
+  {
+    "latitude": 18.5062,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Saama Technologies"
+    },
+    "redirect_url": "https://www.adzuna.in/details/1171507819?utm_medium=api&utm_source=7cd92d92",
+    "salary_max": 1200000,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxMTcxNTA3ODE5LCJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyJ9._3yalpsOQxuLzAg19rRfCkNvN_K_waUWibegjA0cyW0",
+    "salary_min": 100000,
+    "salary_is_predicted": "0",
+    "description": "Description Requirements: Overall experience of 10 years with minimum 6 years data analysis experience MBA Finance or Similar background profile Ability to lead projects and work independently Must have the ability to write complex SQL, doing cohort analysis, comparative analysis etc . Experience working directly with business users to build reports, dashboards and solving business questions with data Experience with doing analysis using Python and Spark is a plus Experience with MicroStrategy …",
+    "id": 1171507819,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "Sr. Data Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "created": "2019-06-05T21:12:11Z",
+    "longitude": 73.84735,
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "longitude": 73.84735,
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzQyNTc2MDYwIn0.kXvXA5D2ipGtRUkwYQEMd3jfeL1H3dLzhDKTV0m57_U",
+    "contract_time": "full_time",
+    "created": "2026-05-28T02:21:22Z",
+    "title": "Environmental Data Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5742576060",
+    "category": {
+      "label": "Scientific & QA Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "scientific-qa-jobs"
+    },
+    "description": "Description Purpose of Job Primary Purpose of Job: • Stantec is seeking qualified individuals to perform field and laboratory environmental data management and data reviews as a part of the Environmental Remediation. Stantec conducts environmental site assessments and the remediation of contaminated land across the globe. These projects typically involve the collection of soil, ediment, surface water, groundwater, and air samples for laboratory analysis to evaluate general chemistry, as well as…",
+    "redirect_url": "https://www.adzuna.in/details/5742576060?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "latitude": 18.5062,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Stantec"
+    }
+  },
+  {
+    "company": {
+      "display_name": "Capco",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 18.5062,
+    "description": "About Us Capco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount. With our presence across 32 cities across globe, we support 100 clients across banking, financial and Energy sectors. We are recognized for our deep transformation execution and delivery. WHY JOIN CAPCO You will work on engaging projects with the largest inte…",
+    "redirect_url": "https://www.adzuna.in/details/5756753998?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "id": "5756753998",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "Senior Data Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-06-09T06:50:40Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1Njc1Mzk5OCIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.cSwdFyk0uoGQj8GCVRuweP0yJ_HGjRLQoPMYP47ffuo",
+    "longitude": 73.84735,
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra"
+    }
+  },
+  {
+    "created": "2026-05-28T10:28:24Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzQzMDM2NTM4In0.xK3K32OY4oOB7PrupwSDBMKvlSLF2OVLbAS4I7mQ5yE",
+    "location": {
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ]
+    },
+    "longitude": 73.84735,
+    "latitude": 18.5062,
+    "company": {
+      "display_name": "Stantec",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Stantec is a global leader in sustainable engineering, architecture, and environmental consulting. The diverse perspectives of our partners and interested parties drive us to think beyond what's previously been done on critical issues like climate change, digital transformation, and future-proofing our cities and infrastructure. We innovate at the intersection of community, creativity, and client relationships to advance communities everywhere, so that together we can redefine what's possible. …",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5743036538?utm_medium=api&utm_source=7cd92d92",
+    "id": "5743036538",
+    "category": {
+      "tag": "scientific-qa-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Scientific & QA Jobs"
+    },
+    "title": "Environmental Data Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NDU4OTUzNjcyIn0.5ASn9a1m9iDh89tOjCIMKq82qMUwecVVn1S4E7j1s8k",
+    "longitude": 73.84735,
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "contract_time": "full_time",
+    "created": "2025-10-22T14:52:04Z",
+    "id": "5458953672",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Analyst-Data Management and Analytics-Data Ops/Data Analyst",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "EXL"
+    },
+    "latitude": 18.5062,
+    "description": "Description 5 - 9 years of professional experience as a Data Analyst with good decision-making, analytical and problem-solving skills. Working knowledge / experience of Big Data frameworks like Hadoop, Hive and Spark. Hands-on experience in query languages like HQL or SQL (Spark SQL) for Data exploration. Data mapping: Determine the data mapping required to join multiple data sets together across multiple sources. Documentation - Data Mapping, Subsystem Design, Technical Design, Business Requir…",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5458953672?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "contract_type": "permanent",
+    "id": "5755042899",
+    "category": {
+      "tag": "manufacturing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Manufacturing Jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Require a Data Analyst in Pune",
+    "company": {
+      "display_name": "TestHiring",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 18.51875,
+    "redirect_url": "https://www.adzuna.in/details/5755042899?utm_medium=api&utm_source=7cd92d92",
+    "description": "Execute key project tasks in alignment with team and organizational goals Collaborate with cross-functional teams to ensure seamless workflow and communication Monitor and report on performance metrics to support data-driven decision-making Maintain accurate records and documentation to ensure compliance and transparency Identify process improvements and implement solutions to enhance productivity Requirements Qualifications: Bachelor’s Degree Experience: Experienced Strong organizational and t…",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzU1MDQyODk5In0.WKtiATd6o2LQ_D791BlycAuvRd4vqhf4Mxmq-VhH3gY",
+    "longitude": 73.88075,
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune",
+        "Yerwada"
+      ],
+      "display_name": "Yerwada, Pune",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "created": "2026-06-07T08:43:18Z"
+  },
+  {
+    "company": {
+      "display_name": "Calderys Group",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 18.5062,
+    "description": "Description Mission The Associate Data Analyst – Customer Master Data is responsible for monitoring and analyzing existing customer master data across multiple systems to ensure its accuracy, consistency, and compliance with governance standards. Working closely with Data Governance, Business Process Owners, and IT teams, this new role plays a key part in maintaining high-quality customer data that supports operational efficiency and reliable business reporting. Responsabilities Monitor and rev…",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5770932122?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5770932122",
+    "title": "Customer Master Data Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-06-21T02:26:40Z",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzcwOTMyMTIyIn0.IGU3tozpXSxCK7HPh3CGI_XVdG7YaWkhIsz8xu0npFI",
+    "location": {
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ]
+    },
+    "longitude": 73.84735
+  },
+  {
+    "company": {
+      "display_name": "Cummins",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 18.5062,
+    "redirect_url": "https://www.adzuna.in/details/5787269652?utm_medium=api&utm_source=7cd92d92",
+    "description": "Description Job Summary: The IT Systems Engineer Senior is responsible for providing technical leadership in data analysis, data quality, and SAP data migration initiatives supporting enterprise-wide digital transformation programs. This role combines deep expertise in SAP S/4HANA data migration, governance, and quality with strong analytical capabilities to deliver accurate, reliable, and business-ready data across complex technology landscapes. The successful candidate will lead end-to-end da…",
+    "salary_is_predicted": "0",
+    "id": "5787269652",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "P2B - Data Analyst Principal",
+    "created": "2026-07-04T02:44:07Z",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1Nzg3MjY5NjUyIn0.UA2q-vHFoCLBKK2cFkL1v85_Tx4yC9_tWi5Tg9A4Ne0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ]
+    },
+    "longitude": 73.84735
+  },
+  {
+    "category": {
+      "label": "PR, Advertising & Marketing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "pr-advertising-marketing-jobs"
+    },
+    "id": "5742843307",
+    "title": "Senior Marketing Data Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Avalara Technologies"
+    },
+    "latitude": 18.5062,
+    "description": "Analyze Marketing Data Support Campaign Targeting : Collect, interpret, and analyze data from various marketing channels to identify trends, patterns, and actionable insights. Support marketing teams by providing different lists with the right targeting criteria for campaigns (outbound, digital, and email marketing). Collaborate with Teams : Work closely with Sales, Marketing, Strategy, and Customer Success teams to understand data needs and provide analytical solutions. Campaign Evaluation Opt…",
+    "redirect_url": "https://www.adzuna.in/details/5742843307?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0Mjg0MzMwNyIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.2_DlI1UEbKc4rKsjdYW3M-d_savDeGMHPQvPtJ6ZyB4",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ]
+    },
+    "longitude": 73.84735,
+    "created": "2026-05-28T06:52:26Z"
+  },
+  {
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune",
+        "Nana Peth"
+      ],
+      "display_name": "Nana Peth, Pune",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 73.864,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1Nzg1NTk4MzM3In0.MRDO6RNOLfHYUkGp0LJ9q7iK5Woug82rlQFY77upGY4",
+    "created": "2026-07-02T20:36:05Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Senior Data Analyst – Visualization & Data Engineering",
+    "id": "5785598337",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "contract_type": "permanent",
+    "description": "? Hiring Alert | Senior Data Analyst – Visualization & Data Engineering ? ? Location: Pune ? Role: Senior Data Analyst – Visualization & Data Engineering ? Experience: 7–10 Years We are looking for an experienced Senior Data Analyst with expertise in data visualization, data engineering, analytics, and business intelligence solutions. Requirements • Strong experience in Data Visualization using Power BI, Tableau, or similar BI tools • Hands-on experience in Data Engineering, ETL, and data pipel…",
+    "redirect_url": "https://www.adzuna.in/details/5785598337?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "latitude": 18.51292,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Vrinda International"
+    }
+  },
+  {
+    "salary_min": 150000,
+    "location": {
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ]
+    },
+    "longitude": 73.84735,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MzIwNzI3NCIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.irBN808ls5FjluKtDjn-LPRsjpsnjLsAdZghNK6Mm4M",
+    "salary_max": 200000,
+    "created": "2026-06-14T10:08:22Z",
+    "title": "Data Analyst IV | (1511,8718)",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5763207274",
+    "salary_is_predicted": "0",
+    "description": "Roles and responsibilities : The Data Analyst is responsible for supporting procurement transformation projects through data migration, cleansing, validation, and loading activities. The role involves working with systems such as Ariba and Fieldglass, ensuring data is accurately prepared and integrated for testing, cutover, and operational use.",
+    "redirect_url": "https://www.adzuna.in/details/5763207274?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "We Search"
+    },
+    "latitude": 18.5062
+  },
+  {
+    "longitude": 73.84735,
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MDI1MjQxNCIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.YdITBwrQinQCKr31hfXDEyp5kqmWKa4k9_npi60Oj-0",
+    "created": "2026-06-20T11:02:31Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Technical Data Analyst -Vice President",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5770252414",
+    "description": "Job Description: The Technical Data Analyst is a senior-level position responsible for bridging the gap between complex business requirements and technical data solutions, leveraging advanced analytical and technical skills to develop data-driven solutions, with a focus on regulatory reporting and liquidity risk initiatives. This role will liaise extensively with business stakeholders and technology teams to articulate data needs, extract insights, and ensure data quality and integrity. Respons…",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5770252414?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Citigroup"
+    },
+    "latitude": 18.5062
+  },
+  {
+    "created": "2026-07-03T03:00:03Z",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 73.84735,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NjAzMjE0NyIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.72Q7rBhSPfPoofGDUM7IVJX2-jjMsXRGzRDNN9fH7DE",
+    "description": "Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the edge of the Internet. The platform is designed to take advantage of the modern internet, to be programmable, and to support agile software development. Fastly’s customers include many of the world’s mo…",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5786032147?utm_medium=api&utm_source=7cd92d92",
+    "latitude": 18.5062,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Fastly"
+    },
+    "title": "Senior Data Analyst, Sales Analytics",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "sales-jobs",
+      "label": "Sales Jobs"
+    },
+    "id": "5786032147"
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ]
+    },
+    "longitude": 73.84735,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1Nzc4Njk1MjA1In0.y7ll_hSk0F0_soF-toAsIOgdqfCM8ze5cMiRF_GOx7I",
+    "created": "2026-06-27T10:28:48Z",
+    "title": "Senior QA/QC Data Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5778695205",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5778695205?utm_medium=api&utm_source=7cd92d92",
+    "description": "Company Overview Check out this video and find out why our team loves to work here! (https://www.cdmsmith.com/resources/videos/meet-cdm-smith) Join Us! CDM Smith - where amazing career journeys unfold. Imagine a place committed to offering an unmatched employee experience. Where you work on projects that are meaningful to you. Where you play an active part in shaping your career journey. Where your co-workers are invested in you and your success. Where you are encouraged and supported to do you…",
+    "salary_is_predicted": "0",
+    "latitude": 18.5062,
+    "company": {
+      "display_name": "CDM Smith",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "created": "2026-05-20T07:07:37Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzM0NjQ4Mjk5In0.1ZFiUmajf8y9GBfN1dzspnne1kOXYWRAyCDuwfdfIU0",
+    "longitude": 73.84735,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ]
+    },
+    "latitude": 18.5062,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Gallagher Service Center LLP"
+    },
+    "description": "Overview Gallagher Center of Excellence is seeking to hire a Data Analytics professional for the GCoE Business Enablement vertical. You will be responsible for analyzing complex data sets to provide actionable insights that drive business decisions. You will manage the collection, processing, and analysis of data to support strategic initiatives and improve operational efficiency. We are looking for someone who is very strong in MS Excel and Access, possesses good communication skills, and has …",
+    "redirect_url": "https://www.adzuna.in/details/5734648299?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5734648299",
+    "title": "Senior Analyst - Business Intelligence (Data Analyst)",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "latitude": 18.5062,
+    "company": {
+      "display_name": "Cognyte",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5720619485?utm_medium=api&utm_source=7cd92d92",
+    "description": "Today’s world is crime-riddled. Criminals are everywhere, invisible, virtual and sophisticated. Traditional ways to prevent and investigate crime and terror are no longer enough… Technology is changing incredibly fast. The criminals know it, and they are taking advantage. We know it too. For nearly 30 years, the incredible minds at Cognyte around the world have worked closely together and put their expertise to work, to keep up with constantly evolving technological and criminal trends, and hel…",
+    "salary_is_predicted": "0",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5720619485",
+    "title": "Data Forensic Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "created": "2026-05-06T20:52:40Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyMDYxOTQ4NSIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.hCXILU98_zmNH_Km4BZzLe_xxGPL-wEpbbP1c2ASxmo",
+    "longitude": 73.84735,
+    "location": {
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ]
+    }
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/5734799342?utm_medium=api&utm_source=7cd92d92",
+    "description": "We are seeking a technically strong and operationally focused Vice President to join our Wealth Management Technology team in Chennai. This role is centered on the ownership and management of core operational data across one or more of the following critical domains: client and account data, financial data, and documents data . You will be responsible for ensuring that the data underpinning our wealth management operations is accurate, timely, complete, and fit for purpose across all consuming …",
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Citigroup"
+    },
+    "latitude": 18.5062,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Wealth Technology Lead Data Analyst - Vice President",
+    "id": "5734799342",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2026-05-20T10:07:13Z",
+    "location": {
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ]
+    },
+    "longitude": 73.84735,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczNDc5OTM0MiIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.X9vh1OVwa8o5o7vslsquigkQHaFMoT3Zckf6QX0Ckj4"
+  },
+  {
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra"
+    },
+    "longitude": 73.84735,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzU0ODA5MzEwIn0.0aj1FrsFfk1_A-3efSDG-4n-NDTyWLnA8k-eyrmEMYE",
+    "created": "2026-06-07T02:24:39Z",
+    "contract_time": "full_time",
+    "title": "Data Analyst - Data Analysis and Methods Development (Digital Tire Diagnosis & TPMS)",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5754809310",
+    "description": "Role Data Analyst – Data Analysis and Methods Development (Digital Tire Diagnosis & TPMS) Visit our website bmwtechworks.in to know more. Follow us on LinkedIn I Instagram I Facebook I X for the exciting updates. About the UNIT/ Unit Overview Digital Product Engineering Location Pune Experience:  3 Number of openings 1 What awaits you/ Job Profile Be at the forefront of digital product analytics in a global automotive leader, shaping how data powers tire diagnostics and TPMS systems. Work with …",
+    "redirect_url": "https://www.adzuna.in/details/5754809310?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "latitude": 18.5062,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "BMW TechWorks India"
+    }
+  },
+  {
+    "contract_time": "full_time",
+    "created": "2026-05-13T02:04:27Z",
+    "longitude": 73.84735,
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNzE0MDEzNSIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.aHOWRyiW77lKVUkQj9sOknCtQ9ZJGw7EcWSzmg56eVg",
+    "description": "Job Description: Data Management Analyst We are a leading online retailer that offers a wide range of products and services to our customers. We are looking for a data management analyst to join our team and help us organize and optimize our data assets. You will be responsible for managing the flow of data from various sources, ensuring its quality and consistency, and transforming it into meaningful insights for our business. As a data management analyst, you will: Collect, integrate, validat…",
+    "redirect_url": "https://www.adzuna.in/details/5727140135?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "company": {
+      "display_name": "Highrise Solutions LLP",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 18.5062,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Management Analyst",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5727140135"
+  },
+  {
+    "created": "2026-04-24T09:19:34Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwOTA1NjgzMSIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.tOgBckpSx-JHXVwCVw99YPePOhkqX6nYpF6NeAQgyS8",
+    "longitude": 73.84735,
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra"
+    },
+    "latitude": 18.5062,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "SAS"
+    },
+    "salary_is_predicted": "0",
+    "description": "Data Integration Analyst Job Roles Summary • As a Systems Developer for the Delivery Services team in SAS’s Cloud and Information Services (CIS) division, a person should be responsible for Delivery Integration Services in our hosted environments. • Should work collaboratively with customers, analysts, developers, and implementation team members to deliver world class SAS service. • Should leverage deep technical skillset and knowledge to provide technical leadership, guidance, and support for …",
+    "redirect_url": "https://www.adzuna.in/details/5709056831?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5709056831",
+    "title": "Data Integration Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 18.5062,
+    "redirect_url": "https://www.adzuna.in/details/4686704749?utm_medium=api&utm_source=7cd92d92",
+    "description": "End to end research on the given specifications.Intensive research on research portals.The candidate must possess a minimum typing speed of 20 WPM.Experience of 1-3 years.Competitive Salary and bonus.",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "id": "4686704749",
+    "title": "Data Research Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2024-05-10T07:38:50Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI0Njg2NzA0NzQ5In0.rdzUgKyMJ56w5NrrRD6WIUHmoKcMf5baEumTd22q-uo",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra"
+    },
+    "longitude": 73.84735
+  },
+  {
+    "salary_min": 3000000,
+    "salary_max": 3200000,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0NzIyNDI0OCIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.U7RPrOL1G6Ppj5gOSoLy54TNIsI0FO4iCEziefpjh0Y",
+    "redirect_url": "https://www.adzuna.in/details/5747224248?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "Staffnixcom",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 18.5062,
+    "contract_time": "full_time",
+    "created": "2026-06-01T12:52:10Z",
+    "longitude": 73.84735,
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra"
+    },
+    "description": "Must have 3 years of experience in Data Analytics / Data Analysis roles Mandatory (Experience 2) – Strong hands-on expertise in SQL, Advanced Excel, Tableau, and Power BI Mandatory (Experience 3) – Proven experience in data extraction, data cleaning, transformation, dashboarding, and reporting Mandatory (Core Skills) – Expertise in SQL, Data Analysis, Data Visualization, Reporting, Statistical Analysis, Data Validation, and Dashboard Creation Mandatory (Technical Skills) – Strong understanding …",
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Senior Data Analyst Top b2c product company only",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5747224248"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2ODk5NjUyNiIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.eg7n64RyJBJVLnXnHImto0prJycklNcJ4ljbAB64M8A",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ]
+    },
+    "longitude": 73.84735,
+    "created": "2026-06-19T10:25:37Z",
+    "id": "5768996526",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Associate Data Dictionary Analyst",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Comscore"
+    },
+    "latitude": 18.5062,
+    "redirect_url": "https://www.adzuna.in/details/5768996526?utm_medium=api&utm_source=7cd92d92",
+    "description": "comScore is seeking an energetic, analytically and technically savvy person for Digital Media Intelligence (DMI) team in India. DMI team is an integral part of this leading Market Research Company specializing in tracking Digital Media. Its primary function is to performing Data Analysis, Review, QA, Products release and working with Comscore Dictionary databases. The group provides comprehensive hierarchical definitions on how all internet media are classified, allowing for competitive compari…",
+    "salary_is_predicted": "0"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "SAP Data Archive Analyst",
+    "id": "5742848509",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "description": "Job Summary: The Data Archive Analyst is responsible for optimizing SAP system performance and ensuring compliance with data retention policies through SAP data archiving projects. Collaborates with business and global compliance teams to manage ECC data archiving, decommissioning, and destruction activities. Leverages expertise in SAP frameworks, ArchiveLink, SAP ILM, and OpenText document management to enhance archiving processes across SAP environments, including ECC and S/4HANA. Applies ABA…",
+    "redirect_url": "https://www.adzuna.in/details/5742848509?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "World Courier"
+    },
+    "latitude": 18.5062,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ]
+    },
+    "longitude": 73.84735,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0Mjg0ODUwOSIsInMiOiJadV90WGFkNDhSR3c5OURTQndhSXl3In0.nnHrcsSwHeffHxVq-_oK_tCEqVa2Oznk8NGypiEk9Q4",
+    "created": "2026-05-28T06:55:45Z"
+  },
+  {
+    "title": "Portfolio Data Operations Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5753601326",
+    "description": "Who We Are Addepar is a global data and AI platform empowering investment professionals to turn complex financial information into actionable intelligence. Addepar unifies portfolio, market and client data in a total portfolio view and delivers AI-powered insights within investment and client workflows. More than 1,400 firms in nearly 60 countries use Addepar to manage and advise on nearly $9 trillion in assets. Its open platform integrates with nearly 650 software, data and consulting partners…",
+    "redirect_url": "https://www.adzuna.in/details/5753601326?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "latitude": 18.5062,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Addepar"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra"
+    },
+    "longitude": 73.84735,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzUzNjAxMzI2In0.51_HKqWAfIBlL_1BagqdqQj4aO_znUiTWHFcD7s5suI",
+    "created": "2026-06-06T02:27:11Z"
+  },
+  {
+    "created": "2026-02-12T01:29:46Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NjI0NjgwMTI1In0.DQeV5HKP0LSksuFEm0FYY1hl91OstOwz9qXYuI3ZxpQ",
+    "longitude": 73.84735,
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra"
+    },
+    "company": {
+      "display_name": "Addepar",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 18.5062,
+    "redirect_url": "https://www.adzuna.in/details/5624680125?utm_medium=api&utm_source=7cd92d92",
+    "description": "Who We Are Addepar is a global data and AI platform empowering investment professionals to turn complex financial information into actionable intelligence. Addepar unifies portfolio, market and client data in a total portfolio view and delivers AI-powered insights within investment and client workflows. More than 1,400 firms in nearly 60 countries use Addepar to manage and advise on nearly $9 trillion in assets. Its open platform integrates with nearly 650 software, data and consulting partners…",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "Accounting & Finance Jobs",
+      "tag": "accounting-finance-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5624680125",
+    "title": "Alts Data Operations Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "description": "In this role you should be responsible for the design, development, and implementation of SAP solutions for data migration within the supply chain domain. This role requires strong technical expertise in SAP modules, leadership skills to guide a team of Technical Engineers and the ability to collaborate with business stakeholders to deliver scalable and efficient solutions. Key Responsibilities  Should take complete ownership for the ETL process for data migration for MM, PP, WM, and SD SAP mod…",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5744258755?utm_medium=api&utm_source=7cd92d92",
+    "latitude": 18.5062,
+    "company": {
+      "display_name": "Honeywell",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Sr Data Management Analyst",
+    "id": "5744258755",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "created": "2026-05-29T10:13:17Z",
+    "longitude": 73.84735,
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzQ0MjU4NzU1In0.7OFQ1OXtLVwsEGZYpH9MSTLlwvxs9uc75jg46Jb1-k4"
+  },
+  {
+    "longitude": 73.84735,
+    "location": {
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWnVfdFhhZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzU5MTkzMDQ4In0.XaTNX9W16PFkxDUkJ09OB-Bhi_Q8CKvRNMoix-MyJvs",
+    "created": "2026-06-11T04:11:18Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Sales & Commission Data Governance Analyst",
+    "category": {
+      "tag": "accounting-finance-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Accounting & Finance Jobs"
+    },
+    "id": "5759193048",
+    "description": "Job Description Role Overview The Sales & Commission Data Governance Analyst is the custodian of CRM opportunity data used for Sales Incentive Plan (SIP) calculations and decisions. This role is responsible for ensuring that all sales opportunities are accurately reviewed, validated, and governed in line with approved SIP rules, policies, and commercial definitions before they are deemed eligible for commission credit. Acting as the control point between CRM, Revenue Intelligence, and SIP execu…",
+    "redirect_url": "https://www.adzuna.in/details/5759193048?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "latitude": 18.5062,
+    "company": {
+      "display_name": "NielsenIQ",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  }
+]

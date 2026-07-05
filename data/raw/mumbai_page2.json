@@ -1,0 +1,1546 @@
+[
+  {
+    "created": "2025-04-19T01:46:46Z",
+    "description": "Program Management Associate (PMA) would work closely with the Program Lead. She/he will be accountable for data management, data cleaning, data analysis, reviewing progress, research, and reporting internally all program communications, data management, and analytics. She/he will also be responsible for: Support the Program Lead for program activities data management Support program reporting across multiple thematic areas, Support Finance, Human Resource (HR) and other support function in pro…",
+    "longitude": 72.8711,
+    "id": "5152372775",
+    "redirect_url": "https://www.adzuna.in/details/5152372775?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "TechnoServe"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Admin Jobs",
+      "tag": "admin-jobs"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Kurla, Mumbai",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai",
+        "Kurla"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "latitude": 19.05656,
+    "title": "Data Analyst - Senior Associate PMA",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1MTUyMzcyNzc1In0.zW-rk8spMmeyJtZPwvPGqoLvirj4bVRGiztfP0o4cV8"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5776750983?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "CSB Bank"
+    },
+    "created": "2026-06-26T02:33:19Z",
+    "description": "Description To support the Wholesale Banking Portfolio Manager by delivering accurate, timely, and actionable data insights that enable effective portfolio monitoring, regulatory compliance, performance tracking and strategic decision-making. Responsibilities Assist in gathering, organizing, and preparing data required for timely and accurate reporting to regulatory bodies (e.g., RBI) and auditors. Support internal compliance efforts by ensuring data accuracy and contributing to audit readiness…",
+    "id": "5776750983",
+    "longitude": 72.84415,
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "latitude": 19.00821,
+    "title": "Data Analyst – Wholesale Banking| Mumbai",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3Njc1MDk4MyIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.fkMKyx2CwJF6b0PrH3786Rz-Gov5kXcgOKKBGmUnXxM",
+    "contract_time": "full_time",
+    "category": {
+      "label": "Accounting & Finance Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs"
+    }
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzMyMTQ2ODkwIn0.8ZG1ncN315xOMovqRpoyjm_fTq6rovvXYf54COoa8gY",
+    "latitude": 19.00821,
+    "title": "AVP- Data Analyst- Client Reporting",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "label": "Accounting & Finance Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Citigroup"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5732146890?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "id": "5732146890",
+    "description": "The Finance Client team is responsible for reporting client efficiency across Citigroup. The team concentrates on developing effective measures of client return on capital, which is a key area of focus for Citi's Executive Management Team. This is a global function that advises Citi's leadership on the effective distribution and utilization of capital by client. We are hiring an Assistant Vice President in our Mumbai office to lead our efforts to drive process efficiency. In this role you will …",
+    "created": "2026-05-17T10:03:13Z"
+  },
+  {
+    "category": {
+      "tag": "sales-jobs",
+      "label": "Sales Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNzI0ODA1MCIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.gehUi4LbKjBvwNmy6XEeX-VFDs7tMBjW4oVVKzvwAOs",
+    "contract_time": "full_time",
+    "title": "Hiring for leading companies - Sales Data Analyst",
+    "latitude": 19.00821,
+    "created": "2026-05-13T02:14:17Z",
+    "id": "5727248050",
+    "longitude": 72.84415,
+    "description": "Job Description: Role : Sales Data Analyst Role Purpose: Contributing to growth in sales by delivering powerful insights based on sales data analysis 1. Data Analysis 2. Adept in excel and equivalent tools (Reporting/analytics features) TRAITS IDENTIFIED FOR THE POSITION: 1. Command 2. Precision 3. Responsiveness KNOWLEDGE: 1. Business Intelligence 2. BI tools Pre-requisites: Degree in business administration, finance, or marketing. Experience in sales analysis 3-5 years Strong research and dat…",
+    "redirect_url": "https://www.adzuna.in/details/5727248050?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Acura Solution",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDEwOTIyMDkzNCIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.eBms6ZazGBcIaBV5BLGnInPU8RBsTE7v23JcXNCauJo",
+    "contract_time": "full_time",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Media.net",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "title": "Data Operations Analyst",
+    "latitude": 19.00821,
+    "salary_min": 200000,
+    "redirect_url": "https://www.adzuna.in/details/4109220934?utm_medium=api&utm_source=7cd92d92",
+    "salary_max": 350000,
+    "created": "2023-05-20T17:39:18Z",
+    "description": "Kindly note that candidates who have graduated in 2022 and 2023 only will be considered for the role who are based in Mumbai, immediate joiners JD - Data Operations Analyst What is the job and team like As a Data Operations Analyst we manage business reporting of numerous teams, constantly monitor performance Checking the integrity of the revenue reporting done by the different systems for the correct profitability to be reported to the CXOs Send reports periodically and alert stakeholders for …",
+    "longitude": 72.84415,
+    "id": "4109220934"
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzU2NzU1NjkxIn0.t7NSCCgUlP0j_Eoyi2JSlEttngNYB1quWd1t_hXWQ1U",
+    "title": "Data Research Analyst",
+    "latitude": 19.00821,
+    "created": "2026-06-09T06:51:48Z",
+    "longitude": 72.84415,
+    "id": "5756755691",
+    "description": "Job Description Role : Data Research Analyst Location : Hybrid (Remote & In-Person) About the Company : Morningstar is one of the world's largest independent sources of data, research, and analysis for funds, equities, credit, and more. We provide in-depth insights on individual securities, markets, funds, portfolios, and a broad range of investment vehicles. Morningstar also offers real-time global market data across various asset classes such as equities, commodities, and foreign exchange mar…",
+    "redirect_url": "https://www.adzuna.in/details/5756755691?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Morningstar",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/4526099582?utm_medium=api&utm_source=7cd92d92",
+    "salary_max": 1200000,
+    "created": "2024-01-15T15:12:38Z",
+    "description": "1. Bridging the gap between IT and the business using data analytics to assess processes, determine requirements and deliver data-driven recommendations and reports to executives and stakeholders. 2. Ability to search, extract, transform and load data from various databases, cleanse and refine data until it is fit-for-purpose 3. Work within various time constraints to meet critical business needs, while measuring and identifying activities performed and ensuring service requirements are met 4. …",
+    "longitude": 72.84415,
+    "id": "4526099582",
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "title": "Data Science Analyst",
+    "latitude": 19.00821,
+    "salary_min": 800000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Fatakpay",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI0NTI2MDk5NTgyIn0.1atBctco-ELGUAlTKnmtl4FSaqESYlD5t4mrJYSqv00",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3NjI1ODgzNyIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.qyfaM-Uz_C4_jsx0GOh1WqUO_ub-P6MH3pl_9UsFAMo",
+    "title": "Assistant Manager/ Manager - Actimize SAM Implementation Analyst",
+    "latitude": 19.00821,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/land/ad/5776258837?se=KGegRKd48RG-2tHAxNAnZQ&utm_medium=api&utm_source=7cd92d92&v=2F239C81C00A7B1221F517005CDC8236FDC6F730",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Three Across",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-06-25T18:53:42Z",
+    "longitude": 72.84415,
+    "id": "5776258837",
+    "description": "Role: Actimize SAM Implementation Specialist (AML | Actimize SAM | SQL | Implementation) Location: Mumbai We are looking for a skilled Actimize SAM Implementation Specialist to join a high-performing AML technology team focused on implementing and enhancing Suspicious Activity Monitoring (SAM) solutions using Actimize. The role involves end-to-end implementation, configuration, and optimization of AML SAM systems, working closely with business analysts, data engineers, and development teams to …"
+  },
+  {
+    "longitude": 72.84415,
+    "id": "5637668785",
+    "description": "Role Summary: We are looking for a technical problem-solver to join our Global Regulatory Reporting Analytics Team. In this role, you will act as the \"Gatekeeper\" of our regulatory data. You will be responsible for two critical functions: (1) Proactive Impact Analysis, where you assess how upstream system changes (product updates, migration, schema changes) will affect our regulatory reports, and (2) Reactive Root Cause Analysis, where you investigate data anomalies reported by the reporting te…",
+    "created": "2026-02-20T13:15:43Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Citigroup"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5637668785?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "tag": "accounting-finance-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Accounting & Finance Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NjM3NjY4Nzg1In0.BTnCg6o_-geLQihZEdwlUfGUJ9M6EiCc81fBOolafzA",
+    "latitude": 19.00821,
+    "title": "Data Analyst - US Regulatory Reporting - Assistant Vice President",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra"
+    }
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzI3MjQwODAxIn0.IX773Sr0bN3U1VN6qTJjp2dFvFHqyp7SaPkm1BOpwcs",
+    "contract_time": "full_time",
+    "latitude": 19.00821,
+    "title": "Power Bi Developer or Senior Data Analyst for Leading Pharma Company",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 72.84415,
+    "id": "5727240801",
+    "description": "Job Description: Job Purpose We are looking for a Senior Data Analyst / BI Developer with strong Power BI and Python skills to build insightful dashboards and light applications that empower business decisions. You will translate complex business asks into clear, actionable visualisations and small‑scale tools, with minimal hand‑holding. You will work closely with analytics and engineering teams to design scalable reporting solutions and lightweight front‑end applications. Major Accountabilitie…",
+    "created": "2026-05-13T02:13:41Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Talisman HR Solutions"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5727240801?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5713352134?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Citigroup"
+    },
+    "created": "2026-04-29T09:46:45Z",
+    "id": "5713352134",
+    "longitude": 72.84415,
+    "description": "Responsibilities: - Create reporting and recurring MIS on processes related to KYC Operations. - To support ICG KYC BSU with Data, Metrics, reporting and Analytics - Take day-to-day decisions of daily operations and functions related to Data, Metrics and Analytics - Work with a team of expert data analysts who perform an essential MIS function within the ICG KYC Utility, Business Support Units and the Organization as a whole - Interact with various stakeholders including other regional D&Ms, AM…",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzEzMzUyMTM0In0.jGd5yxxxaAQ4GY9r_cLhOBxewe4KITufJorIXCAjBCM",
+    "latitude": 19.00821,
+    "title": "KYC Data Metrics Analyst",
+    "category": {
+      "tag": "accounting-finance-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Accounting & Finance Jobs"
+    }
+  },
+  {
+    "location": {
+      "area": [
+        "India",
+        "Delhi",
+        "South Delhi",
+        "Alaknanda"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Alaknanda, South Delhi"
+    },
+    "salary_is_predicted": "0",
+    "latitude": 19.1542,
+    "title": "Index Data Operations Analyst",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1MjExNDc0NTUwIn0.nIntN0jyQqSJGnZiZtF9oBq09VaXivYQFhCg6-VnJ2I",
+    "contract_time": "full_time",
+    "category": {
+      "tag": "accounting-finance-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Accounting & Finance Jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5211474550?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MSCI Inc."
+    },
+    "created": "2025-05-23T01:22:06Z",
+    "description": "MSCI Index Data Operations team provides high quality and differentiated equity data for construction of MSCI’s products such as Equity Indexes, Risk Models and ESG Ratings. The Float & Index Eligibility Analyst will play a key role by frequently reviewing asset screening data—such as index eligibility, free float, and liquidity. Additionally, the role involves contributing to data methodology enhancements and addressing external client inquiries across multiple markets. Develop a deep understa…",
+    "longitude": 72.8567,
+    "id": "5211474550"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Accounting & Finance Jobs",
+      "tag": "accounting-finance-jobs"
+    },
+    "title": "Senior Data Research Analyst",
+    "latitude": 19.00821,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1Njc1NTYxNiIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.PCrJw1rc4Oc10Y_pbketqpUYfufmM3gNWv293jvcthE",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "description": "As a Senior Research Associate (Quality Control Analyst), you will be responsible for conducting quality audits on ESG data collected from public company disclosures. You will validate ESG indicators and metrics by reviewing annual reports, sustainability disclosures, and financial documents. In addition to core quality checks, you will lead process improvement initiatives, support tool automation, and act as a key contributor in driving data integrity and operational excellence within the team…",
+    "longitude": 72.84415,
+    "id": "5756755616",
+    "created": "2026-06-09T06:51:44Z",
+    "company": {
+      "display_name": "Morningstar",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5756755616?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3OTQ5ODg1OSIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.2ASsQ18dLpnRX-k0Ct2_0ANr1xLkFhsM1dvKIHuxrRI",
+    "title": "Data Research Analyst - Banking",
+    "latitude": 19.00821,
+    "category": {
+      "label": "Accounting & Finance Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5779498859?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Smart Financial Decisions Made Simple"
+    },
+    "created": "2026-06-28T02:53:45Z",
+    "id": "5779498859",
+    "longitude": 72.84415,
+    "description": "Responsibilities Review editorial data requests for feasibility, usability, and scalability. Coordinate with research teams to collect banking product and service data. Perform analysis on collected data to identify top-quality US banking products, including checking accounts, savings accounts, certificates of deposit, money market accounts, online banks, credit unions, and related banking services. Assess banking product attributes such as APYs, fees, minimum balance requirements, account acce…"
+  },
+  {
+    "description": "About Us: Morningstar DBRS is a leading provider of independent rating services and opinions for corporate and sovereign entities, financial institutions, and structured finance instruments globally. Currently with 700 employees in eight offices globally. Formed through the July 2019 acquisition of DBRS by Morningstar, Inc., the ratings business is the fourth-largest provider of credit ratings in the world. Morningstar DBRS is committed to empowering investor success, serving the market through…",
+    "id": "5756755760",
+    "longitude": 72.84415,
+    "created": "2026-06-09T06:51:54Z",
+    "company": {
+      "display_name": "Morningstar",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5756755760?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "label": "Accounting & Finance Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs"
+    },
+    "title": "Sr Data Research Analyst, Analytical Data Support",
+    "latitude": 19.00821,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1Njc1NTc2MCIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.IgMbPl8y6PFso4BRu9TVvRubgd7THxltzimrdp0oI-o",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "salary_is_predicted": "0"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Russell Investments"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5702936673?utm_medium=api&utm_source=7cd92d92",
+    "description": "Reporting To: Director, Sales Operations Shift: EMEA (1:30 pm - 10:30 pm IST) (India) About Russell Investments, Mumbai: Russell Investments is a leading outsourced financial partner and global investment solutions firm providing a wide range of investment capabilities to institutional investors, financial intermediaries, and individual investors around the world. Building on an 90-year legacy of continuous innovation to deliver exceptional value to clients, Russell Investments works every day …",
+    "longitude": 72.84415,
+    "id": "5702936673",
+    "created": "2026-04-18T02:10:29Z",
+    "latitude": 19.00821,
+    "title": "Senior Sales Data Governance Analyst",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMjkzNjY3MyIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.9QXhks908SoMVvArI25FfgoYU5D14khPfsTjhLFS6_g",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5637668781?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Citigroup"
+    },
+    "created": "2026-02-20T13:15:43Z",
+    "longitude": 72.84415,
+    "id": "5637668781",
+    "description": "Role Summary: We are looking for a technical problem-solver to join our Global Regulatory Reporting Analytics Team. In this role, you will act as the \"Gatekeeper\" of our regulatory data. You will be responsible for two critical functions: (1) Proactive Impact Analysis, where you assess how upstream system changes (product updates, migration, schema changes) will affect our regulatory reports, and (2) Reactive Root Cause Analysis, where you investigate data anomalies reported by the reporting te…",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NjM3NjY4NzgxIn0.LD7YSOjMF1KXz-8B6oUi-lnFUduF-L8lsoxwChYBUUc",
+    "latitude": 19.00821,
+    "title": "Regulatory Data Impact Analyst: Mumbai",
+    "category": {
+      "label": "Accounting & Finance Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs"
+    }
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "salary_is_predicted": "0",
+    "latitude": 19.00821,
+    "title": "Analyst, Data Operations",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzM2NzUwMzA0In0.MBBKg5k-WPjklhExkF7t9F3cuQ_vSjKS0wkpjDHa728",
+    "created": "2026-05-22T02:04:44Z",
+    "description": "Reporting To: Director, Global Fund Services Shift: APAC (7:00 am - 4:00 pm IST) (India) About Russell Investments, Mumbai: Russell Investments is a leading outsourced financial partner and global investment solutions firm providing a wide range of investment capabilities to institutional investors, financial intermediaries, and individual investors around the world. Building on an 90-year legacy of continuous innovation to deliver exceptional value to clients, Russell Investments works every d…",
+    "longitude": 72.84415,
+    "id": "5736750304",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5736750304?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Russell Investments"
+    }
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MjY4NjE5MCIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.JfowrQWng6U5GJDxtFOD-xRtIob6RSxbNyZQ5bZGGX0",
+    "title": "Analyst, Data Architecture",
+    "latitude": 19.00821,
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 72.84415,
+    "id": "5782686190",
+    "description": "Relocation Assistance Offered Within Country Job Number 166340 - Mumbai, Maharashtra, India Who We Are Colgate-Palmolive Company is a global consumer products company operating in over 200 countries specializing in Oral Care, Personal Care, Home Care, Skin Care, and Pet Nutrition. Our products are trusted in more households than any other brand in the world, making us a household name! Join Colgate-Palmolive, a caring, innovative growth company reimagining a healthier future for people, their p…",
+    "created": "2026-07-01T07:15:08Z",
+    "company": {
+      "display_name": "Colgate-Palmolive ",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5782686190?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3NTc3ODU0OSIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.L8GPR95S7bPcFqQeFUD-1GILxwHivai4fPE21JkGU3g",
+    "latitude": 19.00821,
+    "title": "Analyst, Data Architecture",
+    "created": "2026-06-25T10:30:35Z",
+    "longitude": 72.84415,
+    "id": "5775778549",
+    "description": "Relocation Assistance Offered Within Country Job Number 174273 - Mumbai, Maharashtra, India Who We Are Colgate-Palmolive Company is a global consumer products company operating in over 200 countries specialising in Oral Care, Personal Care, Home Care, Skin Care, and Pet Nutrition. Our products are trusted in more households than any other brand in the world, making us a household name! Join Colgate-Palmolive, a caring, innovative growth company reimagining a healthier future for people, their p…",
+    "redirect_url": "https://www.adzuna.in/details/5775778549?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Colgate-Palmolive",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3NTM2MjMyNCIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.YdKT3HAgsMFSdX-F2t2MxhFwmkqWMK0Rik5FOvRmeyQ",
+    "contract_time": "full_time",
+    "latitude": 19.00821,
+    "title": "Workforce Analyst – Data Analytics",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5775362324?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "JPMorganChase",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-06-25T02:34:41Z",
+    "longitude": 72.84415,
+    "id": "5775362324",
+    "description": "Description Are you passionate about project management and process improvement? Our Workforce Planning team is a highly-collaborative inclusive environment where we value relationship-building, strategic thinking, and solution-oriented members. As a Workforce Analyst on the Change the Bank Team within Workforce Planning, you will lead analytics and process improvements that optimize capacity, strengthen service-level performance, and enhance customer outcomes. As an individual contributor, you…"
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/land/ad/5768013086?se=KGegRKd48RG-2tHAxNAnZQ&utm_medium=api&utm_source=7cd92d92&v=1A4548B9B7B4BD72919DB5C6059D79DB2398A233",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "AQM Technologies"
+    },
+    "created": "2026-06-18T15:54:37Z",
+    "description": "Job description Greetings from AQM Technologies! We are hiring Software Test Engineers experienced in working with LOS/LMS Projects for Module like ( Gold/Home/Business/Any - Banking Domain for Mumbai location. Required Experience: LOS / LMS Testing Business Loan / Gold Loan / Home Loan domain Lentra Application Salesforce LOS Supply Chain LOS / LMS Functional & Manual Testing in Banking / NBFC domain HR POC - Elizabeth Mail - elizabeth.vakypily@aqmtechnologies.com Interested candidates can ple…",
+    "longitude": 72.84415,
+    "id": "5768013086",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "salary_is_predicted": "0",
+    "title": "Manual Tester- LOSProject- Business Loans / Gold Loans / Home Loan",
+    "latitude": 19.00821,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzY4MDEzMDg2In0.GXGrChjJ_LGg_sHIaA9vJueQJdUjFkhFGvZds1pupkM",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Goregaon East, Mumbai",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai",
+        "Goregaon East"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzI0ODY3NjAwIn0.JZLO96T7fRG3NtQp7H5NnF-UEcb2Af4W7hKJEeh4P6s",
+    "contract_time": "full_time",
+    "latitude": 19.1542,
+    "title": "Geospatial Physical Risk - AI Data Operations Analyst",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5724867600?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "MSCI Inc.",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-05-10T09:49:54Z",
+    "longitude": 72.8567,
+    "id": "5724867600",
+    "description": "The Geospatial Data Team manages collection operations, data quality, and best practices for Climate and ESG geospatial data. The team drives data acquisition, vendor coordination, QA engineering, process automation, and research enablement—serving as the operational backbone for MSCI’s geospatial data products. Geospatial Data Acquisition : Gatekeeper for all geospatial data acquisition, ensuring compliance with best practices and drive system development and process set-up to meet “Data Facto…"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5785771371?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MSCI"
+    },
+    "created": "2026-07-03T00:54:15Z",
+    "longitude": 72.84415,
+    "id": "5785771371",
+    "description": "This job is with MSCI, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Your Team Responsibilities: The Geospatial Data Team manages collection operations, data quality, and best practices for Climate and ESG geospatial data. The team drives data acquisition, vendor coordination, QA engineering, process automation, and research enablement-serving as the operational backbone for MSCI's geos…",
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1Nzg1NzcxMzcxIn0.Wgz4D0npWSJqk-HSVDRcxdUTMQFik7vaiKcMNGOqOyI",
+    "title": "Geospatial Physical Risk - AI Data Operations Analyst",
+    "latitude": 19.00821,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "latitude": 19.00821,
+    "title": "Knowledge Analyst – Data Curation & Classification",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzYxNTAyOTkxIn0.lpkMEHR9DQqVclbbNmA4zayBFjtIRkSGGis4Z_WoKsA",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "salary_is_predicted": "0",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Sia"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5761502991?utm_medium=api&utm_source=7cd92d92",
+    "description": "Job Description As a Knowledge Analyst, you will be responsible for collecting, curating, and classifying strategic data from internal and external sources. You will leverage smart tools and AI-powered platforms to accelerate data processing and ensure high-quality knowledge assets are available for consulting teams. Key Responsibilities Knowledge Administration & Content Management Curate, classify, and structure knowledge assets coming from: RFPs and proposals Project deliverables Methodologi…",
+    "longitude": 72.84415,
+    "id": "5761502991",
+    "created": "2026-06-12T22:14:07Z"
+  },
+  {
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "latitude": 19.00821,
+    "title": "Reference Data & Security Master Analyst",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NDk3NDMxMiIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.XJlfNwCWOjuFBWMdAJxf3uQeNaQRZA9azCnPWH9EUKc",
+    "category": {
+      "label": "Accounting & Finance Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5784974312?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "S&P Global"
+    },
+    "created": "2026-07-02T10:33:31Z",
+    "description": "About the Role: Grade Level (for internal use): 09 The Team: The Equity Data value stream at S&P Dow Jones Indices manages all data related to securities and their corporate actions. This includes collecting, validating, and updating information on stocks and related instruments. The team processes corporate actions like mergers, splits, and dividends to ensure data accuracy. They maintain the security master, a centralized database that serves as the foundation for all company products. Their …",
+    "longitude": 72.84415,
+    "id": "5784974312"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5721222910?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Citigroup"
+    },
+    "created": "2026-05-07T09:56:19Z",
+    "description": "The Business Lead Analyst is a strategic professional who stays abreast of developments within own field and contributes to directional strategy by considering their application in own job and the business. Recognized technical authority for an area within the business. Requires basic commercial awareness. There are typically multiple people within the business that provide the same level of subject matter expertise. Developed communication and diplomacy skills are required in order to guide, i…",
+    "longitude": 72.84415,
+    "id": "5721222910",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "salary_is_predicted": "0",
+    "latitude": 19.00821,
+    "title": "VP- Business Analyst- Data Privacy & Compliance",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyMTIyMjkxMCIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.lt3Ec0MrUsYxgduLVNeIGhGxLxxUMZnt45PVoD8GTAQ",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    }
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "xlnc technologies"
+    },
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzMwMDUwMjE5NyIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.dg6EnH49zhoe4RcsLjByRg6SLwmlq_tEB7jj22-4bOw",
+    "created": "2022-07-08T06:38:59Z",
+    "id": "3300502197",
+    "longitude": 72.84415,
+    "description": "Responsibilities Manage and drive a team of Data Analysts and Sr. Data Analysts to provide logistics and supply chain solutions. Conduct meetings with Clients to gather the requirements and understand the scope. Conduct meetings with internal stake holders to walk them through the solution and handover the analysis. Define business problems, identify solutions, provide analysis and insights from the client's data. 5 Conduct scheduled progress reviews on all projects and interact with onsite tea…",
+    "redirect_url": "https://www.adzuna.in/details/3300502197?utm_medium=api&utm_source=7cd92d92",
+    "salary_max": 800000,
+    "salary_min": 400000,
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Full stack developer",
+    "latitude": 19.00821
+  },
+  {
+    "description": "Plan, implement and maintain data security measures Identify risk, vulnerabilities in data warehousing tools to prevent any cyber attacks Guard sensitive data and determine how best to protect that data from unauthorized entities Understanding of data encryption and methods to apply it Handling PII data and applying security measures around it Researching attempted breaches of data security and rectifying security weaknesses to formulate security policies and procedures Managing, maintaining an…",
+    "longitude": 72.84415,
+    "id": "5782686898",
+    "created": "2026-07-01T07:15:19Z",
+    "company": {
+      "display_name": "Colgate-Palmolive ",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5782686898?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "title": "Sr.Specialist / Expert, Data Warehouse Security Analyst",
+    "latitude": 19.00821,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzgyNjg2ODk4In0.eRFc8nktA2yQpAgB6CUb_yJMDDvXvHoQ9ssj4n8FP3E",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "salary_is_predicted": "0"
+  },
+  {
+    "created": "2026-06-22T02:48:28Z",
+    "description": "Description Job Title: Senior Associate Developer Experience: 4 Years Education: Bachelor’s degree Location: Mumbai Key Skills: Snowflake (data modeling, performance tuning, Snowpipe, Streams/Tasks), AWS (S3, Glue, Redshift, EMR, Lambda), Azure (ADF, Synapse, Data Lake, Databricks), Python / PySpark / Scala. Job Description: Data Architecture & Engineering Design, develop, and maintain scalable ETL/ELT pipelines using cloud-native tools Build and optimize data models and data warehouses in Snow…",
+    "longitude": 72.84415,
+    "id": "5771992144",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5771992144?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "Datavail Infotech",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "latitude": 19.00821,
+    "title": "Senior Associate Developer - PySpark/AWS/Azure",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzcxOTkyMTQ0In0.LIV0RWQs-O6ShyCpwI7gXw4cWcRFG-6axNtdKoLJRsc",
+    "contract_time": "full_time"
+  },
+  {
+    "description": "Relocation Assistance Offered Within Country Job Number 171088 - Mumbai, Maharashtra, India Who We Are Colgate-Palmolive Company is a global consumer products company operating in over 200 countries specialising in Oral Care, Personal Care, Home Care, Skin Care, and Pet Nutrition. Our products are trusted in more households than any other brand in the world, making us a household name! Join Colgate-Palmolive, a caring, innovative growth company reimagining a healthier future for people, their p…",
+    "longitude": 72.84415,
+    "id": "5583457845",
+    "created": "2026-01-14T08:57:26Z",
+    "company": {
+      "display_name": "Colgate-Palmolive",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5583457845?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "Sr. Analyst - Global Data Management",
+    "latitude": 19.00821,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NTgzNDU3ODQ1In0.pyAoOJypxh0fcwSnryWWsergxnZKLIgTZ9Vq2vBUWhI",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "salary_is_predicted": "0"
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1Nzc4NDQzMDE0In0.bgP9p-b9usp6v5eVDlGia8pnI7oIcmyK4dwF7JQ19D0",
+    "latitude": 19.00821,
+    "title": "Assistant Chief Manager / Chief Manager- Configuration",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5778443014?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "John Cockerill"
+    },
+    "created": "2026-06-27T07:29:26Z",
+    "longitude": 72.84415,
+    "id": "5778443014",
+    "description": "Roles and Responsibilities: To understand and analyze complete life cycle / Value chain of our products and services (Design, development, engineering, manufacturing, Installation, commissioning and startup) To analyze and understand technical data to extract relevant needed configuration ones and considered as configuration data. To ensure the completeness and coherence of the configuration data generated by the concurrent processes before record and maintain into the JCH toolset (existing one…"
+  },
+  {
+    "created": "2021-08-13T21:57:13Z",
+    "longitude": 72.84415,
+    "id": "2381264980",
+    "description": "Greetings Urgently Looking for Technical Training Manager Experience : 3-7yrs Location - Mumbai Must have 1) Should have experience in providing Corporate Trainings in current or past organization 2) Must have either of these skills ( Java/ Devops/ IOT/ Data Analyst/ Machine Learning/ Cloud) 3) Good Training Analysis (Delivery) and Training Management Skills Roles Monitoring Technical Trainings · Handling Escalations · Handholding with operations team for training lab setup on the technical sid…",
+    "redirect_url": "https://www.adzuna.in/details/2381264980?utm_medium=api&utm_source=7cd92d92",
+    "salary_max": 800000,
+    "salary_min": 100000,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "title": "Technical Training Manager",
+    "latitude": 19.00821,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "EduRamp Learning Services Pvt. Ltd."
+    },
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjM4MTI2NDk4MCIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.ZfOfdv6P5yDsmAsh02jjAGIANwNDyPdudKpIYPyES8s"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5727127361?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "Acura Solution",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-05-13T02:03:21Z",
+    "longitude": 72.84415,
+    "id": "5727127361",
+    "description": "Job Description: Reporting Analytics : Deputy Manager, 5 days working Location :BKC Mumbai, only from housing finance lending (side) Experience : 1yrs Required skills : sql, powerbi or Tableau Notice period : Max 60 days kills and qualifications often sought in Data Analysts: Analytical Skills: Ability to analyze data, identify patterns, and draw conclusions. Technical Skills: Proficiency in data analysis tools (e.g., SQL, Python, R, Excel), statistical software, and data visualization tools. C…",
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzI3MTI3MzYxIn0.ETZOouW8LuIUMwKFLK5Z5cmmrn8kEZfAAMIlIdihMfI",
+    "title": "Reporting Analytics",
+    "latitude": 19.00821,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiIzMjYyMTU0OTEyIn0.GIvOO8TNc2IWJ_GT733UqkliYjN94y3JAeYsAxeA8P0",
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Billeasy",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_min": 500000,
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "latitude": 19.00821,
+    "title": "Data Scientist",
+    "created": "2022-06-26T06:20:48Z",
+    "longitude": 72.84415,
+    "id": "3262154912",
+    "description": "Job Details:- Designation - Data Scientist Urgently required. (NP of maximum 15 days) Location:- Mumbai Experience:- 5-7 years. Package Offered:- Rs.5,00,000/- to Rs.9,00,000/- pa. Data Scientist Job Description:- Responsibilities: Identify valuable data sources and automate collection processes Undertake preprocessing of structured and unstructured data Analyze large amounts of information to discover trends and patterns Build predictive models and machine-learning algorithms Combine models th…",
+    "redirect_url": "https://www.adzuna.in/details/3262154912?utm_medium=api&utm_source=7cd92d92",
+    "salary_max": 900000
+  },
+  {
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOjExNzE1MDc5NDd9.sbGRO_JgZSGUFDVVrW-1nGN_gYALVwJDubk4_zxdfAs",
+    "contract_time": "full_time",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "The Fashion Enterprise",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "contract_type": "contract",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Data Entry internship",
+    "latitude": 19.00821,
+    "salary_min": 2000,
+    "redirect_url": "https://www.adzuna.in/details/1171507947?utm_medium=api&utm_source=7cd92d92",
+    "salary_max": 5000,
+    "created": "2019-06-05T21:12:13Z",
+    "description": "About Company:The Fashion Enterprise (TFE) is an online publication & directory platform, dedicated to providing behind the scenes reportage from the fashion industry in India. Through its digital content and tools, TFE aims to equip industry creatives and experts with invaluable insights & best practices on the business & entrepreneurial facets. TFE's mission is to act as an umbrella for all professions in the fashion industry & bring them together as a community, in order to help them stay co…",
+    "longitude": 72.84415,
+    "id": 1171507947
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Kotak Mahindra Bank"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5788470308?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "id": "5788470308",
+    "description": "Description Role: Team leader - Data Analyst We are looking for a detail‑oriented and analytical person to join our team as a Team leader - Data Analysis and Insights Specialist . In this role, you will work with large datasets, find useful insights, and share recommendations that help improve processes and support better decision‑making. Key Responsibilities 1. Data Analysis & Insights Analyze data to identify trends, patterns, and opportunities. Provide actionable insights to solve business p…",
+    "created": "2026-07-05T03:38:07Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1Nzg4NDcwMzA4In0.7hiQY0uoAIsil57znph0REA3osmOpl3-iv_zS3f228A",
+    "contract_time": "full_time",
+    "latitude": 19.00821,
+    "title": "HO Product Team - TPP-HO & SUPPORT-Third Party Products",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "latitude": 19.00821,
+    "title": "Audit Executive-SUPPORT SERVICES-Internal Audit",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1Nzg4NDYyMTY2In0.oUDOS9SHdGj0KJHoUTa8UUvUCzHxlcO0rCZDmpPiLPw",
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "accounting-finance-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Accounting & Finance Jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Kotak Mahindra Bank"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5788462166?utm_medium=api&utm_source=7cd92d92",
+    "description": "Description Team Member- COM Audits- Internal Audit Department Internal Audit Number of Positions 4 Location Mumbai Reporting Relationships AVP/DVP Position Grade M4/M3 Participate in Continuous Offsite Monitoring activity in the internal audit department of the bank & be responsible for performing data level checks of control procedures for regulatory compliances and operational effectiveness. Work with large data sets, understand common data quality issues/ cleansing techniques and work with …",
+    "longitude": 72.84415,
+    "id": "5788462166",
+    "created": "2026-07-05T03:37:27Z"
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY3OTU5MzI5NiIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.VJ2NC0VNhdr2Y5WQwZCvqVKJ2s9Xm2jM9pUubvqlv4o",
+    "latitude": 19.00821,
+    "title": "Product- Growth",
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "longitude": 72.84415,
+    "id": "5679593296",
+    "description": "Description Develop and execute growth strategies: Drive the growth of the product through effective user acquisition, activation, retention, and monetization strategies. Conduct user research and analysis: Understand user behavior, needs, and preferences through qualitative and quantitative research methods. Analyze user data, conduct A/B testing, and identify growth opportunities. Define and track growth metrics: Establish key performance indicators (KPIs) to measure and track the success of …",
+    "created": "2026-03-27T02:03:05Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Kotak Mahindra Bank"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5679593296?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "company": {
+      "display_name": "eClerx",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5606714668?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Description Data Analyst - MIS Reporting Location : Mumbai Summary We are looking for a Banking domain Data Analyst who can turn complex data into clear, decision-ready insights. The role involves advanced Excel-based analysis , Tableau/BI reporting , performance tracking , forecasting & budget tracking , and strong stakeholder management across multiple teams. Key Responsibilities Build and manage dashboards & reports using Tableau (preferred) or other BI tools (Power BI, Looker, etc.). Perfor…",
+    "longitude": 72.84415,
+    "id": "5606714668",
+    "created": "2026-01-31T00:59:37Z",
+    "latitude": 19.00821,
+    "title": "Associate Process Manager",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYwNjcxNDY2OCIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.Lycc5PSdHIjYJ6P54p1nJ34NoyMxR2zO98ccFZHkBX4",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1Nzc2NzQxMzg4In0.V-gL6yyDksnyTMFdwpcdKjaxw6RxnXCnFbZ1EsIXznQ",
+    "title": "Analyst II - Enterprise Data Management",
+    "latitude": 19.00821,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5776741388?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Accelya Services India"
+    },
+    "created": "2026-06-26T02:32:08Z",
+    "longitude": 72.84415,
+    "id": "5776741388",
+    "description": "For more than 40 years, Accelya has been the industry’s partner for change, simplifying airline financial and commercial processes and empowering the air transport community to take better control of the future. Whether partnering with IATA on industry-wide initiatives or enabling digital transformation to simplify airline processes, Accelya drives the airline industry forward and proudly puts control back in the hands of airlines so they can move further, faster. Analyst II - Service Managemen…"
+  },
+  {
+    "company": {
+      "display_name": "YipitData",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5777256345?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "id": "5777256345",
+    "description": "About YipitData: YipitData is the leading market research and analytics firm for the disruptive economy and recently raised up to $475M from The Carlyle Group at a valuation over $1B. We analyze billions of alternative data points every day to provide accurate, detailed insights on ridesharing, e-commerce marketplaces, payments, and more. Our on-demand insights team uses proprietary technology to identify, license, clean, and analyze the data many of the worlds largest investment funds and corp…",
+    "created": "2026-06-26T10:34:30Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3NzI1NjM0NSIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.5Beq9NaxkzbN8UHL19AMf3eZ_6XB-LQYvqQ9_6ZOwoM",
+    "latitude": 19.00821,
+    "title": "Data Specialist",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "category": {
+      "tag": "scientific-qa-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Scientific & QA Jobs"
+    }
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "latitude": 19.00821,
+    "title": "Data BA ( Business Analytics )",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NTAwMDI3MSIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.wl4GcVcuZaMzTxqJIpWeyI9_FYt6plee6n3n08G9Ts0",
+    "contract_time": "full_time",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "description": "Job Description Your Role Use design thinking and a consultative approach to define innovative data solutions for business problems. Act as a business analyst/data business analyst on data projects. Participate in requirements gathering, functional specification definition, and scope management. Document detailed business requirements and develop solution designs.Support and coordinate system implementations through the full project lifecycle (initiation to handover). Elicit requirements using …",
+    "longitude": 72.84415,
+    "id": "5695000271",
+    "created": "2026-04-10T05:29:41Z",
+    "company": {
+      "display_name": "Capgemini",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5695000271?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "latitude": 19.00821,
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMTk2MTE5OCIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.j4h3CIJRq2PVfngG4mZIuyz5k8ZQAWD8V0nfgrlUc-0",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5731961198?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Ion"
+    },
+    "created": "2026-05-17T06:47:18Z",
+    "description": "Key Responsibilities Develop and maintain the Azure Databricks hosted data lake by creating pipelines to extensive internal and external data sources, including writing APIs. Convert unprocessed data into mastered, easy to use tables for data analysts through ETL. Promote best practices and help setting up standardized, effective processes to improve your work and work of the team. Work collaboratively with the data engineering team to envision and layout the roadmap for the architecture of the…",
+    "longitude": 72.84415,
+    "id": "5731961198"
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "latitude": 19.00821,
+    "title": "Senior QA Automation Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1Njc1NTYzNSIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.iaUGOw9f_N5jVktJXFal6ggyUsLyuqhttYoMv0R3Oag",
+    "created": "2026-06-09T06:51:45Z",
+    "description": "The Role : In this role, you will collaborate with project manager, data analysts, and developers to build technology solutions for Morningstar`s Equity Data collection platforms. You should have understanding of C#, .Net, Component based architectures and who can create scalable, flexible technical solutions. You would support existing systems, study their enterprise complexities and develop/implement better systems with modern software development practices. Developing good understanding of e…",
+    "longitude": 72.84415,
+    "id": "5756755635",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5756755635?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Morningstar"
+    }
+  },
+  {
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNzIwMDU1NiIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.J9hhs3AwBU99lncqaOZC6qFnBd6wvSA2BAX7oBQZhlU",
+    "latitude": 19.00821,
+    "title": "Strategy Head- Mumbai",
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "company": {
+      "display_name": "Acura Solution",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5727200556?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": 72.84415,
+    "id": "5727200556",
+    "description": "Job Description: Strategy Head Role Overview The Head of Strategy will lead the design and execution of high-impact strategic initiatives across workforce optimization, productivity enhancement, AI adoption, and enterprise digitization. This role will also build and lead high-performing analytics and data science teams to enable data-driven decision-making and scalable transformation. Key Responsibilities 1. Strategic Leadership Define and drive the organization’s strategy across: Workforce opt…",
+    "created": "2026-05-13T02:09:58Z"
+  },
+  {
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "latitude": 19.00821,
+    "title": "Intern, Procurement, South Asia",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiS0dlZ1JLZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1Nzg3NjIxMTYwIn0.UDnnsGdaABmjNf5HRZX45y0y03R0EMxrmnYc3WXm1Tk",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5787621160?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Marriott"
+    },
+    "created": "2026-07-04T11:54:05Z",
+    "description": "Additional Information Job Number 26081253 Job Category Management Development Programs/Interns Location 303A-304 Fulcrum B Wing Hiranandani Business Park, Mumbai, Maharashtra, India, 400099 VIEW ON MAP (https://www.google.com/maps?q=303A-304%20Fulcrum%20B%20Wing%20Hiranandani%20Business%20Park%2C%20Mumbai%2C%20Maharashtra%2C%20India%2C%20400099) Schedule Full Time Located Remotely? N Position Type Non-Management A Big Data Analyst works with multiple stakeholders to collect, process, automate,…",
+    "id": "5787621160",
+    "longitude": 72.84415
+  },
+  {
+    "title": "MIS Executive",
+    "latitude": 19.00821,
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_min": 250000,
+    "salary_max": 300000,
+    "redirect_url": "https://www.adzuna.in/details/5706910128?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 72.84415,
+    "id": "5706910128",
+    "description": "Job Title: MIS Operations Executive Location: Mumbai, Maharashtra Industry: Insurance Experience Required: 1 -5 Years Job Summary: We are seeking a detail-oriented and analytical MIS Operations Executive to support data management, reporting, and operational efficiency within our insurance business. The ideal candidate will be responsible for generating accurate reports, maintaining databases, and assisting in decision-making through data insights. Key Responsibilities: Prepare daily, weekly, a…",
+    "created": "2026-04-22T11:53:36Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNjkxMDEyOCIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.rd01rSQk7YKT0Dc2NBLpThAhWfjV7aVV2nHRWvkl-ZY",
+    "contract_time": "full_time",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Hunarstreet Technologies Pvt Ltd"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5727166575?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Acura Solution"
+    },
+    "created": "2026-05-13T02:06:44Z",
+    "longitude": 72.84415,
+    "id": "5727166575",
+    "description": "Job Description: Job Description Implement a customer experience vision and strategy that aligns with our company’s mission and values. Champion the voice of the customer and drive a customer-centric mindset at every level Collect, analyze, and interpret NPS data of 811 customers to evaluate customer sentiment and satisfaction level Identify patterns, trends, and key drivers affecting 811 customer experience Collaborate with data analysts to create comprehensive reports and visualizations for s…",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNzE2NjU3NSIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.0N8mk2BYGVLLeU62SRUHo9aEYr9YeBquRQkMqtB92qc",
+    "title": "Hiring for Leading Companies /Customer Experience Lead",
+    "latitude": 19.00821,
+    "category": {
+      "label": "Customer Services Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "customer-services-jobs"
+    }
+  },
+  {
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "title": "Specialist / Sr. Technical Specialist, Data Platform Engineer",
+    "latitude": 19.00821,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MjY4NjQ5OCIsInMiOiJLR2VnUktkNDhSRy0ydEhBeE5BblpRIn0.mDcLeneVHG2DKq4UuMNV8XUsz2Ka1YGpUHjpucsgU4g",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5782686498?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "Colgate-Palmolive ",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-07-01T07:15:14Z",
+    "description": "The candidate should be comfortable in playing a lead role towards the evolution of technology deployments across the global footprint. Who are you You are a Technical Specialist - Translate business needs into long-term architecture solutions in key data areas for syndicated, point of sale and indirect trade data Define, design, and help architect solution and coordinating and communicating with GIT Teams for implementation Define, design, and build data models for use by the business Evaluate…",
+    "id": "5782686498",
+    "longitude": 72.84415
+  }
+]

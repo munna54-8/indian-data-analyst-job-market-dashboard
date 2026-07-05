@@ -1,0 +1,1535 @@
+[
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "description": "Company Overview Check out this video and find out why our team loves to work here! (https://www.cdmsmith.com/resources/videos/meet-cdm-smith) Join Us! CDM Smith - where amazing career journeys unfold. Imagine a place committed to offering an unmatched employee experience. Where you work on projects that are meaningful to you. Where you play an active part in shaping your career journey. Where your co-workers are invested in you and your success. Where you are encouraged and supported to do you…",
+    "id": "5778695163",
+    "created": "2026-06-27T10:28:47Z",
+    "title": "Senior Database Administrator (Digital Engineering Solutions)",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "CDM Smith"
+    },
+    "longitude": 80.24963,
+    "redirect_url": "https://www.adzuna.in/details/5778695163?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3ODY5NTE2MyIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.6X1ZsKnilKhZrUXZ5I0KNQthu9XkpzkimWxxEb4n7M4"
+  },
+  {
+    "created": "2026-06-20T03:32:07Z",
+    "id": "5769829364",
+    "title": "Junior Data Scientist",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "contract_type": "contract",
+    "description": "Job Title: Junior Data Scientist / Forecasting Analyst Location: Offshore – India Engagement Type: Contract (4 Months, Extendable) Start Date: 1st July 2026 Experience Required: 3–4 Years Overall Experience Relevant Experience: Minimum 1.5 Years in Data Science, Machine Learning, or Predictive Analytics About the Role We are seeking a motivated and detail-oriented Junior Data Scientist / Forecasting Analyst to support our Data Science team in the development, execution, and maintenance of predi…",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NzY5ODI5MzY0In0.UmHz0HmNpXK4a3w-zcrjV8DXHUpRxksc8MOxNYqs2cA",
+    "longitude": 80.24963,
+    "company": {
+      "display_name": "Datamatics Technologies",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5769829364?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "description": "FullStack Developer Job brief We are looking for a Full Stack Developer to produce scalable software solutions. You’ll be part of a cross-functional team that’s responsible for the full software development life cycle, from conception to deployment. As a Full Stack Developer, you should be comfortable around both front-end and back-end coding languages, development frameworks, and third-party libraries. You should also be a team player with a knack for visual design and utility. Responsibilitie…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "salary_max": 1200000,
+    "longitude": 80.24963,
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "title": "Fullstack Developer",
+    "created": "2021-05-01T11:28:56Z",
+    "id": "2154023841",
+    "salary_min": 600000,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiIyMTU0MDIzODQxIn0.FcOriWEwaBCQE0uq0MTQbR87iMj3WvTK92YMiuU3WDs",
+    "latitude": 13.06041,
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.in/details/2154023841?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Coastal Aquaculture Research Institute Private Limited"
+    }
+  },
+  {
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NzYxOTU1NjMwIn0.nzunyc0WdZ6Ufbyfro1wBIurkMg_TLATr17UQdia3So",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Hitachi Solutions"
+    },
+    "longitude": 80.24963,
+    "redirect_url": "https://www.adzuna.in/details/5761955630?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-06-13T08:53:31Z",
+    "id": "5761955630",
+    "title": "Azure Data Architect",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Design and implement end-to-end data solutions on Microsoft Azure, including data lakes, data warehouses, and ETL/ELT processes. Develop scalable and efficient data architectures that support large-scale data processing and analytics workloads. Ensure high performance, security, and compliance within Azure data solutions. Know various techniques (lakehouse, warehouse) and have experience implementing them. Evaluate and choose appropriate Azure services such as Azure SQL Database, Azure Synapse …"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiIzNzk1ODk1NDA5In0.85ER_b4pMu6KMpm2rDd7yAd1qJO9WoeDxSo5R4jMSHg",
+    "latitude": 13.06041,
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/3795895409?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "AGILEAXIS",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "title": "Java Developer",
+    "created": "2022-12-23T08:43:26Z",
+    "id": "3795895409",
+    "salary_min": 1000000,
+    "salary_max": 3000000,
+    "salary_is_predicted": "0",
+    "longitude": 80.24963,
+    "description": "We are looking to hire a Java Engineer for the Perungudi, Chennai location. Work from office: Perungudi, Chennai location The ideal candidate should be a self-motivated, multi-tasker, and demonstrated team player. You will be responsible for the production support of software products and coordinating with various teams for support. You should have outstanding communication and Team-Player skills. Educational Qualification: BCA, MCA or BE/B.Tech (CS) Must-know technologies: Java, Good to know t…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "description": "Job brief We are looking for a full stack developer to produce scalable software solutions. You’ll be part of a team that’s responsible for the full software development life cycle, from conception to deployment. As a full stack developer, you should be comfortable around both front-end and back-end coding languages, development frameworks and third-party libraries. You should also be a team player with a knack for visual design and utility. Responsibilities Work with development teams and prod…",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "longitude": 80.24963,
+    "salary_is_predicted": "0",
+    "salary_max": 600000,
+    "salary_min": 300000,
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "title": "Fullstack Developer",
+    "created": "2019-09-12T21:03:06Z",
+    "id": 1261044189,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/1261044189?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "InteliTix Solutions Private Limited"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOjEyNjEwNDQxODl9.OAiD3AAzjvsGgwqBEpdFaD_TrfkBxOIYHWSriF8rNjI",
+    "contract_time": "full_time",
+    "latitude": 13.06041
+  },
+  {
+    "title": "Assoc, BackEnd Eng, WRB Tech",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "id": "5785771083",
+    "created": "2026-07-03T00:54:13Z",
+    "description": "This job is with Standard Chartered Bank, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Summary We are looking for a Backend Specialist, responsible for the development and maintenance of in-house applications. You will be working alongside with other Engineers and Developers working on different layers of the Applications. Therefore, a commitment to collaborative problem solving, s…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NTc3MTA4MyIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.Bc9HAOuUCRQbye6mQHr4E9KB578IOJVrzICkQOd1OJ4",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5785771083?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 80.24963,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Standard Chartered Bank"
+    }
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2ODc4NTk3NiIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.QjPIhb5x6LrDZte402oe85RZ4fVG9Q3oUpulx-uhKLI",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5768785976?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 80.24963,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Firstsource"
+    },
+    "title": "Business Analyst",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "created": "2026-06-19T07:20:15Z",
+    "id": "5768785976",
+    "description": "Job description Responsibilities: Support business initiatives through data analysis, identification of implementation barriers and user acceptance testing of new systems. Understand the Business processes and Functional requirements end to end. Identify and analyze user requirements, procedures, and problems to improve existing processes. Perform detailed analysis on assigned projects, recommend potential business solutions and assist with implementation. Identify ways to enhance performance m…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    }
+  },
+  {
+    "created": "2026-05-23T10:17:13Z",
+    "id": "5738413641",
+    "title": "Lead - Data Engineer",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "description": "Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world's leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edge. For our people-Kyndryls-that means doing purposeful work that powers human progress. Join us and experience a flexible, supportive environment where your well-being is prioritized…",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NzM4NDEzNjQxIn0.I56LFkvNzBjbZzCkshBn_3gv7bdnzj8hOEKRm9hoeLg",
+    "longitude": 80.24963,
+    "company": {
+      "display_name": "Kyndryl",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5738413641?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "description": "SWE - Back End: Responsibilities Work with development teams and product managers to ideate software solutions Design client-side and server-side architecture Build the front-end of applications through appealing visual design Develop and manage well-functioning databases and applications Write effective APIs Test software to ensure responsiveness and efficiency Troubleshoot, debug and upgrade software Exposure to security aspects of the application Build features and applications with a mobile…",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "SWE Back End",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "id": "5782689290",
+    "created": "2026-07-01T07:17:12Z",
+    "redirect_url": "https://www.adzuna.in/details/5782689290?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": 80.24963,
+    "company": {
+      "display_name": "Alight",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MjY4OTI5MCIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.ovmA1keunrXiIwZ-efQsHrzYiURkJkoJP60ymVXb62w",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041
+  },
+  {
+    "title": "Data Engineer - GCP, SQL,BiqQuery, Dataflow, Pub/Sub, Logging, IAM",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "created": "2026-01-21T07:59:15Z",
+    "id": "5593457816",
+    "description": "Avant de postuler à un emploi, sélectionnez votre langue de préférence parmi les options disponibles en haut à droite de cette page. Découvrez votre prochaine opportunité au sein d'une organisation qui compte parmi les 500 plus importantes entreprises mondiales. Envisagez des opportunités innovantes, découvrez notre culture enrichissante et travaillez avec des équipes talentueuses qui vous poussent à vous développer chaque jour. Nous savons ce qu'il faut faire pour diriger UPS vers l'avenir : d…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NTkzNDU3ODE2In0.M9pII1HdxnlXKX5Mq4wWFM135wFP0Ei_EZ6lwusDyo0",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5593457816?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "UPS",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": 80.24963
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Job Summary Serve as a senior developer specializing in Databricks and PySpark to design build and optimize large scale data and analytics solutions in a hybrid work environment using prompt engineering to enable intelligent data products supporting day shift operations without travel and delivering measurable value to business stakeholders and society through data driven outcomes. Responsibilities  Design and develop scalable data pipelines on Databricks using PySpark and Databricks SQL to del…",
+    "id": "5780829577",
+    "created": "2026-06-29T10:30:13Z",
+    "title": "Sr. Developer",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cognizant"
+    },
+    "longitude": 80.24963,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5780829577?utm_medium=api&utm_source=7cd92d92",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MDgyOTU3NyIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.bLIuLy74OSJOw0R8rf7H9udXaTddJPG-5ZCo9oZ7Pwo"
+  },
+  {
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MzIyMDA3MiIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.z1kDPKBFk4gUAPg-oW2gjGbdvg43UODANJ6kUEWYewU",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "UPS"
+    },
+    "longitude": 80.24963,
+    "redirect_url": "https://www.adzuna.in/details/5763220072?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5763220072",
+    "created": "2026-06-14T10:26:31Z",
+    "title": "Senior Data Developer - Azure Databrickscosmos DB  SQL  ETLSSIS",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Before you apply to a job, select your language preference from the options available at the top right of this page. Explore your next opportunity at a Fortune Global 500 organization. Envision innovative possibilities, experience our rewarding culture, and work with talented teams that help you become better every day. We know what it takes to lead UPS into tomorrow-people with a unique combination of skill  passion. If you have the qualities and drive to lead yourself or teams, there are role…"
+  },
+  {
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NzUwMTE5MzU3In0.50uRVl_Ve4C1TxoDcjPlSzkaKNcxpZe7wxAB31Ml1FU",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Citigroup"
+    },
+    "longitude": 80.24963,
+    "redirect_url": "https://www.adzuna.in/details/5750119357?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-06-03T10:14:54Z",
+    "id": "5750119357",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Data Engineering Python and Pyspark - Assistant Vice President",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "The Applications Development Senior Programmer Analyst (data engineering senior programmer analyst) is an intermediate level position responsible for participation in the establishment and implementation of new or revised data platform eco systems and programs in coordination with the Technology team. The overall objective of this role is to contribute to data engineering scrum team to implement the business requirements: Responsibilities:  Build and maintain batch or real-time data pipelines i…"
+  },
+  {
+    "title": "MIS Analyst",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "created": "2026-02-21T08:21:09Z",
+    "id": "5639163859",
+    "description": "MIS analysts provide robust data usage and analytics reports to the appropriate leaders in management. 1.Should have RCM(US Healthcare) Background Knowledge also should have knowledge listed below a.Denial Patterns with solution b.AR work Allocation c.AR 180 days Analysis d.RCM KPI Formula’s 2.Should have experience in MIS RCM services. 3.Need to know how to handle the huge data files. 4.Should have knowledge on KPI Measures and Metrics a.KPI Measures are Charges, Payments, adjustments, credits…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Accounting & Finance Jobs",
+      "tag": "accounting-finance-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYzOTE2Mzg1OSIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.a4vmdmvN9ZScM7nBTIs9iUP1qlRGehXb5hDKCRt1tb0",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5639163859?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": 80.24963,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "People First Consultants"
+    }
+  },
+  {
+    "description": "Skills: Bigdata,Pyspark,Python ,Hadoop / HDFS; Spark; Good to have : GCP Roles/Responsibilities: Develops and maintains scalable data pipelines to support continuing increases in data volume and complexity. Collaborates with analytics and business teams to improve data models that feed business intelligence tools, increasing data accessibility and fostering data-driven decision making across the organization. Implements processes and systems to monitor data quality, ensuring production data is …",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "title": "( Bigdata(Pyspark) Engineer",
+    "id": "5782689389",
+    "created": "2026-07-01T07:17:16Z",
+    "redirect_url": "https://www.adzuna.in/details/5782689389?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Impetus Technologies"
+    },
+    "longitude": 80.24963,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NzgyNjg5Mzg5In0.fcIUlz-NSNzAw29B1sj41ZWKHRezy3eIYLH-TZaSljQ",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0"
+  },
+  {
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0Mzk0NzE3NyIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.E10f2-DPUV0TlvAl4CHWHJKprk9WwluKYXqLZoKMPww",
+    "longitude": 80.24963,
+    "company": {
+      "display_name": "UPS",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5543947177?utm_medium=api&utm_source=7cd92d92",
+    "id": "5543947177",
+    "created": "2025-12-16T11:34:32Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "title": "Senior Data Developer - Azure Databrickscosmos DB  SQL  ETLSSIS",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "description": "Avant de postuler à un emploi, sélectionnez votre langue de préférence parmi les options disponibles en haut à droite de cette page. Découvrez votre prochaine opportunité au sein d'une organisation qui compte parmi les 500 plus importantes entreprises mondiales. Envisagez des opportunités innovantes, découvrez notre culture enrichissante et travaillez avec des équipes talentueuses qui vous poussent à vous développer chaque jour. Nous savons ce qu'il faut faire pour diriger UPS vers l'avenir : d…"
+  },
+  {
+    "description": "Career Area: Technology, Digital and Data Job Description: Your Work Shapes the World at Caterpillar Inc. When you join Caterpillar, you're joining a global team who cares not just about the work we do - but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here - we make it happen, with our customers, where we work and live. Together, we are building a be…",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "Senior Software Engineer-Data Engineering",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "id": "5771397714",
+    "created": "2026-06-21T10:31:49Z",
+    "redirect_url": "https://www.adzuna.in/details/5771397714?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Caterpillar, Inc.",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": 80.24963,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NzcxMzk3NzE0In0.1iS7QgFO9bdap6DiwTSujuzo19NGrLnIQ6QaoyI05s0",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0"
+  },
+  {
+    "company": {
+      "display_name": "ICON Clinical Research",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": 80.24963,
+    "redirect_url": "https://www.adzuna.in/details/5771398310?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NzcxMzk4MzEwIn0.SxjWBizG25sYO6BBoMW6Va6Zxs1A8fKyTfQar7_0k-E",
+    "category": {
+      "tag": "accounting-finance-jobs",
+      "label": "Accounting & Finance Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "RBQM Manager _ Office Based ICON plc is a world-leading healthcare intelligence and clinical research organization. We're proud to foster an inclusive environment driving innovation and excellence, and we welcome you to join us on our mission to shape the future of clinical development. Recognize, exemplify and adhere to ICON's values which center on Integrity, Inclusion, Agility and Collaboration: May include the following in collaboration with PM and cross functional leads, depending on study…",
+    "created": "2026-06-21T10:32:58Z",
+    "id": "5771398310",
+    "title": "RBQM Lead",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    }
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NzMyMTQ2OTcwIn0.TQ5iElh7HnKOxmwnW2pmVHKdSUjK1EwegDpXtpxIcLU",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5732146970?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 80.24963,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Comcast"
+    },
+    "title": "Manager 1, Software Development & Engineering",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "created": "2026-05-17T10:03:19Z",
+    "id": "5732146970",
+    "description": "Comcast brings together the best in media and technology. We drive innovation to create the world's best entertainment and online experiences. As a Fortune 50 leader, we set the pace in a variety of innovative and fascinating businesses and create career opportunities across a wide range of locations and disciplines. We are at the forefront of change and move at an amazing pace, thanks to our remarkable people, who bring cutting-edge products and services to life for millions of customers every…",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "title": "Quality Assurance Engineer III",
+    "created": "2026-06-24T02:42:38Z",
+    "id": "5774031615",
+    "description": "Description Role: Quality Assurance Engineer III (ETL Test Engineer) Location: Chennai, Tamilnadu Why Pearson? At Pearson, you’ll join a mission-driven team dedicated to helping people make progress in their lives through learning. We value curiosity, collaboration, and innovation—empowering every employee to make a real impact. If you’re passionate about education and growth, Pearson is the place to thrive. Job Summary We are looking for a skilled Data Quality / ETL Test Engineer (Individual C…",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1Nzc0MDMxNjE1In0.zfVr1jkRKJzi4dSuYH0w1QdkFHwjDRtUiSjQt85YiA8",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.in/details/5774031615?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": 80.24963,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Pearson"
+    }
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5604490680?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "UPS"
+    },
+    "longitude": 80.24963,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYwNDQ5MDY4MCIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.lTi02cJayZiBuBV0xfy224k9k5Be0OAl3Fed2UDgfkc",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "description": "Before you apply to a job, select your language preference from the options available at the top right of this page. Explore your next opportunity at a Fortune Global 500 organization. Envision innovative possibilities, experience our rewarding culture, and work with talented teams that help you become better every day. We know what it takes to lead UPS into tomorrow-people with a unique combination of skill  passion. If you have the qualities and drive to lead yourself or teams, there are role…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "title": "Senior Data Engineer",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "id": "5604490680",
+    "created": "2026-01-29T11:50:12Z"
+  },
+  {
+    "title": "Data QA Specialist",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "created": "2025-02-07T11:21:47Z",
+    "id": "5040652525",
+    "description": "About Us: YipitData is the market-leading data and analytics firm. We analyze billions of data points every day to provide accurate, detailed insights across industries, including consumer brands, technology, software, and healthcare. Our insights team uses proprietary technology to identify, license, clean, and analyze the data that many of the worlds largest investment funds and corporations depend on. We raised $475M from The Carlyle Group at a valuation over $1B, further accelerating our gr…",
+    "category": {
+      "label": "Accounting & Finance Jobs",
+      "tag": "accounting-finance-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1MDQwNjUyNTI1In0.BUfXBpkPj5kfhUA1LfxbJ-adQP01Ze6KdFhOnPDBlTA",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5040652525?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "YipitData"
+    },
+    "longitude": 80.24963
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Job Description: Monitoring and detection: SOCs continuously monitor various systems like networks, servers, databases, and endpoints for any signs of a cyberattack. They analyze security data to spot unusual activities, patterns, and anomalies. Threat analysis: SOC analysts investigate alerts and data feeds to determine if a threat is real, assess its potential impact, and differentiate between a real attack and a false positive. Incident response: When a threat is confirmed, the SOC's role sh…",
+    "id": "5727175468",
+    "created": "2026-05-13T02:07:30Z",
+    "title": "Cyber Security - SOC Manager- Chennai",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 80.24963,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Acura Solution"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5727175468?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 13.06041,
+    "contract_time": "full_time",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNzE3NTQ2OCIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.Fi4DfEwzj8G_Fye5SEAT85Fc2IS2Lwj28GZWox2kvZc"
+  },
+  {
+    "created": "2026-04-03T11:37:13Z",
+    "id": "5688333956",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "title": "Data Scientist, Alexa Connections",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs"
+    },
+    "description": "As a Data Scientist in Alexa Connections, you will lead the end-to-end development of machine learning and data science solutions that power intelligent communication experiences across channels such as calling, messaging and email. You will partner closely with product, engineering, and business leaders to translate ambiguous problems into scalable ML models, experimentation frameworks, and data-driven product decisions. In this role, you will design and deploy advanced ML and statistical mode…",
+    "contract_time": "full_time",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4ODMzMzk1NiIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.Dt0Qh2Bhit3o2-voC1SMAieSaFgYw1zK2N5hJwiCxzg",
+    "longitude": 80.24963,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ADCI MAA 15 SEZ"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5688333956?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NDQ3OTg3Mzc3In0.HJW9hPM8rGPBbsni6rpKgUGfQDay3sptx6gsd7KFzeg",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5447987377?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 80.24963,
+    "company": {
+      "display_name": "UPS",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Senior Data Engineer - Azure Data Factory and SQL",
+    "id": "5447987377",
+    "created": "2025-10-15T10:48:30Z",
+    "description": "Before you apply to a job, select your language preference from the options available at the top right of this page. Explore your next opportunity at a Fortune Global 500 organization. Envision innovative possibilities, experience our rewarding culture, and work with talented teams that help you become better every day. We know what it takes to lead UPS into tomorrow-people with a unique combination of skill  passion. If you have the qualities and drive to lead yourself or teams, there are role…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    }
+  },
+  {
+    "longitude": 80.24963,
+    "company": {
+      "display_name": "Amazon",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/3187994431?utm_medium=api&utm_source=7cd92d92",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiIzMTg3OTk0NDMxIn0.DociwhG6MzhwQ4EcbrZXzm4zPBZxZhizz801NBNDCt8",
+    "contract_type": "permanent",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Are you passionate about data? Does the prospect of dealing with massive volumes of data excite you? Do you want to create the next-generation tools for intuitive data access for transportation operations? Amazon Transportation Services (ATS) is a the global middle-mile transportation organization within Amazon - as part of the transportation, we ship several millions of packages every year to customer on time with high customer excellence.Find out more about us in this video: https://www.youtu…",
+    "created": "2022-06-01T21:29:10Z",
+    "id": "3187994431",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "title": "Senior BI Engineer (Luxembourg)"
+  },
+  {
+    "longitude": 80.24963,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Amazon"
+    },
+    "redirect_url": "https://www.adzuna.in/details/3187994610?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiIzMTg3OTk0NjEwIn0.Tm8z9FX6309sN7I6tIZIIc_XIdmcSNd7FNst1RXdgVU",
+    "contract_type": "permanent",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "description": "Are you passionate about data? Does the prospect of dealing with massive volumes of data excite you? Do you want to create the next-generation tools for intuitive data access for transportation operations? Amazon Transportation Services (ATS) is a the global middle-mile transportation organization within Amazon - as part of the transportation, we ship several millions of packages every year to customer on time with high customer excellence. Find our more about us in this video: https://www.yout…",
+    "id": "3187994610",
+    "created": "2022-06-01T21:29:11Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "title": "Senior Business Intelligence Engineer (Luxembourg)"
+  },
+  {
+    "description": "Are you passionate about leveraging data to deliver actionable insight that impacts daily business decisions for Amazon? Does the prospect of dealing with massive volume of data excite you? Amazon Fulfillment Technologies (AFT) powers the physical engine at the heart of Amazon Retail. AFT builds and operates software, hardware, and processes that run the global network of fulfillment centers that move many millions of units of inventory, employ hundreds of thousands of employees, and ensure tha…",
+    "contract_type": "permanent",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Business Intelligence Engineer (Luxembourg)",
+    "id": "3187994620",
+    "created": "2022-06-01T21:29:11Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/3187994620?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 80.24963,
+    "company": {
+      "display_name": "Amazon",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiIzMTg3OTk0NjIwIn0.42Y4a4WwjeFTmBsN_q77CQBqkdguWsxbkY8ZybnnNj4",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041
+  },
+  {
+    "id": "5604490711",
+    "created": "2026-01-29T11:50:12Z",
+    "title": "Senior Data Engineer",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Avant de postuler à un emploi, sélectionnez votre langue de préférence parmi les options disponibles en haut à droite de cette page. Découvrez votre prochaine opportunité au sein d'une organisation qui compte parmi les 500 plus importantes entreprises mondiales. Envisagez des opportunités innovantes, découvrez notre culture enrichissante et travaillez avec des équipes talentueuses qui vous poussent à vous développer chaque jour. Nous savons ce qu'il faut faire pour diriger UPS vers l'avenir : d…",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NjA0NDkwNzExIn0.lMOFEUw0euD2k8kBT7yXbLCx0UIJ3bl2MbR1kEJRaZQ",
+    "company": {
+      "display_name": "UPS",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": 80.24963,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5604490711?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "created": "2025-10-15T10:48:30Z",
+    "id": "5447987373",
+    "title": "Senior Data Engineer - Azure Data Factory and SQL",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "description": "Avant de postuler à un emploi, sélectionnez votre langue de préférence parmi les options disponibles en haut à droite de cette page. Découvrez votre prochaine opportunité au sein d'une organisation qui compte parmi les 500 plus importantes entreprises mondiales. Envisagez des opportunités innovantes, découvrez notre culture enrichissante et travaillez avec des équipes talentueuses qui vous poussent à vous développer chaque jour. Nous savons ce qu'il faut faire pour diriger UPS vers l'avenir : d…",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NDQ3OTg3MzczIn0.El_yDxnDI3nIliX1u6_0jXFNPrjXO52KVII2EU7JEGk",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "UPS"
+    },
+    "longitude": 80.24963,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5447987373?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NzQyODQ1NjA5In0.NM5bfv0Zii1wioBEvOUammAW6t7E6b8jy5hZkG1WmTs",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5742845609?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Trimble"
+    },
+    "longitude": 80.24963,
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "title": "Manager, Marketing Analytics",
+    "created": "2026-05-28T06:53:43Z",
+    "id": "5742845609",
+    "description": "The Marketing Analytics Manager will play a critical role in supporting the Trimble Demand Generation Teams by playing a pivotal role in shaping the future of Marketing analytics by defining and driving a clear vision for the team, and ensuring its successful implementation. You will be responsible for building the technical foundation and analytics framework to support Marketing and Publishing initiatives, optimizing processes, and aligning data strategies with broader business goals Key Respo…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "PR, Advertising & Marketing Jobs",
+      "tag": "pr-advertising-marketing-jobs"
+    }
+  },
+  {
+    "longitude": 80.24963,
+    "company": {
+      "display_name": "IGT",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5783689651?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MzY4OTY1MSIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.O9NnAdpDu_1YyLf00CL-ZdwqYm3NotnaPSeW8cLli2Q",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "contract_type": "permanent",
+    "description": "IGT , where innovation meets entertainment on a global scale! From the casino floor to your mobile screen, we deliver thrilling, responsible, and unforgettable gaming experiences —powered by world‑class content , strong technical and commercial capabilities and nurtured by a culture of collaboration, accountability, and ownership. Whether it’s spinning reels, placing bets, or enabling secure payments, we turn innovation into impact through disciplined execution and long‑term value creation. Wit…",
+    "created": "2026-07-01T18:17:40Z",
+    "id": "5783689651",
+    "title": "HRIS Analyst",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    }
+  },
+  {
+    "id": "5780829576",
+    "created": "2026-06-29T10:30:13Z",
+    "title": "Sr. Developer",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Job Summary Serve as a senior developer specializing in Azure data platforms and Snowflake to design build and optimize scalable data solutions in a hybrid work environment. Apply deep expertise in Azure Data Lake Store Azure Data Factory Python and Snowflake features to deliver secure high quality data products that empower analytics and strategic decision making for global stakeholders. Responsibilities  Design robust batch and near real time data ingestion pipelines using Azure Data Factory …",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MDgyOTU3NiIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.ZccSwl_CLAyyVw2Ey-S89bts954ftsVGj0IwtHerEwo",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cognizant"
+    },
+    "longitude": 80.24963,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5780829576?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/3990530514?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "Praveza Consultancy Private Limited",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiIzOTkwNTMwNTE0In0.xHLxEUOVu5EbwQPMgYazAR8H_bTEG6cl_keulYtXPVw",
+    "contract_time": "full_time",
+    "latitude": 13.06041,
+    "salary_min": 1000000,
+    "title": "Full Stack Developer (node.js)",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "3990530514",
+    "created": "2023-03-21T08:34:24Z",
+    "longitude": 80.24963,
+    "salary_is_predicted": "0",
+    "salary_max": 1500000,
+    "description": "Job titles associated with this role: Software Engineer (Full Stack) / Sr. Software Engineer (Full stack) Years of Experience: 4 - 7 yrs What you'll do:  Work with development teams and product managers to ideate software solutions  Design client-side and server-side architecture  Build the front-end of applications through appealing visual design  Develop and manage well-functioning databases and applications  Write effective APIs  Test software to ensure responsiveness and efficiency  Trouble…",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5774397720?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Pearson"
+    },
+    "longitude": 80.24963,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3NDM5NzcyMCIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.Iiz0CRNiJQm4P73YQOiDXso2ytSBKGD2twJDTwz0VJI",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "description": "Role: Quality Assurance Engineer III (ETL Test Engineer) Location: Chennai, Tamilnadu Why Pearson? At Pearson, you'll join a mission-driven team dedicated to helping people make progress in their lives through learning. We value curiosity, collaboration, and innovation-empowering every employee to make a real impact. If you're passionate about education and growth, Pearson is the place to thrive. Job Summary We are looking for a skilled Data Quality / ETL Test Engineer (Individual Contributor) …",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Quality Assurance Engineer III",
+    "created": "2026-06-24T10:29:44Z",
+    "id": "5774397720"
+  },
+  {
+    "title": "Data Information Management/ Engineering & Strategy- Assistant Vice President",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "created": "2026-07-02T10:30:59Z",
+    "id": "5784971332",
+    "description": "Who we are With Citi's Analytics & Information Management (AIM) group, you will do meaningful work from Day 1. Our collaborative and respectful culture lets people grow and make a difference in one of the world's leading Financial Services Organizations. The purpose of the group is to use Citi's data assets to analyze information and create actionable intelligence for our business leaders. We value what makes you unique so that you have opportunity to shine. You also get the opportunity to work…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1Nzg0OTcxMzMyIn0.F-cX6tEPrZR6DqTG9CwahSrUZRgktFjet8WQNcIztSo",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "redirect_url": "https://www.adzuna.in/details/5784971332?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Citigroup"
+    },
+    "longitude": 80.24963
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "description": "Senior Data Engineer-I Would you like to be part of a team that delivers high-quality software to our customers? Are you a highly visible champion with a 'can do' attitude and enthusiasm that inspires others? About Our Team: Data Engineering - RDP-Consumption domain business delivery. About the Role: We are looking for a highly skilled Data Engineer to join our dynamic team. In this role, you will design, develop, and maintain scalable data pipelines and data platforms that support business int…",
+    "id": "5750121903",
+    "created": "2026-06-03T10:16:54Z",
+    "title": "Senior Data Engineer I",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "RELX INC"
+    },
+    "longitude": 80.24963,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5750121903?utm_medium=api&utm_source=7cd92d92",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1MDEyMTkwMyIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.yC0tLpBuJI7xFeuIebD91mXl-ay2hs2t5bIW334q1D8"
+  },
+  {
+    "id": "5780829573",
+    "created": "2026-06-29T10:30:13Z",
+    "title": "Sr. Developer",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "description": "AIA - Weekend Drive - BBSR 04th July 2026 Interview Location: Bhubaneswar Mode Of Interview : Face to Face Interview Date: 04th July 2026 Skill: Azure Databricks & Pyspark Experience - 6 - 9 Years Job Summary This hybrid Data Engineer role focuses on designing and optimizing Databricks SQL and PySpark solutions for complex payer and Medicare Medicaid claims processing. The role spans data engineering analytics and quality assurance to ensure accurate claim insights that support compliant health…",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MDgyOTU3MyIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.Npeylo2N2Na9TnV_qWZqEbI-5nPoHB7L7mnZBWYTfpo",
+    "longitude": 80.24963,
+    "company": {
+      "display_name": "Cognizant",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5780829573?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "longitude": 80.24963,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cognizant"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5780829584?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NzgwODI5NTg0In0.lbYsXUXGtcD6qIisVvtXrEHeODceNBt8D87512DdRaY",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "description": "AIA - Weekend Drive - BBSR 04th July 2026 Interview Location: Bhubaneswar Mode Of Interview: Face to Face Interview Date: 04th July 2026 Skill: Azure Databricks & Pyspark Experience - 6 - 9 Years Responsibilities  Design and develop scalable data pipelines using Databricks SQL and PySpark to process high volume Medicare and Medicaid claims data across payer systems  Implement efficient data models that support analytics use cases for claims adjudication trends member insights and provider perfo…",
+    "id": "5780829584",
+    "created": "2026-06-29T10:30:13Z",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "title": "Sr. Developer"
+  },
+  {
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "title": "Snowflake Data Engineer",
+    "created": "2026-06-06T06:11:28Z",
+    "id": "5753771662",
+    "description": "Hiring Sr Data Engineer Operation Data Engg Lead for Product MNC As a hiring partner we are looking forThe Data Engineers who will be responsible for the handson development maintenance and optimization of robust endtoend analytics data pipelines You will leverage a modern cloud stack Azure Snowflake dbt to ingest and transform data according to Data Vault 2 0 standards interested candidates can share word format resume with details at hidden email Job Title Sr Data Engineer Analytics Experienc…",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1Mzc3MTY2MiIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.8BSrQqekdphs7kQXqpBv0KqAtC_iOG1ljJ76yECtyig",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5753771662?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 80.24963,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "UNIMORPH CONSULTING LLP"
+    }
+  },
+  {
+    "id": "5754232194",
+    "created": "2026-06-06T14:17:45Z",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Data Scientist, Alexa Connections",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "description": "Description As a Data Scientist in Alexa Connections, you will lead the end-to-end development of machine learning and data science solutions that power intelligent communication experiences across channels such as calling, messaging and email. You will partner closely with product, engineering, and business leaders to translate ambiguous problems into scalable ML models, experimentation frameworks, and data-driven product decisions. In this role, you will design and deploy advanced ML and stat…",
+    "contract_time": "full_time",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1NDIzMjE5NCIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.5OWBhuzTcSxRqkvFMTDiKidiLMpslz-H2S0NIWWSWlE",
+    "company": {
+      "display_name": "Amazon",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": 80.24963,
+    "redirect_url": "https://www.adzuna.in/details/5754232194?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "title": "Business Systems Analyst",
+    "created": "2026-05-28T06:53:44Z",
+    "id": "5742845648",
+    "description": "Education Qualification: Bachelor of Science in Accounting, Business Administration or equivalent from an accredited university Public accounting experience 2-5 years of finance/accounting experience, specifically with experience in management reporting and analysis Essential Duties and Responsibilities: Revenue Recognition Process Create and process customer invoices for new sales, subscriptions, monthly maintenance, and professional services in a timely & accurate manner complying with corpor…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Accounting & Finance Jobs",
+      "tag": "accounting-finance-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NzQyODQ1NjQ4In0.j3xNUCP4odu9En-cBEm6AFM_eatyiWG2mgHeJw0SRG8",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5742845648?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": 80.24963,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Trimble"
+    }
+  },
+  {
+    "latitude": 13.06041,
+    "contract_time": "full_time",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NjY1NjM0NzIzIn0.6Z_srUcpkkjdtwqFR11ISKapyGFIs9nmG33UGLtPOOM",
+    "longitude": 80.24963,
+    "company": {
+      "display_name": "Hapag-Lloyd",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5665634723?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5665634723",
+    "created": "2026-03-15T01:39:42Z",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "UX Researcher",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Description The UX/UI Team at Hapag-Lloyd Chennai is one of three international teams designing the user experience for our internal enterprise systems. We are 30 experts globally providing research, design and development for our product teams. Our vision is to create internal software that seamlessly integrates into the workflow of business professionals and enables them to focus on delivering best customer experience. Responsibilities THE ROLE – QUANTITATIVE UX RESEARCHER We are seeking a pa…"
+  },
+  {
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Manager",
+    "created": "2026-06-04T10:20:18Z",
+    "id": "5751596340",
+    "description": "Manager Chennai, India;Mumbai, India; Zone 1, Gift Sez; Madhapur, Hyderabad To proceed with your application, you must be at least 18 years of age. Acknowledge (https://ghr.wd1.myworkdayjobs.com/lateral-ba\\_continuum/job/Chennai-Tamil-Nadu/Manager\\_26018774) Bank of America employees are required to meet all posting eligibility requirements prior to applying for any new position. Acknowledge (https://ghr.wd1.myworkdayjobs.com/lateral-ba\\_continuum/job/Chennai-Tamil-Nadu/Manager\\_26018774) Refer…",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NzUxNTk2MzQwIn0.6UPV7y1qSSxp9h-wFozB1voow3wt3WRLHxXMghT9bhI",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "redirect_url": "https://www.adzuna.in/details/5751596340?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Bank of America"
+    },
+    "longitude": 80.24963
+  },
+  {
+    "salary_min": 500000,
+    "id": "2234827768",
+    "created": "2021-06-07T11:49:30Z",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "title": "Machine Learning Architect - Deployments",
+    "company": {
+      "display_name": "netmedscom",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.in/details/2234827768?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "latitude": 13.06041,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiIyMjM0ODI3NzY4In0.DZCbg5jfRFV9uebDWfI0m0nsG9i4fOqzaMSB5OHLJTI",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "We are looking for an outstanding ML Architect (Deployments) with expertise in deploying Machine Learning solutions/models into production and scaling them to serve millions of customers. A candidate with an adaptable and productive working style which fits in a fast-moving environment. Skills: - 5 years deploying Machine Learning pipelines in large enterprise production systems. - Experience developing end to end ML solutions from business hypothesis to deployment / understanding the entirety …",
+    "longitude": 80.24963,
+    "salary_max": 3000000,
+    "salary_is_predicted": "0"
+  },
+  {
+    "created": "2026-06-19T10:25:36Z",
+    "id": "5768996390",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "title": "GeoSpatial Sr.Analyst MAP",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Job summary Serve as a senior geospatial analyst focused on validating high quality map data through robust manual and automated testing in a hybrid work model. Apply strong expertise in functional and regression testing automation frameworks and continuous integration and delivery to ensure reliable map services that enhance navigation location intelligence and user safety for customers worldwide. Responsibilities  Perform end to end functional and regression testing of geospatial map features…",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2ODk5NjM5MCIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.ZtS9ahTuU4hdvteyaVCr7K5pxX6cOSnbo2aDIWYRutE",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cognizant"
+    },
+    "longitude": 80.24963,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5768996390?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "title": "Transformation Lead - AD",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5752825626",
+    "created": "2026-06-05T10:25:49Z",
+    "description": "The Associate Director of AI Solutioning & Market Strategy is a senior leader who combines deep AI expertise with strategic market vision. This hybrid \"player-coach\" role is critical for driving success in two areas: 1. Winning high-value AI Training Data deals by personally architecting solutions and commercial models for our most complex opportunities. 2. Shaping our Go-to-Market (GTM) strategy by building analyst relationships, developing strategic partnerships, and positioning our brand as …",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1MjgyNTYyNiIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.8gzHlnEVDlOMQ0q2Nloo244L2vwa229urTOuFwd1hro",
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5752825626?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 80.24963,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cognizant"
+    }
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5761786907?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "Cassini Systems",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": 80.24305,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiM3BLVmJhZDQ4UkdfdHNNaDdHZ2xlUSIsImkiOiI1NzYxNzg2OTA3In0.OWSSztn99zX0pFXptpp3nadZCduw68dT5vIIos8oXDM",
+    "latitude": 12.96853,
+    "contract_time": "full_time",
+    "salary_is_predicted": "0",
+    "description": "Summary The Product Support Analyst (Market Data) will sit within Cassini’s Product Team, serving as the subject matter expert for all market data flows across the platform. The role's purpose is to ensure Cassini's data infrastructure works as intended end-to-end – from upstream vendor sourcing through to downstream consumption in Cassini's calculations. The person in this role will develop deep expertise in the data that powers Cassini's platform, understanding every upstream source, transfor…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "title": "Product Support BA",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai",
+        "Injambakkam"
+      ],
+      "display_name": "Injambakkam, Chennai"
+    },
+    "created": "2026-06-13T02:34:43Z",
+    "id": "5761786907"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "description": "Optiblack is a product growth firm that works with product leaders to drive revenue from data. Optiblack has worked with 50 firms and created an impact of $300M USD Optiblack is looking to add a product analyst that works with their clients on client engagement. Job Descriptions 0. Monitoring Look at data from various sources daily to understand insights Identify areas of improvement Create the dashboards as per requirements Build tracking plan 1. Data Analysis Gather and analyze data from vari…",
+    "longitude": 80.24963,
+    "salary_is_predicted": "0",
+    "salary_max": 1000000,
+    "salary_min": 900000,
+    "created": "2024-06-21T10:14:06Z",
+    "id": "4746328892",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "title": "Product Analyst",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Optiblack"
+    },
+    "redirect_url": "https://www.adzuna.in/details/4746328892?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 13.06041,
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDc0NjMyODg5MiIsInMiOiIzcEtWYmFkNDhSR190c01oN0dnbGVRIn0.8Sf5cFXJfgacUSP3YZ0ZnnHYQz-IVwZEtG_XtQsdL4s"
+  }
+]

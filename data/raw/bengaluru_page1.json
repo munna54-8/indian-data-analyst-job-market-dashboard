@@ -1,0 +1,1506 @@
+[
+  {
+    "redirect_url": "https://www.adzuna.in/land/ad/5789116833?se=Oot-Nad48RG-cvvra3L-5Q&utm_medium=api&utm_source=7cd92d92&v=120604F9BF7DA72EE5CC25FC668DDA2BF3CB0F13",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1Nzg5MTE2ODMzIn0.kDI-GRyejgQ5gATaWiiTw_ap4t3KST-wYIuAAd--gsA",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "id": "5789116833",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-07-05T17:34:35Z",
+    "company": {
+      "display_name": "Skills Agency",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka"
+    },
+    "description": "About the Company Skills Outsource Think Pvt ltd is specialized as a technology partner in software development & IT consulting services in various domains. We are working for international clients located all over the world, mainly in Europe, offering outsourcing and off-shoring solutions. Job Summary We are looking for a French-speaking Project Coordinator to manage and oversee projects for international clients. This role involves close collaboration with product teams, developers, and clien…",
+    "title": "French Project Coordinator"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 50000,
+    "id": "5701957947",
+    "created": "2026-04-17T05:43:28Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NzAxOTU3OTQ3In0.1yXAGrf3cnCGDRB71agn4rQK-v2OzFIl8mCv4lexQUY",
+    "redirect_url": "https://www.adzuna.in/details/5701957947?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_max": 1200000,
+    "description": "About the Role We are looking for highly analytical and detail-oriented Data Analysts from the 2026 graduating batch who are passionate about working with data and solving real-world business problems. This role will involve working across functions, applying analytics to drive data-driven decision-making. Key Responsibilities ● Extract, clean, and analyse large datasets using SQL and Python ● Perform statistical analysis to derive actionable insights, identify trends, patterns, and anomalies ●…",
+    "title": "Data Analyst",
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "display_name": "Time Hack Consulting",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "contract_time": "full_time",
+    "contract_type": "permanent"
+  },
+  {
+    "description": "Solid SQL capability (data extraction, transformation, validation) Strong data analysis skills with hands-on experience working with complex datasets Ability to manage and communicate with cross-functional stakeholders Experience in Liquidity, Treasury, and Regulatory Reporting",
+    "title": "Data Analyst",
+    "latitude": 13.10905,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "TalentOla"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore",
+        "Vidyaranyapura"
+      ],
+      "display_name": "Vidyaranyapura, Bangalore"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5785716520",
+    "created": "2026-07-02T23:22:03Z",
+    "longitude": 77.56145,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NTcxNjUyMCIsInMiOiJPb3QtTmFkNDhSRy1jdnZyYTNMLTVRIn0.-q3DTf9JaOFAIvkyeI3GGaLAF9WdQ0FLGfON7uq9NzM",
+    "redirect_url": "https://www.adzuna.in/details/5785716520?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0"
+  },
+  {
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore",
+        "Richmond Town"
+      ],
+      "display_name": "Richmond Town, Bangalore",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Trigent Software Private Limited"
+    },
+    "latitude": 12.9706,
+    "description": "Looking profiles with 6-9 yrs experiences Proficient in SQL and at least one programming language (Python, Java, or Scala). Experience with ETL tools and workflow orchestration (e.g., AWS Glue, Apache Airflow, Luigi, Talend). Hands-on experience with cloud platforms AWS, is must Good to have (GCP, or Azure) and services like S3, Redshift, BigQuery, or Data Factory. Familiarity with big data tools such as Hadoop, Spark, and Kafka. Knowledge of data modeling and warehousing concepts. Experience w…",
+    "salary_max": 3800000,
+    "title": "Data Analyst",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5781267907?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MTI2NzkwNyIsInMiOiJPb3QtTmFkNDhSRy1jdnZyYTNMLTVRIn0.6JRpZNl6q7sCjOIYSe45k0-fhcwEqt_8wZDd3qRFVcA",
+    "longitude": 77.60024,
+    "created": "2026-06-29T23:20:10Z",
+    "id": "5781267907",
+    "salary_min": 100000,
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1Nzg1NzMyMDIzIn0.Ksuns3g3L2RzZwRao4otqTbwqhGWl-g2jCe--n2guqg",
+    "redirect_url": "https://www.adzuna.in/details/5785732023?utm_medium=api&utm_source=7cd92d92",
+    "created": "2026-07-03T00:06:49Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5785732023",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Smiths Detection"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ]
+    },
+    "description": "Job Description Duties: Power BI Development Develop interactive, user-friendly dashboards and reports in Power BI Build effective data models using DAX and Power Query Maintain version control and documentation of dashboards Maintain / Troubleshoot existing Power BI reports/dashboards and making necessary arrangements for data refresh as per required frequencies. SQL & Data Handling Write and optimize SQL queries for data extraction, transformation, and validation Perform data validation and q…",
+    "title": "Data Analyst"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5787032313",
+    "created": "2026-07-04T00:44:32Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1Nzg3MDMyMzEzIn0.vDRxDCmJO04IVPDbcAC54xmNYtIOqwcdpxMyEYPrgMQ",
+    "redirect_url": "https://www.adzuna.in/details/5787032313?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "title": "Data Analyst",
+    "description": "Job Description Job Purpose & Dimensions Ensure global master data is being maintained on a highest quality level throughout their lifecycle. Define and continuously improve and implement measures, processes and tools to control global master data consistency and enhance existing tools. Core Responsibilities Maintain and govern master data across SCM systems, ensuring data quality, consistency, and compliance with governance standards. Ensure adherence to Master Data Governance (MDG) standards,…",
+    "company": {
+      "display_name": "Renesas Electronics",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka"
+    }
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1MTQ2NTA3MDg0In0.9_ThY1Y7rhPovC3TrkKfZtmymsuv74x4KbeOC4O5AOs",
+    "redirect_url": "https://www.adzuna.in/details/5146507084?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5146507084",
+    "created": "2025-04-16T01:41:37Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Amicus Therapeutics"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka"
+    },
+    "contract_time": "full_time",
+    "description": "Position Description Data Analyst Location: Remote/Bangalore Amicus Therapeutics is a global, patient-dedicated biotechnology company focused on discovering, developing and delivering high-quality medicines for people living with rare metabolic diseases. Position Summary Data analyst responsibilities include conducting full lifecycle analysis to include requirements, activities and design. Data analysts will develop analysis and reporting capabilities. They will also monitor performance and qua…",
+    "title": "Data Analyst"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Amicus India"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ]
+    },
+    "contract_time": "full_time",
+    "title": "Data Analyst",
+    "description": "Data Analyst Location: Remote/Bangalore Amicus Therapeutics is a global, patient-dedicated biotechnology company focused on discovering, developing, and delivering high-quality medicines for people living with rare metabolic diseases. Position Summary Data analyst responsibilities include conducting full lifecycle analysis to include requirements, activities and design. Data analysts will develop analysis and reporting capabilities. They will also monitor performance and quality control plans t…",
+    "redirect_url": "https://www.adzuna.in/details/5744868780?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NzQ0ODY4NzgwIn0.ZVGqrvitxo8YpSceQBaFPoXroKfKwEEgzR-E0aLYiLQ",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "id": "5744868780",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-05-30T02:27:15Z"
+  },
+  {
+    "salary_max": 1000000,
+    "description": "About the Role The following Job Specification is intended to reflect the nature, range and context of the work. It identifies the main requirements of the job but is not an exhaustive list of duties. The Data Analyst role is a vital role as to be a sole point of contact responsible for closely working with various teams internally and closely working with the CTO. This role typically requires the resource to analyse the vast number of datasets and provide a meaningful impact and the result of …",
+    "title": "Data Analyst",
+    "contract_time": "full_time",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Namaste Credit"
+    },
+    "location": {
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": 1712428599,
+    "salary_min": 500000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2020-09-19T01:45:32Z",
+    "redirect_url": "https://www.adzuna.in/details/1712428599?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxNzEyNDI4NTk5LCJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USJ9.9vQn-a-LM2738eNuXxtpqBXBnqT2cI2Z8PwK4-zcPu0",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "description": "Data Analyst – Job Decription Connecting people with each other and the right information is mission critical. Our Company develops innovative cloud-based technology to make it easier, more effective and more efficient to make the right connections. Our solutions put people in sync with each other and the right information, so they gain the insight needed to reach better decisions on the issues that matter most. We do it with a laser focus on reliability. The Company is a leading provider of te…",
+    "title": "Data Analyst",
+    "company": {
+      "display_name": "Intelliatx Therapeutics",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka"
+    },
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5503284671",
+    "created": "2025-11-19T22:19:09Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMzI4NDY3MSIsInMiOiJPb3QtTmFkNDhSRy1jdnZyYTNMLTVRIn0.FcUzq4PR4Ew_6k2V5YN9fg4HIjaMZbayNubKouVx40E",
+    "redirect_url": "https://www.adzuna.in/details/5503284671?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    }
+  },
+  {
+    "description": "We are looking for a Business Intelligence (BI)/Data Analyst to create and manage Power Bl and analytics solutions that turn data into knowledge. In this role, you should have a background in data and business analysis. If you are self-directed, passionate about data, and have business acumen and problem-solving aptitude, we'd like to meet you. Ultimately, you will enhance our business intelligence system to help us make better decisions. Requirements and Qualifications BSc/BA in Computer Scien…",
+    "salary_max": 1400000,
+    "title": "Data Analyst",
+    "company": {
+      "display_name": "Multi Recruit",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "contract_time": "full_time",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ]
+    },
+    "created": "2022-01-30T04:34:26Z",
+    "salary_min": 1200000,
+    "id": "2853927974",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/2853927974?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjg1MzkyNzk3NCIsInMiOiJPb3QtTmFkNDhSRy1jdnZyYTNMLTVRIn0.jAlk10opReS_QXdSFqJF5XZiIQhwmvr_pll0rrdd3vc"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "4715697356",
+    "salary_min": 1200000,
+    "created": "2024-06-01T09:41:50Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiI0NzE1Njk3MzU2In0.TrZCdKSWilI3slDKyy1qdeHCzfBgGLuGf-38J8nb5fg",
+    "redirect_url": "https://www.adzuna.in/details/4715697356?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "description": "Must have skills 3 to 6 years Data Science SQL, Excel, Big Query - mandate 3 years Python/ML, Hadoop, Spark - 2 years Requirements • 3 years prior experience as a data analyst • Detail oriented, structural thinking and analytical mindset. • Proven analytic skills, including data analysis and data validation. • Technical writing experience in relevant areas, including queries, reports, and presentations. • Strong SQL and Excel skills with the ability to learn other analytic tools • Good communic…",
+    "title": "Data analyst",
+    "salary_max": 1500000,
+    "contract_time": "full_time",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Sadup Softech"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka"
+    }
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 500000,
+    "id": "2403881225",
+    "created": "2021-08-24T22:37:13Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiIyNDAzODgxMjI1In0.r2xYBiLg-nV8Qs_B2rqdxeVmBSswTeysKrMTD1nV8gM",
+    "redirect_url": "https://www.adzuna.in/details/2403881225?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "description": "Measure the sales effectiveness efforts using data science/app/digital nudges. Should be able to work on the clickstream data Should be well versed and willing to work hands-on various Machine Learning techniques Skills Ability to lead a team of 5-6 members. Ability to work with large data sets and present conclusions to key stakeholders. Develop a clear understanding of the client’s business issue to inform the best approach to the problem. Root-cause analysis Define data requirements for crea…",
+    "salary_max": 1500000,
+    "title": "Data Analyst",
+    "contract_time": "full_time",
+    "company": {
+      "display_name": "Multi Recruit",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka"
+    }
+  },
+  {
+    "title": "Data Analyst",
+    "description": "Role- Data Analyst Experience- 2 to 5 years Location-Bangalore Job Role- ● Experience: Minimum of 2 years of professional experience in a data-heavy environment (E-commerce or Fintech experience is a plus). ● SQL Mastery: Exceptional ability to write complex joins, window functions, Analytical functions, and CTEs. Experience with high-scale databases (e.g., BigQuery, Hive, or Postgres). ● Scripting: Functional knowledge of Python for data manipulation (Pandas, NumPy) and basic automation script…",
+    "company": {
+      "display_name": "Wissen Technology",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5681009000",
+    "created": "2026-03-28T11:28:26Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NjgxMDA5MDAwIn0.EgVyO2eMddVNW3CeZW4Q1raEn-FSSL3hcZFVq8Kww20",
+    "redirect_url": "https://www.adzuna.in/details/5681009000?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_is_predicted": "0"
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/2539490267?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjUzOTQ5MDI2NyIsInMiOiJPb3QtTmFkNDhSRy1jdnZyYTNMLTVRIn0.oNIn-CKe1nlHM7i-5oMG9nLffluljY3bDK5YjOdZEB8",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_is_predicted": "0",
+    "id": "2539490267",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2021-10-13T05:52:44Z",
+    "contract_time": "full_time",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Graphene Services Pte Ltd"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka"
+    },
+    "title": "Data Analyst",
+    "description": "About Graphene Graphene is a Singapore Head quartered AI company which has been recognized as Singapore’s Best Start Up By Switzerland’s Seedstarsworld, and also been awarded as best AI platform for healthcare in Vivatech Paris. Graphene India is also a member of the exclusive NASSCOM Deeptech club. We are developing an AI plaform which is disrupting and replacing traditional Market Research with unbiased insights with a focus on healthcare, consumer goods and financial services. Graphene was f…"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5706462425",
+    "created": "2026-04-22T01:59:28Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNjQ2MjQyNSIsInMiOiJPb3QtTmFkNDhSRy1jdnZyYTNMLTVRIn0.PbxKCXWH5TKoj0ncYOFyXJhXIulT-dIc_zy6hCbnB6c",
+    "redirect_url": "https://www.adzuna.in/details/5706462425?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "Data Analyst",
+    "description": "Be part of something altogether life-changing Working at Cytiva in the Life Sciences industry means being at the forefront of providing new solutions to transform human health. Our incredible customers undertake life-saving activities ranging from fundamental biological research to developing innovative vaccines, new medicines, and cell and gene therapies. At Cytiva you will be able to continuously improve yourself and us – working on challenges that truly matter with people that care for each …",
+    "company": {
+      "display_name": "Cytiva Life Science",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka"
+    },
+    "contract_time": "full_time"
+  },
+  {
+    "created": "2023-10-02T13:22:30Z",
+    "salary_min": 0,
+    "id": "4344578568",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/4344578568?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiI0MzQ0NTc4NTY4In0.5eDR-j7X5JeKWokRyAAV-6GWT3u0ZZfp_PCJ20ddjP8",
+    "description": "About the role: We are looking for a motivated data analyst with sound experience in handling web/ digital analytics, to join us as part of the Kapiva D2C Business Team. This team is primarily responsible for driving sales and customer engagement on our website. This channel has grown 5x in revenue over the last 12 months and is poised to grow another 5x over the next six. It represents a high-growth, important part of our overall e-commerce growth strategy. The mandate here is to run an end-to…",
+    "title": "Data Analyst",
+    "salary_max": 500000,
+    "contract_time": "full_time",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Jobdost"
+    },
+    "location": {
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "EXL"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ]
+    },
+    "contract_time": "full_time",
+    "description": "Description Title : Data Analyst Location : Bangalore Develop and maintain interactive dashboards using Power BI/Tableau for business reporting Translate business requirements into data-driven solutions and recommendations Apply strong problem-solving skills to identify trends, gaps, and opportunities Work closely with stakeholders to support strategic decision-making Analyze large and complex datasets using SQL to extract actionable insights Ensure data accuracy, quality, and consistency acros…",
+    "title": "Data Analyst",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3NTI4ODk3MiIsInMiOiJPb3QtTmFkNDhSRy1jdnZyYTNMLTVRIn0.fOnNqo7Y9msg5o66J1PGvDoop80haRbsMcimgfbTT1c",
+    "redirect_url": "https://www.adzuna.in/details/5775288972?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5775288972",
+    "created": "2026-06-25T02:26:29Z"
+  },
+  {
+    "id": 1762829126,
+    "salary_min": 400000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2020-10-15T02:16:09Z",
+    "redirect_url": "https://www.adzuna.in/details/1762829126?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOjE3NjI4MjkxMjZ9.A-G_1U3tW5dh88s8yGm-dqmNUEYv-oontWJi8xwsTc8",
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "description": "We are looking for a result-driven candidate to join our analytics team as a Data Analyst. Duties And Responsibilities 1. Work closely with Operation Head to setup reporting structures using complex formula(s) over Google Sheets. 2. Should be able to use Google Apps Script towards creating simple applications for ongoing projects/clients. 3. To run a detailed analysis of project-level data to generate additional insights for clients in the form of analytical dashboards. 4. To build trackers for…",
+    "title": "Data Analyst",
+    "salary_max": 700000,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Awign"
+    },
+    "contract_time": "full_time",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ]
+    }
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/5762286343?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MjI4NjM0MyIsInMiOiJPb3QtTmFkNDhSRy1jdnZyYTNMLTVRIn0.hunQTKpiFiAjpZ9P4kIPjh_XD7YNDZeNEeyO-bawXfw",
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5762286343",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-06-13T13:33:59Z",
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Wissen Technology"
+    },
+    "contract_time": "full_time",
+    "contract_type": "contract",
+    "description": "Experience: 2 Years Mandatory Skills: Data Analysis, Data Mining, Data Validation, Python, SQL, Power BI, Advanced Excel Data Analyst We are looking for 1 Developer/Analyst to support data analysis, data mapping, and report automation initiatives. This is an entry-level role with structured training, ideal for candidates who are detail-oriented, proactive, and capable of working independently in a fast-paced environment. Key Responsibilities Perform data analysis and data validation across vari…",
+    "title": "Data Analyst"
+  },
+  {
+    "created": "2026-06-11T06:55:22Z",
+    "id": "5759289384",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5759289384?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NzU5Mjg5Mzg0In0.nUiJ-0hlNzGx7XpKKWXD9Pyogy03j5XbIwXounqw8Rg",
+    "description": "Job description Take on a critical role defining and realising fantastic solutions, processes, benefits and new opportunities to deliver to our stakeholders you'll be working in a vibrant, forward looking team and helping us to shape the future of our business It s a great chance to hit the ground running, take advantage of our development opportunities, and advance your career we're offering this role at associate level What you'll doIn your new role, you'll be supporting the analysis of compl…",
+    "title": "Data Analyst",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka"
+    },
+    "company": {
+      "display_name": "NatWest Markets",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5761947576",
+    "created": "2026-06-13T08:43:56Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NzYxOTQ3NTc2In0.a7Mp5mnqcsnrSVdB7CDSUm39bOJQ7nFkfZEsW8GR8pU",
+    "redirect_url": "https://www.adzuna.in/details/5761947576?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "title": "Data Analyst",
+    "description": "Notice Immediate: Immediate Joiners Location: Remote; Hours: US Pacific time business hours; US and client calendar (9PM to 5AM IST) NOTE: Individual is expected to and must be full-time dedicated to this role Position Overview: The Senior Data Analyst will play a critical role in analyzing and interpreting complex data to drive key business decisions. This individual will work closely with cross-functional teams to deliver actionable insights, optimize performance, and enhance our data-driven …",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Genisys Information Systems India Private Limited"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "salary_min": 0,
+    "id": "2572832371",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2021-10-24T04:00:25Z",
+    "redirect_url": "https://www.adzuna.in/details/2572832371?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiIyNTcyODMyMzcxIn0.dF5w_mNZz8Q3Sf81BDeNvC0plZ5SFVF5BzCQVtpQBx4",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_max": 1600000,
+    "description": "BitClass, a VC funded startup (backed by the investors or Unacademy, Doubtnut, ShareChat, Meesho among others) in the domain of edtech, is looking for a data analyst to help in making better business decisions using information from the available data. The responsibility is to gather and prepare data from multiple sources, run statistical analyses, and communicate your findings in a clear and objective way. Responsibilities - Understanding the business requirements so as to formulate the proble…",
+    "title": "Data Analyst",
+    "company": {
+      "display_name": "BitClass",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "contract_time": "full_time",
+    "location": {
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjYzNTUyNjM0MCIsInMiOiJPb3QtTmFkNDhSRy1jdnZyYTNMLTVRIn0.k2j45wvrGKe1UAzwQXi4zLaIIioPHmqs-i-V2vICeaQ",
+    "redirect_url": "https://www.adzuna.in/details/2635526340?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "2635526340",
+    "salary_min": 0,
+    "created": "2021-11-12T04:18:09Z",
+    "contract_time": "full_time",
+    "company": {
+      "display_name": "Amazon",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "description": "Data Analyst Job Description : About GlowRoad: GlowRoad is building India's most profitable social e-commerce platform where resellers share the catalog of products through their network on Facebook, Whatsapp, Instagram, etc and convert them to sales. GlowRoad is on a mission to create micro-entrepreneurs (resellers) who can set up their web-store, market their products and track all transactions through its platform. GlowRoad app has 15M downloads and 1- million  MAU's.- GlowRoad has been fund…",
+    "salary_max": 800000,
+    "title": "Data Analyst"
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/5780522532?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 77.59837,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NzgwNTIyNTMyIn0.w-LzSSnepvYsMT7Wn9-GNyKQNdTQPjNUhHa2-y1l1fM",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "id": "5780522532",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-06-29T02:28:03Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka"
+    },
+    "company": {
+      "display_name": "Cisco Systems",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "contract_time": "full_time",
+    "latitude": 12.95703,
+    "title": "Data Analyst",
+    "description": "Meet the Team: We are a high-performing Data and Analytics team dedicated to delivering insights and analytics for GTM Sales Use cases. Our mission is to drive the growth of Cisco’s Sales and recurring business and embed AI into every layer of decision-making. By demonstrating machine learning, large language models (LLMs), and automation, we are redefining how data fuels innovation and efficiency at scale. Your Impact: As a Data Analyst, you will play a pivotal role in transforming insights an…"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Stellaspire"
+    },
+    "contract_time": "full_time",
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "description": "Designation - Data Analyst (2years’ Experience) Location - Bangalore Position - Full-Time (No Hybrid) About Us AI ML Startup set up in 2015 which is in the domain of power, banking, agriculture sector etc. and working directly with Karnataka Govt to offer insights and decisions. Company website: - https://quenext.com/ You will be part of the team that is delivering large transformational projects to energy utilities, banks and government bodies utilizing our in-house patented AI driven products…",
+    "title": "Data Analyst",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1MzQzNjM0MjQ3In0.QXMAya65WO_rmqk-bqo-vHi4vtJWwNdqD7_2TUywZaQ",
+    "redirect_url": "https://www.adzuna.in/details/5343634247?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5343634247",
+    "created": "2025-08-08T17:22:09Z"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NTIyMTI2NTkyIn0.BQuu6GlqBrbAOXeRuDoj3VYWDGYNTu1fKhFV5lbojT4",
+    "redirect_url": "https://www.adzuna.in/details/5522126592?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5522126592",
+    "created": "2025-12-01T22:55:55Z",
+    "company": {
+      "display_name": "Technogen",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "contract_time": "full_time",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ]
+    },
+    "title": "Data Analyst",
+    "description": "Job Code : JPC – 36740 We are looking for a creative data analyst who has strong experience in both data visualization and data workflow construction Analyst must be proficient in both Hadoop and Alteryx (Hadoop certification required) Analyst must have experience working with senior leadership to both comprehend and produce desired outputs Experience building Hadoop dashboards showing multiple visual views of performance with easy drill down capability Preferred candidate will be well versed i…"
+  },
+  {
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiI0ODAxNTU4NzAxIn0.rs-YmqmRrJFBv_5RJWUhmHQdwrMiFizOt-ns7ZDkh4o",
+    "redirect_url": "https://www.adzuna.in/details/4801558701?utm_medium=api&utm_source=7cd92d92",
+    "created": "2024-07-31T03:15:22Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "4801558701",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Immunogen Pharmaceutical"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "contract_time": "full_time",
+    "title": "Data Analyst",
+    "description": "About Immunogen Targeting a better life for people with cancer is why we get up in the morning. It’s not enough to disrupt the progress of someone’s cancer; we want to keep cancer from disrupting someone’s life. That’s why everything we do is about developing the most precise, targeted cancer therapies. We believe this is the best way to get people back to their lives – back to living today, tomorrow, and beyond. For us, targeting a better now is the only thing that matters. About the role Canc…"
+  },
+  {
+    "description": "Data Analyst Job Description Summary Are you passionate about handling large & complex data problems, want to make an impact and have the desire to work on ground-breaking big data technologies? Then we are looking for you. At Amagi, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Would you like to work in a fast-paced environment where your technical ab…",
+    "title": "Data Analyst",
+    "salary_max": 2000000,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Amagi Media Labs"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ]
+    },
+    "contract_time": "full_time",
+    "salary_min": 1000000,
+    "id": "2830210357",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2022-01-21T04:29:35Z",
+    "redirect_url": "https://www.adzuna.in/details/2830210357?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjgzMDIxMDM1NyIsInMiOiJPb3QtTmFkNDhSRy1jdnZyYTNMLTVRIn0.s2o5gX8X20YoAoJ43ylu_9I49buYnw_4bmlBsOWyP9o",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0"
+  },
+  {
+    "description": "1. 2 to 4 years of experience 2. hands on experience using python, sql, tablaue 3. Data Analyst About Amagi ( www.amagi.com ): Amagi is a market leader in cloud based media technology services for channel creation, distribution and ad monetization. Amagi’s cloud technology and managed services is used by TV networks, content owners, sports rights owners and pay TV / OTT platforms to create 24x7 linear channels for OTT and broadcast and deliver them to end consumers. Amagi’s pioneering and marke…",
+    "salary_max": 1400000,
+    "title": "Data Analyst",
+    "contract_time": "full_time",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Amagi Media Labs"
+    },
+    "location": {
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "2830210287",
+    "salary_min": 1000000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2022-01-21T04:29:34Z",
+    "redirect_url": "https://www.adzuna.in/details/2830210287?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiIyODMwMjEwMjg3In0.cis-DKVO6BDr1aMLQeHFnBnaRIJZDVWZ3wpdTGrAZ6c",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "created": "2026-07-02T02:54:43Z",
+    "id": "5784376216",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5784376216?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 77.59837,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NDM3NjIxNiIsInMiOiJPb3QtTmFkNDhSRy1jdnZyYTNMLTVRIn0.RlMuT30-0PNPkAqt3WigXDy2dP7qFuEuNWgaHhVtN4s",
+    "title": "Data Analyst",
+    "description": "Description Company Description Tradeweb is a global leader in electronic trading across asset classes. As financial markets become increasingly interconnected, our technology enables efficient, multi-asset trading on a global scale. We serve more than 3,000 clients in more than 85 countries, including many of the world’s largest banks, asset managers, hedge funds, insurers, corporations, and wealth managers. Creative collaboration and sharp client focus have helped fuel our organic growth. We …",
+    "company": {
+      "display_name": "Tradeweb Markets",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 12.95703
+  },
+  {
+    "latitude": 12.95703,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Tradeweb"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ]
+    },
+    "description": "Company Description Tradeweb is a global leader in electronic trading across asset classes. As financial markets become increasingly interconnected, our technology enables efficient, multi-asset trading on a global scale. We serve more than 3,000 clients in more than 85 countries, including many of the world's largest banks, asset managers, hedge funds, insurers, corporations, and wealth managers. Creative collaboration and sharp client focus have helped fuel our organic growth. We facilitated …",
+    "title": "Data Analyst",
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "longitude": 77.59837,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1Nzg0OTc0NDY3In0.RSMgaUxJ-cMHiz7_aHVB_hXpmwiqapdwH_NoIA4-jjI",
+    "redirect_url": "https://www.adzuna.in/details/5784974467?utm_medium=api&utm_source=7cd92d92",
+    "created": "2026-07-02T10:33:43Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5784974467"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MDUzNDE0MCIsInMiOiJPb3QtTmFkNDhSRy1jdnZyYTNMLTVRIn0.K5clxjYlpHZz1RNKOSt38WAELKA7JNkABWm0ecjSLs0",
+    "redirect_url": "https://www.adzuna.in/details/5780534140?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5780534140",
+    "created": "2026-06-29T02:43:50Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka"
+    },
+    "company": {
+      "display_name": "Coupand",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Company Introduction We exist to wow our customers. We know we’re doing the right thing when we hear our customers say, “How did I ever live without Coupang?” Born out of an obsession to make shopping, eating, and living easier than ever, we’re collectively disrupting the multi-billion-dollar e-commerce industry from the ground up. We are one of the fastest-growing e-commerce companies that established an unparalleled reputation for being a dominant and reliable force in South Korean commerce. …",
+    "title": "Data Analyst"
+  },
+  {
+    "title": "Data Analyst",
+    "description": "Job ID 27-0154 Envision yourself at Barracuda The Analyst will support data-driven insights that help power B2B growth initiatives, focusing on foundational pipeline and business performance metrics. In this role, you will apply your foundational analytical skills to analyze data, generate reports, maintain dashboards and provide insights that guide decision-making across teams. This position is ideal for someone eager to learn and contribute to business analytics in a collaborative SaaS enviro…",
+    "latitude": 12.95703,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Barracuda Networks"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5728400439",
+    "created": "2026-05-14T02:24:15Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NzI4NDAwNDM5In0.F0_9hNG3Cr5ACc26zkFfKOOSzGNUAkD44crKcheqJOQ",
+    "longitude": 77.59837,
+    "redirect_url": "https://www.adzuna.in/details/5728400439?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "salary_max": 1500000,
+    "description": "Immediate Joiners Preferred NOTE: Working Shift: 11 am - 8 pm IST (/- one hour on need basis) Monday to Friday Responsibilities : 1. Leverage Alteryx to build, maintain, execute and deliver data assets. This entails using data analytics tools (combination of proprietary tools, Excel, and scripting), validating raw data quality, and working with Tableau/ Power BI and other geospatial data visualization applications 2. Analyze large data sets in Alteryx, finding patterns and providing a concise s…",
+    "title": "Data Analyst",
+    "contract_time": "full_time",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Marktine"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 0,
+    "id": "2177266370",
+    "created": "2021-05-11T13:01:41Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjE3NzI2NjM3MCIsInMiOiJPb3QtTmFkNDhSRy1jdnZyYTNMLTVRIn0.MRU_2ccO0fnJrJL4Rsn5DFCq0pXhZSlGmKHqGhdoD-I",
+    "redirect_url": "https://www.adzuna.in/details/2177266370?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0"
+  },
+  {
+    "title": "Data Analyst",
+    "description": "About Intercept Pharmaceuticals Intercept Pharmaceuticals, Inc. is an American biopharmaceutical company incorporated in 2002, focusing on the development of novel synthetic bile acid analogs to treat chronic liver diseases, such as primary biliary cirrhosis (PBC) now called primary biliary cholangitis, non-alcoholic fatty liver disease (or non-alcoholic steatohepatitis , NASH), cirrhosis , portal hypertension , primary sclerosing cholangitis and also the intestinal disorder, bile acid diarrhea…",
+    "contract_time": "full_time",
+    "company": {
+      "display_name": "Intercept Pharmaceuticals",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "4801598617",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2024-07-31T03:18:00Z",
+    "redirect_url": "https://www.adzuna.in/details/4801598617?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMTU5ODYxNyIsInMiOiJPb3QtTmFkNDhSRy1jdnZyYTNMLTVRIn0.omuenWtZPuyxuxEBSokkFQq47aRUwT3LrR_sV2gMeFw",
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "scientific-qa-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Scientific & QA Jobs"
+    }
+  },
+  {
+    "created": "2022-11-11T06:35:47Z",
+    "id": "3679469504",
+    "salary_min": 100000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/3679469504?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiIzNjc5NDY5NTA0In0.FPamiYoT4NqI4toCfPXlVTnm4D66duFOp0LUXuS6uWM",
+    "description": "2 years of Analytics with predominant experience in SQL, SAS, Statistics, R , Python, Visualization Experienced in writing complex SQL select queries ( window functions & CTE’s) with advanced SQL experience Should be an individual contributor for initial few months based on project movement team will be aligned Strong in querying logic and data interpretation Solid communication and articulation skills Able to handle stakeholders independently with less interventions of reporting manager Develo…",
+    "salary_max": 1500000,
+    "title": "Data Analyst",
+    "company": {
+      "display_name": "Indium Software",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "contract_time": "full_time",
+    "location": {
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "salary_max": 1200000,
+    "description": "Good knowledge of SQL , Microsoft Excel One Programming language in SAA/Python or R Skills: R Programming, Python and MS-Excel",
+    "title": "Data Analyst",
+    "contract_time": "full_time",
+    "company": {
+      "display_name": "Ingrainhub",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_min": 300000,
+    "id": 1171507526,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2019-06-05T21:12:09Z",
+    "redirect_url": "https://www.adzuna.in/details/1171507526?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOjExNzE1MDc1MjZ9.1YIBxUAsXJAUy3C1jnX1o_suziYZ3fuvv0Co9V2WZKc",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOjExODYwMTA0ODh9._xQbbcBRg34Igdt7Ml1gfh7Lw9wr50ScA_a_BOKd-vg",
+    "redirect_url": "https://www.adzuna.in/details/1186010488?utm_medium=api&utm_source=7cd92d92",
+    "created": "2019-06-20T21:36:33Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": 1186010488,
+    "salary_min": 300000,
+    "contract_time": "full_time",
+    "company": {
+      "display_name": "Dotball Interactive Private Limited",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ]
+    },
+    "description": "- Excellent skill in SQL and SQL tools - Fantasy Gamer - Excited to dive deep into data and derive insights - Decent communication and writing skills - Interested in Automated solutions - Startup and Growth Mindset - Analytical Data mining thinking - Python - Good programmer Skills: Python, Data Analytics and SQL server",
+    "salary_max": 600000,
+    "title": "Data Analyst"
+  },
+  {
+    "description": "Location: Bangalore Work Timing: 5 Days A Week Responsibilities include: • Ensure right stakeholders gets right information at right time • Requirement gathering with stakeholders to understand their data requirement • Creating and deploying reports • Participate actively in datamarts design discussions • Work on both RDBMS as well as Big Data for designing BI Solutions • Write code (queries/procedures) in SQL / Hive / Drill that is both functional and elegant, following appropriate design patt…",
+    "title": "Data Analyst",
+    "salary_max": 2100000,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "zyoin"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka"
+    },
+    "contract_time": "full_time",
+    "salary_min": 500000,
+    "id": "2577819167",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2021-10-26T04:51:56Z",
+    "redirect_url": "https://www.adzuna.in/details/2577819167?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiIyNTc3ODE5MTY3In0.FOLKZHPvokr-fM25uRyED2HdK3JPcnP1llwZcU-1lAk",
+    "salary_is_predicted": "0",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    }
+  },
+  {
+    "title": "Data Analyst",
+    "description": "Analytical tool: Redpoint Research and drawing insights Excellent written, oral and presentation skill Critical thinking and problem-solving skill Applications: SQL, Redpoint Description: Create unique fleet rich database using multi step matching rules Critical thinking in identifying record survivor ship rules for identifying master record Data roll-up at different levels, by providing linkage across databases Learn issues clients are currently facing with their dataset Foresee the problems i…",
+    "salary_max": 1500000,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "CIEL HR Services"
+    },
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "2653476396",
+    "salary_min": 0,
+    "created": "2021-11-18T04:24:02Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjY1MzQ3NjM5NiIsInMiOiJPb3QtTmFkNDhSRy1jdnZyYTNMLTVRIn0.djAkskxGQvCb7YF8RuCSyrG4hPvei61KwpTFDv3S35w",
+    "redirect_url": "https://www.adzuna.in/details/2653476396?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0"
+  },
+  {
+    "created": "2022-12-26T06:16:30Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "3801594068",
+    "salary_min": 1000000,
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiIzODAxNTk0MDY4In0.KbKjfvcj2ys4CRZ2htYVpexTH4wyQnoVdqrmuyiVY4A",
+    "redirect_url": "https://www.adzuna.in/details/3801594068?utm_medium=api&utm_source=7cd92d92",
+    "title": "Data Analyst",
+    "description": "Primary Duties and Responsibilities Experience with Informatica Multidomain MDM 10.4 tool suite preferred Partnering with data architects and engineers to ensure an optimal data model design and implementation for each MDM domain in accordance with industry and MDM best practices Works with data governance and business steward(s) to design, develop, and configure business rules for data validation, standardize, match, and merge Implementation of Data Quality policies, procedures and standards a…",
+    "salary_max": 3000000,
+    "contract_time": "full_time",
+    "company": {
+      "display_name": "Talent500 by ANSR",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ]
+    }
+  },
+  {
+    "salary_max": 1200000,
+    "description": "Skill Set SQL, Python, Numpy,Pandas,Knowledge of Hive and Data warehousing concept will be a plus point. JD - Strong analytical skills with the ability to collect, organise, analyse and interpret trends or patterns in complex data sets and provide reports & visualisations. - Work with management to prioritise business KPIs and information needs Locate and define new process improvement opportunities. - Technical expertise with data models, database design and development, data mining and segmen…",
+    "title": "Data Analyst",
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "display_name": "Yulu Bikes",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "contract_time": "full_time",
+    "id": 1422966819,
+    "salary_min": 700000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2020-01-25T17:57:23Z",
+    "redirect_url": "https://www.adzuna.in/details/1422966819?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxNDIyOTY2ODE5LCJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USJ9.PTbUcOz3UQQhN89zd9Tiq0wnWTwMBGMDEAsZTFhH7CE",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOjExNzE1MDk1OTl9.-2WcPNUWip6lIAyeqZzxhacg9IfcoN7hQgfKNISsv78",
+    "redirect_url": "https://www.adzuna.in/details/1171509599?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": 1171509599,
+    "salary_min": 500000,
+    "created": "2019-06-05T21:12:28Z",
+    "contract_time": "full_time",
+    "company": {
+      "display_name": "Rocket Kommerce",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka"
+    },
+    "description": "Rocket Kommerce LLP: We are a Bangalore-based top-tier stealth-mode e-commerce enabling technology & solutions company powering several brands and leading e-commerce companies in India. Our product is a Cloud-based SaaS Inventory, Warehouse Management & Omni-Channel Solution. We have deep relationships with leading e-commerce companies in India and have processed over Rs 1500 crore of GMV. We are building out our product and technology platform and other services anticipating HUGE demand over n…",
+    "title": "Data Analyst",
+    "salary_max": 800000
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5531896486?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMTg5NjQ4NiIsInMiOiJPb3QtTmFkNDhSRy1jdnZyYTNMLTVRIn0.W3sDn2APGYiIWm_ZroSoF7nhc32QATDQuCDtrQxdluw",
+    "created": "2025-12-07T05:40:05Z",
+    "salary_min": 800000,
+    "id": "5531896486",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "company": {
+      "display_name": "Peak Hire Solutions",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "description": "Required Skills: Strong SQL Expertise, Data Reporting & Analytics, Database Development, Stakeholder & Client Communication, Independent Problem-Solving & Automation Skills Review Criteria · Must have Strong SQL skills (queries, optimization, procedures, triggers) · Must have Advanced Excel skills · Should have 3 years of relevant experience · Should have Reporting  dashboard creation experience · Should have Database development & maintenance experience · Must have Strong communication for cli…",
+    "title": "Data Analyst",
+    "salary_max": 1100000
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/5314053973?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMxNDA1Mzk3MyIsInMiOiJPb3QtTmFkNDhSRy1jdnZyYTNMLTVRIn0.TUls7qDFlsFwOmJwlF8rPdqWVkNg0ZN_VUUfyRmwJ1o",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_min": 100000,
+    "id": "5314053973",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2025-07-21T05:27:56Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Fisdom"
+    },
+    "contract_time": "full_time",
+    "title": "Data Analyst",
+    "description": "Background Fisdom is a leading digital wealth management platform. Fisdom platform (mobile apps and web apps) provides access to consumers to a wide bouquet of financial solutions – investments, savings and protection (and many more in the pipeline). Fisdom blends cutting-edge technology with conventional financial wisdom, awesome UX and friendly customer service to make financial products simpler and more accessible to millions of Indians. We are growing and constantly looking for high perform…",
+    "salary_max": 100000
+  },
+  {
+    "created": "2025-07-10T05:24:09Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5294954886",
+    "salary_min": 650000,
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTI5NDk1NDg4NiIsInMiOiJPb3QtTmFkNDhSRy1jdnZyYTNMLTVRIn0.CZD5CRsdqsZn0lnPR0UsV3b-cBDlWJFKGq1QfzCI4K8",
+    "redirect_url": "https://www.adzuna.in/details/5294954886?utm_medium=api&utm_source=7cd92d92",
+    "title": "Data Analyst",
+    "description": "Bachelor's degree in Computer Science, Engineering, Operations Research, Math, or related discipline. Minimum 2 years of experience as an Analyst role preferred. Highly proficient in Microsoft Office and Windows based applications. SQL AND Excel Knowledge and Hands-on experience is a must. Demonstrated Analytical ability, results-oriented environment with external customer interaction. Excellent written and verbal communication and presentation skills and the ability to express thoughts logical…",
+    "salary_max": 850000,
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Multi Recruit"
+    },
+    "contract_time": "full_time"
+  },
+  {
+    "created": "2026-05-17T06:43:12Z",
+    "id": "5731956518",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5731956518?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NzMxOTU2NTE4In0.2A_uzI9AeMT7O49FgtbimkLcS5PPre4GNeMKwoOVkkE",
+    "title": "Data Analyst",
+    "description": "Expertise in data analysis, computer-aided analysis, or scientific research. Proficiency in data analysis tools such as MATLAB, Excel, and Power BI is required. Expertise in data visualization tools is preferred. Familiarity with RFID systems and retail store operations is preferred. Skills: Power Bi, Data Analysis, Visualization Experience: 3.00-5.00 Years Education: Bachelor Of Technology (B.Tech/B.E)",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Tessolve Semiconductor Private Limited"
+    },
+    "location": {
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Tap Invest"
+    },
+    "contract_time": "full_time",
+    "location": {
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "description": "As an Analyst at Tap Invest, you’ll turn data into decisions. You’ll work with teams across Product, Ops, Marketing, and Sales to uncover insights, solve real business problems, and drive strategy. This role is for someone who is comfortable working with data independently and can support business teams with reliable analysis and reporting. Key Responsibilities ● Gather, organize, and clean data from various sources including databases, spreadsheets, and external sources to ensure accuracy and …",
+    "title": "Data Analyst",
+    "salary_max": 500000,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NzE1NDc4NzkwIn0.tLsTOgiMqaenhPYY7s2CLxiWmFPIf0EumliyeRjDNeA",
+    "redirect_url": "https://www.adzuna.in/details/5715478790?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 300000,
+    "id": "5715478790",
+    "created": "2026-05-01T11:45:52Z"
+  },
+  {
+    "description": "Description Analyze and interpret large datasets to extract meaningful insights and support decision-making processes in the business. Responsibilities Collect, clean, and analyze data, create reports and dashboards, collaborate with stakeholders on data needs, perform statistical analysis Qualifications Bachelor's/Master's in any stream 2-5 years",
+    "title": "Data Analyst",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "EXL"
+    },
+    "contract_time": "full_time",
+    "created": "2026-06-03T02:29:11Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5749671387",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT290LU5hZDQ4UkctY3Z2cmEzTC01USIsImkiOiI1NzQ5NjcxMzg3In0.oPmAV5cEwAPr_HQxnLH3rluxIGRKmoGy-yHU-7Xer2k",
+    "redirect_url": "https://www.adzuna.in/details/5749671387?utm_medium=api&utm_source=7cd92d92"
+  }
+]

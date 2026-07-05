@@ -1,0 +1,1523 @@
+[
+  {
+    "description": "BMS Hyderabad is an integrated global hub where our work is focused on helping patients prevail over serious diseases by building sustainable and innovative solutions. This important science, technology, and innovation center will support a range of technology and drug development activities that will help us usher in the next wave of innovation. Summary : As a Data Analyst 2 in the MedicalEvidence Generation team, you willplay a crucial role in analyzing MedicalEvidence Generation portfolio da…",
+    "redirect_url": "https://www.adzuna.in/details/4762780079?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "company": {
+      "display_name": "Bristol Myers Squibb",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 17.40275,
+    "title": "Data Analyst II, Medical Evidence Generation [Python & Tableau]",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "scientific-qa-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Scientific & QA Jobs"
+    },
+    "id": "4762780079",
+    "created": "2024-07-02T18:45:46Z",
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana"
+    },
+    "longitude": 78.50806,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI0NzYyNzgwMDc5In0.5jPy_8uloBhut32lveuLI_BfI3AueR6noKvFxMN4MXA"
+  },
+  {
+    "description": "Key Responsibilities: Manager Data Product Analyst will be responsible for supporting the design, build, and maintenance of the data products, evolution of the data products, utilizing the most suitable data architecture required for our organization's data needs to support Clinical Operations and Real-World Data functions. Accountable for delivering high quality, data products and analytic ready data solutions for GDD Develop and maintain ETL pipelines for ingesting data from various sources i…",
+    "redirect_url": "https://www.adzuna.in/details/5067536947?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Bristol Myers Squibb"
+    },
+    "latitude": 17.40275,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Senior Data Product Analyst",
+    "id": "5067536947",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "created": "2025-03-01T03:37:21Z",
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 78.50806,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA2NzUzNjk0NyIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.e_tOO_FBRxBw5ZzKBO7n1AkE4FG7mrWfZkI6i5CT9Ww"
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/5707557917?utm_medium=api&utm_source=7cd92d92",
+    "description": "CRM & Data Systems Analyst Remote / Hybrid | 2–5 years | Hyderabad About Rizzle Rizzle transforms written content into compelling short-form videos through a seamless blend of AI and human creativity. By partnering with media companies and leveraging cutting-edge platforms like Getty Images and Eleven Labs, we efficiently produce high-quality, brand-aligned video content at scale. Our AI Video Expert team serves as the final quality checkpoint—ensuring every video meets internal standards while…",
+    "salary_is_predicted": "0",
+    "latitude": 17.40275,
+    "company": {
+      "display_name": "Rizzle",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "CRM & Data Systems Analyst",
+    "id": "5707557917",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "created": "2026-04-23T02:10:20Z",
+    "longitude": 78.50806,
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNzU1NzkxNyIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.RFlepnyl2ZUFiT6f-5k3qPw73_HKJTAyvd5H-jwGRzk"
+  },
+  {
+    "id": "5756005581",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "title": "Senior Data Acquisition Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Amgen"
+    },
+    "latitude": 17.40275,
+    "description": "Job Description ABOUT AMGEN Amgen harnesses the best of biology and technology to fight the world's toughest diseases, and make people's lives easier, fuller and longer. We discover, develop, manufacture and deliver innovative medicines to help millions of patients. Amgen helped establish the biotechnology industry more than 40 years ago and remains on the cutting-edge of innovation, using technology and human genetic data to push beyond what's known today. ABOUT THE ROLE Role Description: The …",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5756005581?utm_medium=api&utm_source=7cd92d92",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1NjAwNTU4MSIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.9_QeR3_WPeF_dBVJehpDcDT5lg_2fmW21VSIvnwV8AM",
+    "location": {
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "longitude": 78.50806,
+    "created": "2026-06-08T10:17:26Z"
+  },
+  {
+    "latitude": 17.40275,
+    "company": {
+      "display_name": "Optum",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5774585715?utm_medium=api&utm_source=7cd92d92",
+    "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health o…",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "id": "5774585715",
+    "title": "Senior Data Engineering Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "created": "2026-06-24T15:04:34Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3NDU4NTcxNSIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.JtNcVNH4_-X-ELh_lcYzZJNfnT1WSWFxdXIuPZ7g_eE",
+    "longitude": 78.50806,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    }
+  },
+  {
+    "created": "2026-06-27T10:31:30Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3ODY5Nzg1NSIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.Z0jO4M6HBOdl4Yx0vbjU-FnKKXWSIfWD1sulwtQcZVc",
+    "longitude": 78.50806,
+    "location": {
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "latitude": 17.40275,
+    "company": {
+      "display_name": "UnitedHealth Group",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0",
+    "description": "Requisition number: 2366917 Job category: Technology Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the…",
+    "redirect_url": "https://www.adzuna.in/details/5778697855?utm_medium=api&utm_source=7cd92d92",
+    "id": "5778697855",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Senior Data Engineering Analyst"
+  },
+  {
+    "created": "2026-05-29T10:13:17Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0NDI1ODc2MSIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.MgyDhE_zkNMNxKRTsRuqQSX-STRgeGDU0-t0cJ8F2rY",
+    "longitude": 78.50806,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "latitude": 17.40275,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Honeywell"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5744258761?utm_medium=api&utm_source=7cd92d92",
+    "description": "In this role you should be responsible for the design, development, and implementation of SAP solutions for data migration within the supply chain domain. This role requires strong technical expertise in SAP modules, leadership skills to guide a team of Technical Engineers and the ability to collaborate with business stakeholders to deliver scalable and efficient solutions. Key Responsibilities  Should take complete ownership for the ETL process for data migration for MM, PP, WM, and SD SAP mod…",
+    "salary_is_predicted": "0",
+    "id": "5744258761",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "Sr Data Management Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "created": "2026-06-12T10:31:58Z",
+    "longitude": 78.50806,
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MDk5MTcyMyIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.PHUZNIZwha295wTuw2VwPG83biR_T-jWs6QdScrOoE4",
+    "salary_is_predicted": "0",
+    "description": "Requisition number: 2365187 Job category: Technology Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the…",
+    "redirect_url": "https://www.adzuna.in/details/5760991723?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "UnitedHealth Group",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 17.40275,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Senior Data Engineering Analyst",
+    "id": "5760991723",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    }
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzM1OTg3MjYwIn0.zqmRktBdNDWj1L6yTBlyiOZ0vSdUwsn0tAz4dZDsXyA",
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 78.50806,
+    "created": "2026-05-21T10:10:30Z",
+    "id": "5735987260",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Senior Data Analytics Analyst",
+    "latitude": 17.40275,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Inspire Brands Hyderabad Support Center"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5735987260?utm_medium=api&utm_source=7cd92d92",
+    "description": "About Inspire Brands: Inspire Brands is disrupting the restaurant industry through digital transformation and operational efficiencies. The companys technology hub, Inspire Brands Hyderabad Support Center, India, will lead technology innovation and product development for the organization and its portfolio of distinct brands. The Inspire Brands Hyderabad Support Center will focus on developing new capabilities in data science, data analytics, eCommerce, automation, cloud computing, and informat…",
+    "salary_is_predicted": "0"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "InsiderRisk L2 Data Protection Analyst",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "id": "5756755818",
+    "description": "Position Title: Data Protection Analyst – DLP Monitoring & Alert Response Job Type: Full-Time Location: India (Availability between 1 PM IST – 10 PM IST, with a minimum 3-hour overlap with US Eastern Time) Reports To: ZICC Data Protection Lead Department: Data Protection / Information Security Position Responsibilities (100% allocation across the following areas) Monitoring & Alert Handling Monitor data protection dashboards and alert queues for policy violations or anomalous activity. Conduct …",
+    "redirect_url": "https://www.adzuna.in/details/5756755818?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "latitude": 17.40275,
+    "company": {
+      "display_name": "Zoetis",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "longitude": 78.50806,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzU2NzU1ODE4In0.jft4HfwJyBTfHGppmwHxJiEZ6f0n7bWEyG1M28lk7B8",
+    "created": "2026-06-09T06:51:58Z"
+  },
+  {
+    "created": "2026-06-09T06:52:00Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1Njc1NTgzNiIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.a53x732lIANLppzBv4fhBu2z7JrQx1tJLy6oZwr51zY",
+    "location": {
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "longitude": 78.50806,
+    "latitude": 17.40275,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Zoetis"
+    },
+    "description": "POSITION RESPONSIBILITIES Percent of Time • Monitoring & Alert Handling o Monitor data protection dashboards and alert queues for policy violations or anomalous activity. o Conduct preliminary analysis on triggered alerts and apply standard operating procedures to determine severity. • Incident Triage & Escalation o Validate alerts, gather relevant logs or evidence, and escalate incidents when necessary. o Document incident details clearly in ticketing or incident management systems. • Collabor…",
+    "redirect_url": "https://www.adzuna.in/details/5756755836?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5756755836",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "InsiderRisk L2 Data Protection Analyst"
+  },
+  {
+    "created": "2026-06-09T06:51:56Z",
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana"
+    },
+    "longitude": 78.50806,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzU2NzU1NzkxIn0.4YtE3R-Q8-GN4beDHYGwERSt9J4DX7gMGh-3QePeALE",
+    "salary_is_predicted": "0",
+    "description": "Position Responsibilities Monitoring & Alert Handling Monitor data protection dashboards and alert queues for policy violations or anomalous activity. Conduct preliminary analysis on triggered alerts and apply standard operating procedures to determine severity. Incident Triage & Escalation Validate alerts, gather relevant logs or evidence, and escalate incidents when necessary. Document incident details clearly in ticketing or incident management systems. Collaboration & Reporting Work closely…",
+    "redirect_url": "https://www.adzuna.in/details/5756755791?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Zoetis"
+    },
+    "latitude": 17.40275,
+    "title": "InsiderRisk L2 Data Protection Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5756755791",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "created": "2026-06-10T10:18:52Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzU4MDkwMTUxIn0.zu0cYkj_JvmYQDuP4TvoGRxXUPxRSnanuLpaY6xUcfI",
+    "location": {
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "longitude": 78.50806,
+    "latitude": 17.40275,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "The Cigna Group"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5758090151?utm_medium=api&utm_source=7cd92d92",
+    "description": "Data Engineering Analyst Position Overview As a Database Engineering Analyst, you will develop and maintain database objects using SQL Server and Oracle. You will support data pipeline development, perform database performance tuning, and collaborate with development teams to deliver reliable data solutions for Evernorth's healthcare technology platforms. Responsibilities  Develop and maintain database objects (stored procedures, functions, views, triggers).  Write complex SQL queries for data …",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5758090151",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Engineering Analyst - HIH - Evernorth"
+  },
+  {
+    "created": "2025-03-02T03:38:21Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA2OTUzMzAzOSIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.lzvBBBGPxxyun0519a4hgoTjGEcvsjww2VR0MSuLeqQ",
+    "longitude": 78.50806,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "company": {
+      "display_name": "Bristol Myers Squibb",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 17.40275,
+    "description": "Summary: The HR Analytics Analyst will play a critical role for BMS, as they will be responsible for applying advanced data analysis and developing dashboards to supportdata-driven decision-making processes and generating actionable insights. The role is also expected to support advanced analytical needs for various HR stakeholders. This position requires expertise in exploratory data analysis, data wrangling, and dashboard development. The Analyst will collaborate with cross-functionalteams an…",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5069533039?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "id": "5069533039",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "HR Data science Analyst III"
+  },
+  {
+    "created": "2026-06-24T07:22:29Z",
+    "longitude": 78.50806,
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1Nzc0MjM1NDUxIn0.SnxCwgsKYABUM2SfYM6HSX_Tgexw65s9Hj9OatjHsNM",
+    "description": "KEY RESPONSIBILITIES Performs extensive data analysis across high volumes of all WBD title inventory, as part of several large-scale initiatives across the enterprise Execute data mapping and the creation and/or modification of central inventory structures across multiple content supply chain systems and processes Analyzes and executes on daily global requests for new title creation and mapping to existing title inventory Works with key stakeholders globally, responding to inquiries, troublesho…",
+    "redirect_url": "https://www.adzuna.in/details/5774235451?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "company": {
+      "display_name": "Warner Bros. Discovery",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 17.40275,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Analyst, Data Governance",
+    "id": "5774235451",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Warner Bros. Discovery"
+    },
+    "latitude": 17.40275,
+    "description": "KEY RESPONSIBILITIES Performs extensive data analysis across high volumes of all WBD title inventory, as part of several large-scale initiatives across the enterprise Execute data mapping and the creation and/or modification of central inventory structures across multiple content supply chain systems and processes Analyzes and executes on daily global requests for new title creation and mapping to existing title inventory Works with key stakeholders globally, responding to inquiries, troublesho…",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5774235434?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "id": "5774235434",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Analyst, Data Governance",
+    "created": "2026-06-24T07:22:29Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1Nzc0MjM1NDM0In0.-DrmedwMcrjGJbodfi3-aHNslaQ_zwOpQivPhQCw_ko",
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 78.50806
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MjY4NTU5NiIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.Br2UEFjn-0EmPRt19iROVcum2ybPtqryIXHnWwi1alQ",
+    "longitude": 78.50806,
+    "location": {
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "created": "2026-07-01T07:14:37Z",
+    "id": "5782685596",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "pr-advertising-marketing-jobs",
+      "label": "PR, Advertising & Marketing Jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Analyst, Data Governance",
+    "latitude": 17.40275,
+    "company": {
+      "display_name": "Warner Bros",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Welcome to Warner Bros. Discovery… the stuff dreams are made of. Who We Are… When we say, 'the stuff dreams are made of,' we're not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD's vast portfolio of iconic content and beloved brands, are the storytellers bringing our characters to life, the creators bringing them to your living rooms and the dreamers creating what's next… From brilliant creatives, to technology trailblazers, a…",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5782685596?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "longitude": 78.50806,
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAwNjQ3MzUwMiIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.ZvGwRwIVYPdxQb26_y_c5prGHDJqjfODlBnyTQAC7Eo",
+    "created": "2025-01-11T11:46:08Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Engineering Lead Analyst",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "id": "5006473502",
+    "description": "About Evernorth: Evernorth Health Services, a division of The Cigna Group (NYSE: CI), creates pharmacy, care, and benefits solutions to improve health and increase vitality. We relentlessly innovate to make the prediction, prevention, and treatment of illness and disease more accessible to millions of people. Data Engineering Lead Analyst Position Overview: The Data Engineer will play a pivotal role in test data management supporting multiple scrum teams. This role will work with various member…",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5006473502?utm_medium=api&utm_source=7cd92d92",
+    "latitude": 17.40275,
+    "company": {
+      "display_name": "Evernorth",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "location": {
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "longitude": 78.50806,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0Mjg0NDkzNiIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.vZfaJlROwAC_XtDDV8hZ9FhLP2LlvjufrhtVZZWAx6g",
+    "created": "2026-05-28T06:53:19Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Science Lead Analyst",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5742844936",
+    "description": "Using your knowledge of ML / AI, you will build technologies to generate descriptive and predictive insights on how we can better serve throughout their customer journey, with digital assets we have. Your work will require deep acquaintance with Evernorth s data, seeking to find ways to deliver value through advanced feature engineering. From your models, you will deliver actionable insights that can be incorporated into existing digital and marketing solutions as we'll as informing on new stra…",
+    "redirect_url": "https://www.adzuna.in/details/5742844936?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "latitude": 17.40275,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Manipal Cigna Insurance Group"
+    }
+  },
+  {
+    "latitude": 17.40275,
+    "company": {
+      "display_name": "DE Shaw",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0",
+    "description": "Role Responsibilities: Conduct data research and summarize conference calls Prepare quarterly earnings reports Manage large financial datasets and perform analysis Collaborate with tech teams to automate processes Job Requirements: Bachelor's degree in any field 6–18 months of post-qualification experience Intermediate MS Excel skills Strong analytical and communication abilities Skills: Ms Excel Experience: 1.00-6.00 Years",
+    "redirect_url": "https://www.adzuna.in/details/5748526672?utm_medium=api&utm_source=7cd92d92",
+    "id": "5748526672",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs",
+      "label": "Accounting & Finance Jobs"
+    },
+    "title": "Associate/Analyst - Data Analytics",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-06-02T06:51:53Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0ODUyNjY3MiIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.RQwEULu8jbm85Vtl-TGqmFFEMfMUidfRwjbiavR8zsk",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "longitude": 78.50806
+  },
+  {
+    "description": "Summary: The HR Analytics Analyst will play a critical role for BMS, as they will be responsible for applying advanced data analysis and developing dashboards to support data-driven decision-making processes and generating actionable insights. The role is also expected to support advanced analytical needs for various HR stakeholders. This position requires expertise in exploratory data analysis, data wrangling, and dashboard development. The Analyst will collaborate with cross-functional teams …",
+    "redirect_url": "https://www.adzuna.in/details/4694004919?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "latitude": 17.40275,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Bristol Myers Squibb"
+    },
+    "title": "HR Data science Analyst III (Python & Statistical Analysis)",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "4694004919",
+    "created": "2024-05-15T18:16:52Z",
+    "longitude": 78.50806,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDY5NDAwNDkxOSIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.mcpkAh8gvR72MvUzpdWI04vE0-j9Uie2O1rAIi5ORrI"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzIyMDM5NzU2In0.ad8jV2OS6_CQQfKig0uwX8Mlr3K41Avl9G_PnrAVqD8",
+    "longitude": 78.50806,
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana"
+    },
+    "contract_time": "full_time",
+    "created": "2026-05-08T02:08:29Z",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5722039756",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Senior Data & BI Analyst (MS Power BI, Snowflake)",
+    "latitude": 17.40275,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Franklin Templeton"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5722039756?utm_medium=api&utm_source=7cd92d92",
+    "description": "At Franklin Templeton, we’re driving our industry forward by developing new and innovative ways to help our clients achieve their investment goals. Our dynamic and diversified firm spans asset management, wealth management, and fintech, offering many ways to help investors make progress toward their goals. Our talented teams working around the globe bring expertise that’s both broad and unique. From our welcoming, inclusive, and flexible culture to our global and diverse business, we offer oppo…",
+    "salary_is_predicted": "0"
+  },
+  {
+    "created": "2026-04-22T11:49:41Z",
+    "contract_time": "full_time",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "longitude": 78.50806,
+    "salary_is_predicted": "0",
+    "description": "Hiring: Support Analyst (Data Entry Focus) – Hyderabad We are looking for a Support Analyst to work on our School Management Software at Assentcode Technologies. Key Focus Strong data entry skills (most important) High accuracy and attention to detail Ability to handle and organize large sets of data Role Overview Collect, clean, and upload data into the system Work with data from Excel, PDFs, and forms Ensure data accuracy and timely completion Support customers during data setup and usage Coo…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5706890415",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Support Analyst - Data Entry - Fresher",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNjg5MDQxNSIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.CKJDXS7sUOAMT27QMLhzEaIiHfaim9FSbLq9pB_QWAU",
+    "salary_max": 300000,
+    "salary_min": 200000,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Assentcode Technologies Private Limited"
+    },
+    "latitude": 17.40275,
+    "redirect_url": "https://www.adzuna.in/details/5706890415?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4ODQwNDIwOSIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.cQElEyVoBLDgXz-GLSPtwv8s55r9wWcYZYIG_bzCSaE",
+    "longitude": 78.50806,
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "contract_time": "full_time",
+    "created": "2026-07-05T03:34:57Z",
+    "id": "5788404209",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "Senior Financial Analyst - Data & Automation",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Salesforce",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 17.40275,
+    "description": "To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts. Job Category Finance Job Details About Salesforce Salesforce is the 1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn’t a buzzword — it’s a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering …",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5788404209?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "latitude": 17.40275,
+    "company": {
+      "display_name": "NTT",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Make an impact with NTT DATA Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion – it’s a place where you can grow, belong and thrive. Your day at NTT DATA The Manager, Security Platform Engineering is a management role, responsible for providing operational management and support to a team of Security Platfor…",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5761785740?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5761785740",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Security Analyst Data Protection Platform",
+    "created": "2026-06-13T02:34:28Z",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MTc4NTc0MCIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.CklDtLp9ID-4NTyDRjF4vRrv8uFUs_bD4ptIfg_3Lsk",
+    "location": {
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "longitude": 78.50806
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/5760988904?utm_medium=api&utm_source=7cd92d92",
+    "description": "Make an impact with NTT DATA Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion - it's a place where you can grow, belong and thrive. Your day at NTT DATA The Manager, Security Platform Engineering is a management role, responsible for providing operational management and support to a team of Security Platfor…",
+    "salary_is_predicted": "0",
+    "company": {
+      "display_name": "NTT America, Inc.",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 17.40275,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Security Analyst Data Protection Platform",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5760988904",
+    "created": "2026-06-12T10:30:13Z",
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 78.50806,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzYwOTg4OTA0In0.Z6x1Wv_Ve4-DRwyqbGamrQrE2OzTSI-bHJkc028qRX4"
+  },
+  {
+    "id": "5694151165",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "Manager Returnship Program",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Cognizant",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 17.40275,
+    "redirect_url": "https://www.adzuna.in/details/5694151165?utm_medium=api&utm_source=7cd92d92",
+    "description": "Job Summary DA Payments Work Location - Hyderabad and Gurgaon only. EXP - 6-8 YRS NP - Immediate - 30 Days JD- Job Title: Senior Data Analyst We are looking for a highly skilled and detail-oriented Senior Data Analyst with a strong analytical mindset. This crucial role requires advanced SQL to transform raw data into actionable insights that support strategic decision-making. A deep understanding of business operations is essential. Key Responsibilities: - Data Analysis & SQL Proficiency: Colle…",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1Njk0MTUxMTY1In0.gmOAUCaa5lQweCdKImPc27Ota8GIhKf0rWhO4gellV8",
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 78.50806,
+    "created": "2026-04-09T09:39:45Z"
+  },
+  {
+    "contract_time": "full_time",
+    "created": "2026-06-20T03:26:27Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2OTgyMTMxMCIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.vo924YAGM9RJAc0zbx9_uGRX9S4HAdgbEW3ksQwSlKA",
+    "longitude": 78.50806,
+    "location": {
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cigna Group"
+    },
+    "latitude": 17.40275,
+    "redirect_url": "https://www.adzuna.in/details/5769821310?utm_medium=api&utm_source=7cd92d92",
+    "description": "INTRODUCTION TO EVERNORTH: Evernorth Health Services India, established in Hyderabad in 2024, is an innovation hub for Evernorth Health Services, the pharmacy, care and benefits division of The Cigna Group. The innovation hub will support innovation-focused areas, such as generative AI, product development, process improvement, analytics, and software engineering across The Cigna Group and its businesses. Evernorth Health Services India builds on The Cigna Group’s existing presence in India. Ab…",
+    "salary_is_predicted": "0",
+    "id": "5769821310",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "title": "Data Engineering Lead Analyst - HIH - Evernorth",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5758090142",
+    "title": "Data Engineering Lead Analyst - HIH - Evernorth",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 17.40275,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "The Cigna Group"
+    },
+    "description": "INTRODUCTION TO EVERNORTH: Evernorth Health Services India, established in Hyderabad in 2024, is an innovation hub for Evernorth Health Services, the pharmacy, care and benefits division of The Cigna Group. The innovation hub will support innovation-focused areas, such as generative AI, product development, process improvement, analytics, and software engineering across The Cigna Group and its businesses. Evernorth Health Services India builds on The Cigna Group's existing presence in India. Ab…",
+    "redirect_url": "https://www.adzuna.in/details/5758090142?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1ODA5MDE0MiIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.lrfU-MsaDhPWGjLfBRwoWtQoJFHxzPXVE1KNw1pkOw4",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "longitude": 78.50806,
+    "created": "2026-06-10T10:18:52Z"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Ivis International Private Limited"
+    },
+    "latitude": 17.40275,
+    "description": "Position : Data Analyst/Engineer Lead Experience : 7 Years Location : Hyderabad Interested candidates can share their updated resume/CV at : [HIDDEN TEXT] Key Responsibilities: • Design, develop, and maintain robust ETL/ELT pipelines using SQL and Python. • Optimize and troubleshoot complex SQL queries to ensure high performance and scalability. • Build and maintain data models and data marts to support business analytics and decisionmaking. • Collaborate with data analysts, data scientists, an…",
+    "redirect_url": "https://www.adzuna.in/details/5775570777?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5775570777",
+    "title": "SQL Lead",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-06-25T07:26:35Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1Nzc1NTcwNzc3In0.zHxpKz2iziExbnx5uEMna5IWGx0wgFTWaLe0XZ9CyhI",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "longitude": 78.50806
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MTk2NzE0NiIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.60HI4gfd-pLzXvta7byykr7hXrhY7KDUZv0Pxa6vaf8",
+    "longitude": 78.50806,
+    "location": {
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "contract_time": "full_time",
+    "created": "2026-06-30T14:57:05Z",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5781967146",
+    "title": "Business Analyst-Data Insights, Translation Services Operations",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Amazon Dev Center India - Hyderabad"
+    },
+    "latitude": 17.40275,
+    "description": "Are you passionate about transforming operational processes through data-driven insights? Are you motivated to have a direct impact on customers around the world? Do you have a business analytics background and love for continuous improvement and finding creative solutions to challenging problems? Amazon's Translation Services team is responsible for providing translation tools and solutions to support the localization and translation needs of all Amazon businesses. At Translation Services Oper…",
+    "redirect_url": "https://www.adzuna.in/details/5781967146?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0"
+  },
+  {
+    "created": "2026-07-02T10:30:22Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NDk3MDY4OSIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.ctmkLphkkLIuWQGExa4YZppmckpn9D947KIrar9Cf1I",
+    "location": {
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "longitude": 78.50806,
+    "latitude": 17.40275,
+    "company": {
+      "display_name": "Amazon",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Description Are you passionate about transforming operational processes through data-driven insights? Are you motivated to have a direct impact on customers around the world? Do you have a business analytics background and love for continuous improvement and finding creative solutions to challenging problems? Amazon's Translation Services team is responsible for providing translation tools and solutions to support the localization and translation needs of all Amazon businesses. At Translation S…",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5784970689?utm_medium=api&utm_source=7cd92d92",
+    "id": "5784970689",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "Business Analyst-Data Insights, Translation Services Operations",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "created": "2026-06-19T02:36:56Z",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2ODU3NTg0OCIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.Y2oOOWdJ58ieAYbcF_XZCM0E52A47E19IHVjQV9wPL8",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "longitude": 78.50806,
+    "company": {
+      "display_name": "DESRI",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 17.40275,
+    "description": "About the role We are looking for a highly analytical and data-driven SCADA & Data Engineer to join our renewable energy operations team. In the modern renewable energy industry, solar and battery (BESS) assets are only as valuable as the data they produce. This role sits at the critical intersection of field control systems (OT) and cloud data infrastructure (IT). You will be responsible for ensuring reliable SCADA operations while taking full ownership of the telemetry data pipeline — from th…",
+    "redirect_url": "https://www.adzuna.in/details/5768575848?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "id": "5768575848",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "title": "Senior Analyst – SCADA & Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "longitude": 78.50806,
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyMzgzMzMyNSIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.KQUi-HRPK5hesVNB6fQ3OtPEA1uVGzUfGKFnD278pQU",
+    "created": "2026-05-09T09:55:58Z",
+    "title": "Data Storage & Warehousing Senior Analyst",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5723833325",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "About Inspire Brands: Inspire Brands is disrupting the restaurant industry through digital transformation and operational efficiencies. The companys technology hub, Inspire Brands Hyderabad Support Center, India, will lead technology innovation and product development for the organization and its portfolio of distinct brands. The Inspire Brands Hyderabad Support Center will focus on developing new capabilities in data science, data analytics, eCommerce, automation, cloud computing, and informat…",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5723833325?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "Inspire Brands Hyderabad Support Center",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 17.40275
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NjgwNTU4Nzg3In0.p9z1H12LXo3ilx0h2v3mh0RsD9vBrtOv3RhLDOghRLI",
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 78.50806,
+    "created": "2026-03-28T01:56:53Z",
+    "contract_time": "full_time",
+    "id": "5680558787",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "title": "Lead Security Analyst - Metrics & Data Analytics",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 17.40275,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "TriNet"
+    },
+    "description": "Description TriNet is a leading provider of comprehensive human resources solutions for small to midsize businesses (SMBs). We enhance business productivity by enabling our clients to outsource their HR function to one strategic partner and allowing them to focus on operating and growing their core businesses. Our full-service HR solutions include features such as payroll processing, human capital consulting, employment law compliance and employee benefits, including health insurance, retiremen…",
+    "redirect_url": "https://www.adzuna.in/details/5680558787?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0"
+  },
+  {
+    "contract_time": "full_time",
+    "created": "2026-04-16T02:06:33Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzAwNTYxNjc5In0.krm4swIT6qMyf7FU_-3jbNAWpqtwzI7SoOjDYlzaew4",
+    "longitude": 78.50806,
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana"
+    },
+    "latitude": 17.40275,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "EXL"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5700561679?utm_medium=api&utm_source=7cd92d92",
+    "description": "Description Role: Azure Data Engineer Location: Hyderabad Work Mode: Hybrid Key Responsibilities: • Design and develop ETL/ELT pipelines using Azure Data Factory, Snowflake, and DBT. • Build and maintain data integration workflows from various data sources to Snowflake. • Write efficient and optimized SQL queries for data extraction and transformation. • Work with stakeholders to understand business requirements and translate them into technical solutions. • Monitor, troubleshoot, and optimize …",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5700561679",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Azure Data Engineer"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NDUwNTMzOSIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.c9Dx9N8e-MlYbiv5c5lri0iRzkIYFto0xA9IfT2oEL4",
+    "longitude": 78.50806,
+    "location": {
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "contract_time": "full_time",
+    "created": "2026-01-22T01:02:51Z",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5594505339",
+    "title": "Azure Lead Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 17.40275,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "EXL"
+    },
+    "description": "Description Key Responsibilities: Design and develop ETL/ELT pipelines using Azure Data Factory , Snowflake , and DBT . Build and maintain data integration workflows from various data sources to Snowflake. Write efficient and optimized SQL queries for data extraction and transformation. Work with stakeholders to understand business requirements and translate them into technical solutions. Monitor, troubleshoot, and optimize data pipelines for performance and reliability. Maintain and enforce da…",
+    "redirect_url": "https://www.adzuna.in/details/5594505339?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0"
+  },
+  {
+    "salary_max": 300000,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiIyMzQ0MTIwNTY4In0.QBdQQEIYnNepLI6rhgkWSveXMSmEpy_8ihviwPSwkvs",
+    "salary_min": 0,
+    "latitude": 17.40275,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Yagna Technologies Pvt Ltd"
+    },
+    "redirect_url": "https://www.adzuna.in/details/2344120568?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 78.50806,
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana"
+    },
+    "contract_time": "full_time",
+    "created": "2021-07-27T21:01:59Z",
+    "id": "2344120568",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "PHP Developer",
+    "description": "The ideal candidate is a highly resourceful and innovative developer with extensive knowledge in the layout, design and coding of websites specifically in PHP format. You must also possess a strong knowledge of web application development using PHP programming language and MySQL Server databases. Responsibilities Perform a mix of maintenance, enhancements, and new development as required Work in a data analyst role and with business intelligence applications Document features, technical specifi…",
+    "salary_is_predicted": "0"
+  },
+  {
+    "description": "Key Responsibilities: Manager Data Product Analyst will be responsible for supporting the design, build, and maintenance of the data products, evolution of the data products, utilizing the most suitable data architecture required for our organization's data needs to support Clinical Operations and Real-World Data functions. Accountable for delivering high quality, data products and analytic ready data solutions for GDD Develop and maintain ETL pipelines for ingesting data from various sources i…",
+    "redirect_url": "https://www.adzuna.in/details/4664741360?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "latitude": 17.40275,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Bristol Myers Squibb"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Manager (AWS Glue & Python)",
+    "id": "4664741360",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "created": "2024-04-25T19:21:44Z",
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 78.50806,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI0NjY0NzQxMzYwIn0.xnFkxr9v7svY0KTAMB0oWyxzMvFfczcVvQoQVJe-7vw"
+  },
+  {
+    "created": "2026-02-15T08:19:18Z",
+    "longitude": 78.50806,
+    "location": {
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYzMDQ1OTkzNCIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.swBRS2tJRbCMbFoZJecZg4PZZJ4CfysNRKW1pjW6Aog",
+    "description": "Technical Program Manager Location: Hyderabad Number of Position: 1 SQL Proficiency: Expert Project Management Skills: Expert Communication skills: Expert Total Experience: 11 years (8 years in a similar role) Prior Google Experience preferred Detailed JD: Technical project manager would be managing complex SQL based technical projects, bridging the gap between technical execution and organizational strategy, ensuring projects align with goals and are delivered on time and within budget. They s…",
+    "redirect_url": "https://www.adzuna.in/details/5630459934?utm_medium=api&utm_source=7cd92d92",
+    "salary_is_predicted": "0",
+    "company": {
+      "display_name": "People First Consultants",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 17.40275,
+    "title": "Technical Program Manager - SM Level",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5630459934",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "latitude": 17.40275,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Dun & Bradstreet"
+    },
+    "description": "Shape the Future with Dun & Bradstreet At Dun & Bradstreet, we believe data has the power to create a better tomorrow. As a global leader in business decisioning data and analytics, we help companies worldwide grow, manage risk, and innovate. For over 180 years, businesses have trusted us to turn uncertainty into opportunity. We’re a diverse, global team that values creativity, collaboration, and bold ideas. Are you ready to make an impact and help shape what’s next? Join us! Explore opportunit…",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5788444015?utm_medium=api&utm_source=7cd92d92",
+    "id": "5788444015",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Analyst II, Data Operations (R-18910)",
+    "created": "2026-07-05T03:36:34Z",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4ODQ0NDAxNSIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.pCDykobRgczo-mXCt6ouopIaTbStwsWkK4DtnlTVw6A",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "longitude": 78.50806
+  },
+  {
+    "latitude": 17.40275,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Amgen"
+    },
+    "description": "Career Category Information Systems Job Description Job Description – Specialist Information Systems (OSI Pi Data Historian) ABOUT AMGEN Amgen harnesses the best of biology and technology to fight the world’s toughest diseases, and make people’s lives easier, fuller, and longer. We discover, develop, manufacture, and deliver innovative medicines to help millions of patients. Amgen helped establish the biotechnology industry more than 40 years ago and remains on the cutting edge of innovation, u…",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5547495703?utm_medium=api&utm_source=7cd92d92",
+    "id": "5547495703",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "Specialist Business Analyst (Pi Data Historian)",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "created": "2025-12-19T00:24:22Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NTQ3NDk1NzAzIn0.-AzbDcnTU86IKeT-SNDH0V_G_VsgP6EhqIXH43-F80w",
+    "longitude": 78.50806,
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "created": "2026-03-13T01:32:07Z",
+    "contract_time": "full_time",
+    "location": {
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "longitude": 78.50806,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY2MjY2MTU5MSIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.NrZW6xw34rr-BngX_3gM_8R4nQxkQX-CPK2tT7zvHRI",
+    "description": "Career Category Clinical Job Description ABOUT AMGEN Amgen harnesses the best of biology and technology to fight the world’s toughest diseases, and make people’s lives easier, fuller and longer. We discover, develop, manufacture and deliver innovative medicines to help millions of patients. Amgen helped establish the biotechnology industry more than 40 years ago and remains on the cutting-edge of innovation, using technology and human genetic data to push beyond what’s known today. ABOUT THE RO…",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5662661591?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Amgen"
+    },
+    "latitude": 17.40275,
+    "title": "Senior Business Analyst – Clinical Data Foundation",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5662661591"
+  },
+  {
+    "contract_time": "full_time",
+    "created": "2026-06-30T14:57:03Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzgxOTY3MTAzIn0.MrIZ048MH-jGmOaxTwdRgQGg1NMctwdzPMya-lLwp0s",
+    "longitude": 78.50806,
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 17.40275,
+    "company": {
+      "display_name": "ADCI HYD 16 SEZ",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5781967103?utm_medium=api&utm_source=7cd92d92",
+    "description": "The Business Analyst role family focuses on using data analysis and business knowledge to solve problems and drive decisions. Key job responsibilities You use data and your understanding of business objectives to solve straightforward problems to drive decision(s) and action(s) within a workflow. You analyze straightforward or previously-defined business and/or data processes to drive improvement. Your work is tactical, where you take actions to achieve a defined goal. Those actions require you…",
+    "salary_is_predicted": "0",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5781967103",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Business Analyst, Ring Data Engineering Services"
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/5734797269?utm_medium=api&utm_source=7cd92d92",
+    "description": "What Youll Be Doing (position summary): As a member of CIBCs Big Data Platform Services (BDPS) Team, the Business Consultant acts as a liaison between business/other CIBC technology teams and the Big Data Delivery team (Enterprise Data Hub (EDH) & Enterprise Data Gateway (EDGE)), ensuring alignment of both functional and non-functional requirements. The roleleadsrequirement gathering sessions, providesexpertiseto project managers, updates leadership on status, and coordinates with peer technolo…",
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "CIBC India"
+    },
+    "latitude": 17.40275,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Business Analyst, Big Data Platform Services",
+    "id": "5734797269",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "created": "2026-05-20T10:06:00Z",
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana"
+    },
+    "longitude": 78.50806,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczNDc5NzI2OSIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.F2d3ckZKdsh3HIJ63himPgCr2kIJ23WcaHPIn-jTufA"
+  },
+  {
+    "salary_is_predicted": "0",
+    "description": "ABOUT AMGEN Amgen harnesses the best of biology and technology to fight the world's toughest diseases, and make people's lives easier, fuller and longer. We discover, develop, manufacture and deliver innovative medicines to help millions of patients. Amgen helped establish the biotechnology industry more than 40 years ago and remains on the cutting-edge of innovation, using technology and human genetic data to push beyond what's known today. ABOUT THE ROLE Role Description: The Senior Business …",
+    "redirect_url": "https://www.adzuna.in/details/5655894393?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "Amgen",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 17.40275,
+    "title": "Senior Business Analyst - Clinical Data Foundation",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5655894393",
+    "created": "2026-03-06T08:09:57Z",
+    "longitude": 78.50806,
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NjU1ODk0MzkzIn0.icXO_FILCHPpTO4m1T5zA3p1OpTkQEGxYC-_3HJU8aI"
+  },
+  {
+    "company": {
+      "display_name": "Amazon",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 17.40275,
+    "description": "Description The Workflow Analyst oversees end-to-end tactical planning for Operations, driving tactical preparedness in planning the right people, at the right times, with the right skills, to ensure world-class service delivery to customers. This employee has an analytical mindset and workforce management experience, using these to create actionable and data-driven action plans for local and global stakeholders to support operational partners. Key job responsibilities The role delivers weekly …",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.in/details/5735987845?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "id": "5735987845",
+    "title": "Workflow Analyst , Ring Data Engineering Services",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-05-21T10:10:45Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczNTk4Nzg0NSIsInMiOiIxdVY4VktkNDhSR3c5OURTQndhSXl3In0.nIh0rp5yYGjashTpYYoaWnsRs1u9i7654KAA3huhhFg",
+    "longitude": 78.50806,
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "longitude": 78.50806,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1Nzg0OTcwNjQ3In0.MWHFysPna0ooVxDcgybuw0DzT5u6kwh3-RI8cUf8NDc",
+    "created": "2026-07-02T10:30:22Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Business Analyst, Ring Data Engineering Services",
+    "id": "5784970647",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "description": "Description The Business Analyst role family focuses on using data analysis and business knowledge to solve problems and drive decisions. Key job responsibilities You use data and your understanding of business objectives to solve straightforward problems to drive decision(s) and action(s) within a workflow. You analyze straightforward or previously-defined business and/or data processes to drive improvement. Your work is tactical, where you take actions to achieve a defined goal. Those actions…",
+    "redirect_url": "https://www.adzuna.in/details/5784970647?utm_medium=api&utm_source=7cd92d92",
+    "latitude": 17.40275,
+    "company": {
+      "display_name": "Amazon",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "created": "2026-05-14T01:01:00Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzI4MjA5MTg3In0.Se1-68M2126gZREAfv4eXFM2JDOtZ6jasORfL0mxV_4",
+    "location": {
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ]
+    },
+    "longitude": 78.50806,
+    "latitude": 17.40275,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "TechBlocks"
+    },
+    "redirect_url": "https://www.adzuna.in/land/ad/5728209187?se=1uV8VKd48RGw99DSBwaIyw&utm_medium=api&utm_source=7cd92d92&v=CD96C6952E86AFB813DAD9CFDC5EA424B4EF9598",
+    "description": "Job Title Social Media Strategy Manager Location Hyderabad (Hybrid role - 3 days) Reporting To Senior Director & Head of Marketing About the Role TechBlocks is hiring a strategic social media strategy lead/manager to own its LinkedIn-first social media presence and help turn social into a stronger business lever. This is not a posting-only role. We are looking for someone who can understand our business, offerings, GTM priorities, ICPs, and campaign themes, then build and run a social strategy …",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "PR, Advertising & Marketing Jobs",
+      "tag": "pr-advertising-marketing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5728209187",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Social Media Strategy Manager"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMXVWOFZLZDQ4Ukd3OTlEU0J3YUl5dyIsImkiOiI1NzUyMzYxNzQwIn0.2Vz6BkW2tiizlccegBw7fUGz588GzWp79rGUDiIeNwE",
+    "longitude": 78.50806,
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana"
+    },
+    "contract_time": "full_time",
+    "created": "2026-06-05T02:38:04Z",
+    "id": "5752361740",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "title": "Sr Associate Clinical master data management",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 17.40275,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Amgen"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5752361740?utm_medium=api&utm_source=7cd92d92",
+    "description": "Career Category Supply Chain Job Description Role Name: Master Data Analyst Workday Title: Sr. Associate Master Data Management ABOUT AMGEN Amgen harnesses the best of biology and technology to fight the world’s toughest diseases and make people’s lives easier, fuller, and longer. We discover, develop, manufacture, and deliver innovative medicines to help millions of patients. Amgen helped establish the biotechnology industry more than 40 years ago and remains on the cutting edge of innovation,…",
+    "salary_is_predicted": "0"
+  }
+]

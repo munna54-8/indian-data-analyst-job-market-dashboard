@@ -1,0 +1,1523 @@
+[
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzQwODQ5MDg5In0.74iPGLG41ZriljAcFo1yoI5iGs0MovXWe1k4ct2qdfc",
+    "title": "Data Analyst",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "longitude": 80.24963,
+    "id": "5740849089",
+    "description": "Greetings from Colan Infotech  Designation - Data Analyst Experience - 6-8 Years Notice Period - Immediate joiners only Job Location -Chennai(Work from office only) Required Skills & Experience Were looking for people who: 68 years of experience in Data Analytics / BI / Data Engineering Strong consultative mindset with excellent communication skills Experience building enterprise dashboards using Power BI or Tableau Comfortable working independently and with cross-functional teams Programming S…",
+    "created": "2026-05-26T06:36:51Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Colan Infotech Private Limited"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5740849089?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyOTY3MzczMiIsInMiOiJFS3NKYWFkNDhSRy0ydEhBeE5BblpRIn0.CznlkkZ8L7q31nMQodziKP57w1wGXGFOccpiJJav-t0",
+    "contract_time": "full_time",
+    "latitude": 13.06041,
+    "title": "Data Analyst",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5729673732?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "Vedita Ventures",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-05-15T02:13:33Z",
+    "id": "5729673732",
+    "longitude": 80.24963,
+    "description": "Job Description: Dear All, Greetings from Vedita Ventures! Hiring - Data Analyst Both Male and Female candidates can apply Immediate joiners preferred Job Location: Chennai Monday to Friday Working Days. Essential Job Functions: Apply business knowledge through all stages of development. Design, develop, and maintain high-quality solutions. Communicate effectively. Stay current with business and technical knowledge and trends. Be agile, develop and follow best practices. Own your work and take …"
+  },
+  {
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MDUzNTYxMiIsInMiOiJFS3NKYWFkNDhSRy0ydEhBeE5BblpRIn0.iblqEJ2uIAR9EGzmRVGOd_cug36-HeA2bRzq65RS2vU",
+    "latitude": 13.06041,
+    "title": "Data Analyst",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "tag": "energy-oil-gas-jobs",
+      "label": "Energy, Oil & Gas Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Hitachi"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5780535612?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 80.24963,
+    "id": "5780535612",
+    "description": "Location: Chennai, Tamil Nadu, India Job ID: R0124760 Date Posted: 2026-06-25 Company Name: HITACHI ENERGY TECHNOLOGY SERVICES PRIVATE LIMITED Profession (Job Category): Project/Program Management Job Schedule: Full time Remote: No Job Description: The Opportunity: As a Data Analyst, you will be part of Operation Center, India (INOPC-PG), aiming to develop a global value chain, where key business activities, resources, and expertise are shared across geographic boundaries to optimize value for …",
+    "created": "2026-06-29T02:45:33Z"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzU5Mjg5MTg1In0.keWWXcuLSFaNv90ZUQwXxQZ3W5Rlnx01TbJzDI9XYws",
+    "title": "Data Analyst",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "CONTUS TECH"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5759289185?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 80.24963,
+    "id": "5759289185",
+    "description": "Required Skills: Bachelor s degree in Computer Science, Engineering or Information Technology. Minimum of 5 year s experience in Business Intelligence or Information Management Advanced SQL skills Strong communication skills across all mediums and audience types (technical, business, executive, etc.) Have a keen eye for visual aesthetics Passion for data analysis and solving problems with data Strong analytical mind-set and ability to use data and logic to create solutions to solve customer pro…",
+    "created": "2026-06-11T06:55:02Z"
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDY4NjcwNTAxNSIsInMiOiJFS3NKYWFkNDhSRy0ydEhBeE5BblpRIn0.ratAD-BI2nhukAsStZBhsjAVDl6hRIrwf6AqoTyDN5g",
+    "title": "Data Analyst",
+    "latitude": 13.06041,
+    "category": {
+      "label": "Trade & Construction Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "trade-construction-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/4686705015?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2024-05-10T07:38:52Z",
+    "id": "4686705015",
+    "longitude": 80.24963,
+    "description": "HiWelcome students, ladies, to allDo u have a free time? Do u want earnings? But u want to know genuine websites and jobs. I will guide u. Computer job nternational project u will get. If u want WhatsApp 2. Details r all in text file. U want to buy RS.150 only"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5766001218?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "OneMagnify",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-06-17T02:49:29Z",
+    "longitude": 80.24963,
+    "id": "5766001218",
+    "description": "Job Role :Business Intelligence & Data Analyst Experience: 3–6 Years About the Role We are looking for a skilled BI & Data Analyst who can turn complex data into clear, actionable insights. Shall be closely working with technical teams to build dashboards, manage data pipelines on GCP, and communicate findings that drive real decisions. Required Skills & Experience 3–6 years of experience in a BI or data analytics role. Mandatory :Strong hands-on experience with Power BI (reports, dashboards, D…",
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2NjAwMTIxOCIsInMiOiJFS3NKYWFkNDhSRy0ydEhBeE5BblpRIn0.AkvCafyaQgzcYsvpYcrWSlgfMHwfcRGgRzSqwKXhZ70",
+    "title": "Sr.Data Analyst",
+    "latitude": 13.06041,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "created": "2026-06-11T06:53:30Z",
+    "longitude": 80.24963,
+    "id": "5759287570",
+    "description": "Develop and maintain SQL queries to extract and manipulate data from various databases. Create and manage Tableau dashboards and reports to visualize data insights. Analyze financial data to identify trends, patterns, and anomalies. Collaborate with cross-functional teams to understand data requirements and deliver actionable insights. Ensure data accuracy and integrity in all reporting and analysis. Provide support for ad-hoc data requests and projects. Qualifications: Bachelors degree in Data…",
+    "redirect_url": "https://www.adzuna.in/details/5759287570?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Guidehouse",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzU5Mjg3NTcwIn0.PyUYM5IHW2F5VZ1fXwRFNaWnE2KGaBPlvULkJAK54gQ",
+    "title": "BI - Data Analyst",
+    "latitude": 13.06041
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1Nzc3NDkyMjcyIn0._HLuasi660IS6ACCRb_v5w--1t_OlzSxdUO2G31df2E",
+    "title": "Healthcare Data Analyst",
+    "latitude": 13.06041,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5777492272?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Roche"
+    },
+    "created": "2026-06-26T15:01:01Z",
+    "id": "5777492272",
+    "longitude": 80.24963,
+    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections, where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position Healthcare Data Analyst R…"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "TekClan"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYzNDE3NDcxMSIsInMiOiJFS3NKYWFkNDhSRy0ydEhBeE5BblpRIn0.WiZC9gG-UlDXBxKCAc_GwayJN3rYJtTpBd07zEH4IEs",
+    "contract_time": "full_time",
+    "salary_is_predicted": "0",
+    "description": "About the Role: We are looking for a detail-oriented and analytical Senior Data Analyst to join our Chennai team. The ideal candidate will have strong skills in T-SQL/PL-SQL, data platform management, and reporting tools, along with experience in database administration and performance tuning. You will play a key role in transforming raw data into meaningful insights that drive business decisions. Key Responsibilities: Write complex queries using T-SQL / PL-SQL to extract, manipulate, and analy…",
+    "longitude": 80.24963,
+    "id": "5634174711",
+    "created": "2026-02-18T11:46:13Z",
+    "salary_max": 1200000,
+    "redirect_url": "https://www.adzuna.in/details/5634174711?utm_medium=api&utm_source=7cd92d92",
+    "salary_min": 800000,
+    "title": "Senior Data Analyst",
+    "latitude": 13.06041,
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    }
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Ventra Health, Inc."
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5664715550?utm_medium=api&utm_source=7cd92d92",
+    "description": "Ventra is a leading business solutions provider for facility-based physicians practicing anesthesia, emergency medicine, hospital medicine, pathology, and radiology. Focused on Revenue Cycle Management, Ventra partners with private practices, hospitals, health systems, and ambulatory surgery centers to deliver transparent and data-driven solutions that solve the most complex revenue and reimbursement issues, enabling clinicians to focus on providing outstanding care to their patients and commun…",
+    "longitude": 80.24305,
+    "id": "5664715550",
+    "created": "2026-03-14T08:45:13Z",
+    "contract_type": "contract",
+    "latitude": 12.96853,
+    "title": "Intern, Data Analyst",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NjY0NzE1NTUwIn0.GuD4Cy3FBiPKXZW-z8AUS3fJDURqn5-zvMd6OYeYzzo",
+    "location": {
+      "display_name": "Injambakkam, Chennai",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai",
+        "Injambakkam"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5760991780?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "UnitedHealth Group"
+    },
+    "created": "2026-06-12T10:31:59Z",
+    "longitude": 80.24963,
+    "id": "5760991780",
+    "description": "Requisition number: 2360940 Job category: Business & Data Analytics Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make a…",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzYwOTkxNzgwIn0.kNC-7Qe7LpkypBkWWD-t35jkHLX_wNLO0G3F1rvIpzQ",
+    "latitude": 13.06041,
+    "title": "Data Analyst 2",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1Nzg1NzcxOTc0In0.bjL5uu-wfJrH35S9FgUUY4D9mSpKE_q30J1MRlGW8Sk",
+    "latitude": 13.06041,
+    "title": "Manager - Data Analyst",
+    "category": {
+      "label": "Accounting & Finance Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5785771974?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Standard Chartered Bank"
+    },
+    "created": "2026-07-03T00:54:21Z",
+    "id": "5785771974",
+    "longitude": 80.24963,
+    "description": "This job is with Standard Chartered Bank, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Summary Data Analyst is responsible for assisting Director CDO-CFCR-Enablement Data Product to achieve department goals. Analyst will work closely with FCCA teams and support country sensitive data mining needs and statistical analysis using various data and analytics methodologies. Analyst is re…"
+  },
+  {
+    "company": {
+      "display_name": "Comcast",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5759284631?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": 80.24963,
+    "id": "5759284631",
+    "description": "Job Summary Responsible for working cross-functionally to collect data and develop models to determine trends utilizing a variety of data sources. Retrieves, analyzes and summarizes business, operations, employee, customer and/or economic data in order to develop business intelligence, optimize effectiveness, predict business outcomes and decision-making purposes. Involved with numerous key business decisions by conducting the analyses that inform our business strategy. This may include: impact…",
+    "created": "2026-06-11T06:51:41Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzU5Mjg0NjMxIn0._KMKQlf82Wa1HCQ4QYVfi9b4vsh7gNIbrLPR0Z3iz0s",
+    "latitude": 13.06041,
+    "title": "Data Analyst 2",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    }
+  },
+  {
+    "company": {
+      "display_name": "XenonStack",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5779645085?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5779645085",
+    "longitude": 80.24963,
+    "description": "The ideal candidate should be highly skilled in all aspects of Statistical Skills and Programming Languages. Your Responsibility is to Clean & Prune Data, Analyze & interpret results. Here s why you ll love working with us Lively/purposeful work culture and people oriented organization Exposure to working on enterprise national and international $million projects Complete job and employee security Warm, authentic and transparent communication Time to time jon feedback and exposure to different …",
+    "created": "2026-06-28T07:26:46Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1Nzc5NjQ1MDg1In0.Mpyxef63MxCxdYYLMhlxIBK8qJo55GZx_UKwmR54_fE",
+    "title": "Sr. Data Analyst",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/5759289389?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "NatWest Markets"
+    },
+    "created": "2026-06-11T06:55:22Z",
+    "longitude": 80.24963,
+    "id": "5759289389",
+    "description": "Join us as a Data Analyst Take on a new challenge in a cutting-edge data team, in which you'll contribute to the analysis of complex bank, franchise or function data to identify business issues and opportunities We'll look to you to assist with providing high quality analytical input to help develop and implement innovative processes and resolve problems across the bank This is a hands-on role in which you'll utilize your business and technical analysis skills to help stakeholders make better d…",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1OTI4OTM4OSIsInMiOiJFS3NKYWFkNDhSRy0ydEhBeE5BblpRIn0.iEjfxzJs9tPuVwgTh6969cmNIARdr4RSj4CRajYrCAk",
+    "title": "Data Analyst (LGBT Event)",
+    "latitude": 13.06041,
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "created": "2026-05-03T05:42:14Z",
+    "description": "Role: Data Analyst - Product Analytics Job Description 4 years of experience in data analytics with at least 2 years in product analytics. * Proficiency in SQL and Python for data analysis; strong understanding of experimentation methods and causal inference. * Experience working with Azure Data Services and Databricks (or equivalent cloud-based platforms). * Expertise in building compelling, user-friendly dashboards in Power BI. * Strong communication skills and ability to influence cross-func…",
+    "longitude": 80.24963,
+    "id": "5717388419",
+    "redirect_url": "https://www.adzuna.in/details/5717388419?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Colan Infotech Private Limited"
+    },
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "title": "Data Analyst - Product Analytics",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzE3Mzg4NDE5In0.Vm7VJDJauPYl-7YP9AuQxr5fUDt6KwOhuUyMbt7EE2I"
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NTc3MjA0NyIsInMiOiJFS3NKYWFkNDhSRy0ydEhBeE5BblpRIn0.goYUz3ODzJ4xr14RQf5IVM2V_e72tPimm8j_bO8YScM",
+    "contract_time": "full_time",
+    "latitude": 13.06041,
+    "title": "Associate Director Data Analyst",
+    "category": {
+      "label": "Accounting & Finance Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5785772047?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Standard Chartered Bank",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-07-03T00:54:22Z",
+    "longitude": 80.24963,
+    "id": "5785772047",
+    "description": "This job is with Standard Chartered Bank, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Summary Data Analyst is responsible for assisting Director CDO-CFCR-Enablement Data Product to achieve department goals. Analyst will work closely with FCCA teams and support country sensitive data mining needs and statistical analysis using various data and analytics methodologies. Analyst is re…"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Accounting & Finance Jobs",
+      "tag": "accounting-finance-jobs"
+    },
+    "title": "Data Analyst - RCM (Hospital Billing)",
+    "latitude": 13.06041,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NjQ1NzEzMDg1In0.I41AOI6gUWbZbY8EN-GcE_KKg14tKDF5-yi9-ZZso0k",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "description": "Job Description Role: Senior Data Analyst – Revenue Cycle Management (Hospital Billing) Experience: 8–10 Years Location: Chennai Industry: US Healthcare – Revenue Cycle Management Role Summary We are looking for an experienced Senior Data Analyst – Hospital Billing with 8–10 years in US Healthcare RCM. The role focuses on revenue cycle analytics, denial analysis, AR performance tracking, and reporting automation to improve cash flow and reduce revenue leakage. Key Responsibilities Analyze end-t…",
+    "id": "5645713085",
+    "longitude": 80.24963,
+    "created": "2026-02-26T08:24:02Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "People First Consultants"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5645713085?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "created": "2026-04-30T05:41:19Z",
+    "description": "Job Description Job Title: Trade Support / Reference Data Analyst Location: Chennai Experience: 1 to 4 Years Notice Period: Immediate Joiners Only Job Overview: We are seeking a detail-oriented professional with strong knowledge of securities reference data and trade lifecycle to support investment banking operations. The role involves managing trade processes, ensuring data accuracy, and handling SWIFT messaging across multiple financial products. Key Responsibilities: Maintain and manage secu…",
+    "longitude": 80.24963,
+    "id": "5714003648",
+    "redirect_url": "https://www.adzuna.in/details/5714003648?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Teamware Solutions a"
+    },
+    "category": {
+      "label": "Accounting & Finance Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "title": "Trade Support / Reference Data Analyst",
+    "latitude": 13.06041,
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzE0MDAzNjQ4In0.MNaaUQfd67InBdAuUlJy-HikE0xV1CKHmyibTVUpN_g"
+  },
+  {
+    "created": "2026-06-11T02:20:33Z",
+    "description": "Who We Are : Arcadia is the technology company empowering energy innovators and consumers to fight the climate crisis. Our software and APIs are revolutionizing an industry held back by outdated systems and institutions by creating unprecedented access to the data and clean energy needed to make a decarbonized energy grid possible. In 2014, Arcadia set out on its mission to break the fossil fuel monopoly and since then we have been knocking down the institutional barriers to unlock decarbonizat…",
+    "longitude": 80.24963,
+    "id": "5758931601",
+    "redirect_url": "https://www.adzuna.in/details/5758931601?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Arcadia"
+    },
+    "category": {
+      "tag": "energy-oil-gas-jobs",
+      "label": "Energy, Oil & Gas Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "title": "Senior Data Analyst - Revenue Ops",
+    "latitude": 13.06041,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzU4OTMxNjAxIn0.3jz4jBgJAO-Cyc7Nppt-s7UpBupiGMCP2wyVMzSgGZ8"
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/5760984377?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Kuehne+Nagel",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-06-12T10:28:56Z",
+    "description": "It's more than a job In this IT role, you will manage, develop, and support the technology infrastructure that powers KuehneNagel's global systems and operations. This contribution is vital to making both special and ordinary moments in the lives of people a reality. In fact, your work enables our teams to deliver fresh fruit, time-sensitive healthcare products and much more to people all around the world. Working in IT at KuehneNagel contributes to more than we imagine. ? The Reporting Analyst…",
+    "longitude": 80.24963,
+    "id": "5760984377",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "salary_is_predicted": "0",
+    "title": "IT Deployment, Data Analyst - Chennai",
+    "latitude": 13.06041,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzYwOTg0Mzc3In0.qNygbrxteCrm8YALjCoSekt1v-0uCLnv8N_ICoBAmXM",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/5778695206?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "CDM Smith",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-06-27T10:28:48Z",
+    "description": "Company Overview Check out this video and find out why our team loves to work here! (https://www.cdmsmith.com/resources/videos/meet-cdm-smith) Join Us! CDM Smith - where amazing career journeys unfold. Imagine a place committed to offering an unmatched employee experience. Where you work on projects that are meaningful to you. Where you play an active part in shaping your career journey. Where your co-workers are invested in you and your success. Where you are encouraged and supported to do you…",
+    "longitude": 80.24963,
+    "id": "5778695206",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "title": "Senior QA/QC Data Analyst",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1Nzc4Njk1MjA2In0.VyAtRsfmeziDapyt3F3yd3_7oojpUBOzmXe6k-mUi2U",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5759286572?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "BDO India",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-06-11T06:52:31Z",
+    "description": "Carry out data analytics on large structured and unstructured datasets using a wide range of database management systems, BI reporting and visualization software Carry out investigative methodologies to identify issues and gather relevant evidence Assist in developing tools/solutions directed towards future prevention, continuous monitoring, detection and investigation of occupational fraud and financial crime Develop supporting material on the benefits of forensic data analytics for clients an…",
+    "id": "5759286572",
+    "longitude": 80.24963,
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "title": "Forensic Data Analyst - Senior Consultant",
+    "latitude": 13.06041,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzU5Mjg2NTcyIn0.HcGuEVcvDyVt2SYTGeqDDBzBcI-ecJc5jccZsViFSV0",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Accounting & Finance Jobs",
+      "tag": "accounting-finance-jobs"
+    }
+  },
+  {
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "title": "Advanced Specialist, Technology Data Analyst",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzI5NzMzMDc1In0.hBWvxSAIk6rNEROEKFCiFdX7lqgm6Z7APjy-zLgsiZ0",
+    "contract_time": "full_time",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5729733075?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Pearson"
+    },
+    "created": "2026-05-15T02:21:59Z",
+    "description": "Description Role Overview We are looking for a Data Platform Reliability Engineer to ensure the reliability, scalability, and performance of our enterprise data platform. This role blends Site Reliability Engineering (SRE) and DevOps practices to support modern cloud-based data ecosystems built on Google BigQuery, lakehouse architectures, and distributed data pipelines. You will play a key role in building highly resilient, governable, observable, and cost-efficient data platforms, while enabli…",
+    "id": "5729733075",
+    "longitude": 80.24963
+  },
+  {
+    "created": "2026-06-25T10:29:48Z",
+    "description": "Role Overview We are looking for a Data Platform Reliability Engineer to ensure the reliability, scalability, and performance of our enterprise data platform. This role blends Site Reliability Engineering (SRE) and DevOps practices to support modern cloud-based data ecosystems built on Google BigQuery, lakehouse architectures, and distributed data pipelines. You will play a key role in building highly resilient, governable, observable, and cost-efficient data platforms, while enabling engineeri…",
+    "longitude": 80.24963,
+    "id": "5775778205",
+    "redirect_url": "https://www.adzuna.in/details/5775778205?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Pearson",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "salary_is_predicted": "0",
+    "title": "Advanced Specialist, Technology Data Analyst",
+    "latitude": 13.06041,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1Nzc1Nzc4MjA1In0.Za0Td1Rt05PxoV9j-IbbuBrvkDTFy6mfb1tESatl0fE"
+  },
+  {
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "title": "Applications Developer - Data Analyst, Data Science, Python, GCP, ML",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NDA0NDQ2MzUxIn0.OkDyqMoXqh0ufq6jZUCE-b3a7kpLjeGt9y-xgOE9W1c",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5404446351?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "UPS"
+    },
+    "created": "2025-09-18T10:35:30Z",
+    "description": "Before you apply to a job, select your language preference from the options available at the top right of this page. Explore your next opportunity at a Fortune Global 500 organization. Envision innovative possibilities, experience our rewarding culture, and work with talented teams that help you become better every day. We know what it takes to lead UPS into tomorrow-people with a unique combination of skill  passion. If you have the qualities and drive to lead yourself or teams, there are role…",
+    "id": "5404446351",
+    "longitude": 80.24963
+  },
+  {
+    "company": {
+      "display_name": "UPS",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5404446341?utm_medium=api&utm_source=7cd92d92",
+    "id": "5404446341",
+    "longitude": 80.24963,
+    "description": "Avant de postuler à un emploi, sélectionnez votre langue de préférence parmi les options disponibles en haut à droite de cette page. Découvrez votre prochaine opportunité au sein d'une organisation qui compte parmi les 500 plus importantes entreprises mondiales. Envisagez des opportunités innovantes, découvrez notre culture enrichissante et travaillez avec des équipes talentueuses qui vous poussent à vous développer chaque jour. Nous savons ce qu'il faut faire pour diriger UPS vers l'avenir : d…",
+    "created": "2025-09-18T10:35:28Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQwNDQ0NjM0MSIsInMiOiJFS3NKYWFkNDhSRy0ydEhBeE5BblpRIn0.xGN8SthobBk4mR1Xr5OxNf1qfW36a3KhR-jcgKXV-Ik",
+    "title": "Applications Developer - Data Analyst, Data Science, Python, GCP, ML",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "title": "Data Management Analyst 2",
+    "latitude": 13.06041,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzU5Mjg0NzE0In0.u1O9Wh9nzPXwQEG_hAItDdi8dTmJRLSgTBCUg9Ihd2o",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5759284714?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Comcast"
+    },
+    "created": "2026-06-11T06:51:44Z",
+    "description": "Responsible for working to maintain uniform access and complete transparency for data assets to enable informed business decisions that drive profitable growth. Collect, analyze, and validate data aligned to business requirements prior to it being stored for final use by the organization and/or its clients. Provide technical requirements to productionalize data assets for use by the organization and/or its clients. Ensure ongoing data accuracy by implementing quality assurance checks along with…",
+    "longitude": 80.24963,
+    "id": "5759284714"
+  },
+  {
+    "latitude": 13.06041,
+    "title": "Associate Data Engineering Analyst",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzczMzY1MDc4In0.cwu9yYU1pxC9p-RmlvmAVNVCOquRjl1F_pk34Osd5PQ",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Optum"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5773365078?utm_medium=api&utm_source=7cd92d92",
+    "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health o…",
+    "longitude": 80.24963,
+    "id": "5773365078",
+    "created": "2026-06-23T14:56:42Z"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "UnitedHealth Group"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5769000443?utm_medium=api&utm_source=7cd92d92",
+    "id": "5769000443",
+    "longitude": 80.24963,
+    "description": "Requisition number: 2362904 Job category: Technology Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the…",
+    "created": "2026-06-19T10:29:12Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzY5MDAwNDQzIn0.YGf1Cs9sf37x0GxJwQnIGFmIczKnG9uTVmpjB3cT-WQ",
+    "latitude": 13.06041,
+    "title": "Senior Data Engineering Analyst",
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    }
+  },
+  {
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "title": "Data Research Analyst - Loans and Mortgages",
+    "latitude": 13.06041,
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3OTQ5NzI3OSIsInMiOiJFS3NKYWFkNDhSRy0ydEhBeE5BblpRIn0.CaJ2HND6zLeMhnYo_6I_W7nAlwhNpxwL6z0qKPJkHdc",
+    "category": {
+      "tag": "accounting-finance-jobs",
+      "label": "Accounting & Finance Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5779497279?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Smart Financial Decisions Made Simple",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-06-28T02:52:09Z",
+    "description": "We are seeking a Data Research Analyst - Loans and Mortgages to join our India-based Data Research team and assist our editorial team in creating top-quality content. In this role, you will provide competitive analysis on the US loans and mortgages market and ensure the quality and accuracy of data collection and analysis for US lending products. Your research and analysis will be a key component of making trustworthy, relevant assessments of loan and mortgage products and services, helping tho…",
+    "id": "5779497279",
+    "longitude": 80.24963
+  },
+  {
+    "description": "About Atos Group Atos Group is a global leader in digital transformation with c. 56,000 employees and annual revenue of c. €7.2 billion (at the go-forward perimeter), operating in 54 countries under two brands - Atos for services and Eviden for products and systems. European number one in cybersecurity and a leader in cloud, Atos Group is committed to a secure and decarbonized future and provides tailored AI-powered, end-to-end solutions for all industries. Atos Group is the brand under which A…",
+    "longitude": 80.24963,
+    "id": "5781141256",
+    "created": "2026-06-29T18:13:07Z",
+    "contract_type": "permanent",
+    "company": {
+      "display_name": "Atos",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5781141256?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "latitude": 13.06041,
+    "title": "Data Science/Analyst with AI tool",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MTE0MTI1NiIsInMiOiJFS3NKYWFkNDhSRy0ydEhBeE5BblpRIn0.oxtB02bB2TvY99G33OmvPLnnM3BI4oZROwNvm6actCU",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "salary_is_predicted": "0"
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzE0OTU3Mzk1In0.uSDuXJ3IbifpXOum86P5q8s5L2r2cHE1PRp5Q7XMqrM",
+    "contract_type": "permanent",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Papigen",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_min": 1500000,
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Business Analyst – Data & Analytics",
+    "latitude": 13.06041,
+    "created": "2026-05-01T05:53:58Z",
+    "id": "5714957395",
+    "longitude": 80.24963,
+    "description": "Role Summary We are looking for a Business Analyst with strong experience in data, analytics, and reporting projects . The role focuses on requirements gathering, process analysis, and bridging business and technical teams to deliver scalable data solutions across platforms like Microsoft Azure, Power BI, and enterprise data systems. Key Responsibilities Requirements & Analysis Gather, analyze, and document business and data requirements (BRD, user stories) . Perform gap analysis and impact ass…",
+    "redirect_url": "https://www.adzuna.in/details/5714957395?utm_medium=api&utm_source=7cd92d92",
+    "salary_max": 2400000
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "latitude": 13.06041,
+    "title": "Associate Data Analyst - Looker, PowerBI, DAX, SQL, Python, R, SSAS, C#, .NET, GCP",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NTA0MzgzNTMxIn0.deUL9F5lDiLubF3bC3iIwPr5RK2mbtoNAf2AWwGwlcc",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "salary_is_predicted": "0",
+    "description": "Avant de postuler à un emploi, sélectionnez votre langue de préférence parmi les options disponibles en haut à droite de cette page. Découvrez votre prochaine opportunité au sein d'une organisation qui compte parmi les 500 plus importantes entreprises mondiales. Envisagez des opportunités innovantes, découvrez notre culture enrichissante et travaillez avec des équipes talentueuses qui vous poussent à vous développer chaque jour. Nous savons ce qu'il faut faire pour diriger UPS vers l'avenir : d…",
+    "id": "5504383531",
+    "longitude": 80.24963,
+    "created": "2025-11-20T05:54:04Z",
+    "company": {
+      "display_name": "UPS",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5504383531?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NTA0MzgzNTE2In0.IoT4phtINoXUDTITegRV_h5djJwRdTzYWnU-5fgDMRo",
+    "title": "Associate Data Analyst - Looker, PowerBI, DAX, SQL, Python, R, SSAS, C#, .NET, GCP",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "id": "5504383516",
+    "longitude": 80.24963,
+    "description": "Before you apply to a job, select your language preference from the options available at the top right of this page. Explore your next opportunity at a Fortune Global 500 organization. Envision innovative possibilities, experience our rewarding culture, and work with talented teams that help you become better every day. We know what it takes to lead UPS into tomorrow-people with a unique combination of skill  passion. If you have the qualities and drive to lead yourself or teams, there are role…",
+    "created": "2025-11-20T05:54:04Z",
+    "company": {
+      "display_name": "UPS",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5504383516?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "created": "2026-05-03T09:52:19Z",
+    "description": "The Applications Development Intermediate Programmer Analyst is an intermediate level position responsible for participation in the establishment and implementation of new or revised application systems and programs in coordination with the Technology team. The overall objective of this role is to contribute to applications systems analysis and programming activities. Required Skills & Experience:  Strong Big Data Ecosystem Knowledge:  5-8 years of Demonstrable experience with Hadoop and its co…",
+    "id": "5717611404",
+    "longitude": 80.24963,
+    "redirect_url": "https://www.adzuna.in/details/5717611404?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Citigroup"
+    },
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "salary_is_predicted": "0",
+    "title": "Database (Oracle & Big Data) Programmer Analyst",
+    "latitude": 13.06041,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzE3NjExNDA0In0.mm12Apy3up1aeofQNTNi2jZavA6AQIkEnZXW614xLu4"
+  },
+  {
+    "created": "2025-08-03T10:12:50Z",
+    "id": "5335620955",
+    "longitude": 80.24963,
+    "description": "Avant de postuler à un emploi, sélectionnez votre langue de préférence parmi les options disponibles en haut à droite de cette page. Découvrez votre prochaine opportunité au sein d'une organisation qui compte parmi les 500 plus importantes entreprises mondiales. Envisagez des opportunités innovantes, découvrez notre culture enrichissante et travaillez avec des équipes talentueuses qui vous poussent à vous développer chaque jour. Nous savons ce qu'il faut faire pour diriger UPS vers l'avenir : d…",
+    "redirect_url": "https://www.adzuna.in/details/5335620955?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "UPS",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMzNTYyMDk1NSIsInMiOiJFS3NKYWFkNDhSRy0ydEhBeE5BblpRIn0.rIAiBONdZIS_5PbHO_J1HhEklIFt3n68SPTQ9dhwwdg",
+    "latitude": 13.06041,
+    "title": "Data & Business Intelligence Analyst"
+  },
+  {
+    "created": "2025-08-03T10:12:47Z",
+    "longitude": 80.24963,
+    "id": "5335620347",
+    "description": "Before you apply to a job, select your language preference from the options available at the top right of this page. Explore your next opportunity at a Fortune Global 500 organization. Envision innovative possibilities, experience our rewarding culture, and work with talented teams that help you become better every day. We know what it takes to lead UPS into tomorrow-people with a unique combination of skill  passion. If you have the qualities and drive to lead yourself or teams, there are role…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5335620347?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "UPS"
+    },
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMzNTYyMDM0NyIsInMiOiJFS3NKYWFkNDhSRy0ydEhBeE5BblpRIn0._WUU9xkroI5-rqxb41BHRnG8nd0S7vGn7cyLxwCLYyE",
+    "latitude": 13.06041,
+    "title": "Data & Business Intelligence Analyst"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "latitude": 13.06041,
+    "title": "Data Information Management Analyst",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzQ1MjMxOTE5In0.wVIsQRKTP8A-RR9gWKph-89kBezyKn44iKenB8XKW6c",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "description": "Control Automation Development- Analyst1 (C09)-SIS About CITI Citi's mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress. We have 200 years of experience helping our clients meet the world's toughest challenges and embrace its greatest opportunities. About AIM: Analytics and Information Management (AIM) is a global community that is driving data driven transformation across Citi in multiple functions with t…",
+    "longitude": 80.24963,
+    "id": "5745231919",
+    "created": "2026-05-30T10:13:03Z",
+    "company": {
+      "display_name": "Citigroup",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5745231919?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5742845559?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "Trimble",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-05-28T06:53:42Z",
+    "longitude": 80.24963,
+    "id": "5742845559",
+    "description": "Title: Salesforce Data Migration Business Analyst Job Location: Chennai, India, or India-Remote Our Department: Digital Transformation Job Overview: The Salesforce Data Migration Business Analyst will be responsible for the implementation and support of Sales and Service Cloud applications. This individual will work under the guidance of IT leadership to execute the Salesforce strategy effectively. Key Responsibilities: Gather and document business requirements, define scope, and perform map/ga…",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzQyODQ1NTU5In0.rwg2HEbLfNTeXtD6A6UnMyolU3FKWpf9sBZliFTLuxc",
+    "title": "Salesforce Data Migration Business Analyst",
+    "latitude": 13.06041,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "latitude": 13.06041,
+    "title": "Salesforce Data Migration Business Analyst",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0Mjg0NTU1NiIsInMiOiJFS3NKYWFkNDhSRy0ydEhBeE5BblpRIn0.lFPun_EEWCwesLL16RrrEmfPbf8arbuZtO8QQCW5OQg",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "description": "Title: Salesforce Data Migration Business Analyst Job Location: Chennai, India, or India-Remote Our Department: Digital Transformation Job Overview: The Salesforce Data Migration Business Analyst will be responsible for the implementation and support of Sales and Service Cloud applications. This individual will work under the guidance of IT leadership to execute the Salesforce strategy effectively. Key Responsibilities: Gather and document business requirements, define scope, and perform map/ga…",
+    "longitude": 80.24963,
+    "id": "5742845556",
+    "created": "2026-05-28T06:53:42Z",
+    "company": {
+      "display_name": "Trimble",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5742845556?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0Mjg0NTU3NSIsInMiOiJFS3NKYWFkNDhSRy0ydEhBeE5BblpRIn0.qPqCMeO7jjqn2eoSb2jP7o0efXajLlG3embBl948ZFA",
+    "title": "Salesforce Data Migration Business Analyst",
+    "latitude": 13.06041,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5742845575?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Trimble",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-05-28T06:53:42Z",
+    "id": "5742845575",
+    "longitude": 80.24963,
+    "description": "Gather and document business requirements, define scope, and perform map/gap analysis for Data Migration. Understand user needs and drive continuous improvement and efficient use of the Salesforce platform. Configure and customize Salesforce applications, including workflows, profiles, custom objects, rules, etc. Create reports and dashboards for users and business decision-makers. Drive user adoption of Salesforce by supporting and training users. Develop test plans and cases, conduct system i…"
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "salary_is_predicted": "0",
+    "latitude": 13.06041,
+    "title": "Analyst - Sustainability Data Steward",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NjAyMTYzNSIsInMiOiJFS3NKYWFkNDhSRy0ydEhBeE5BblpRIn0.ED67oJFYsV_McfLFvL4_JEnHKQ4Jm7nGc_JeH2xU1Cg",
+    "created": "2026-07-03T02:49:30Z",
+    "description": "Job Title: Analyst Career Level: C3 Introduction to role: Are you ready to turn sophisticated sustainability data into trusted insight that shapes decisions and meets rising regulatory expectations? As an Analyst focused on Sustainability Data Stewardship, you will ensure the quality, consistency, and governance of sustainability data that underpins our disclosures and guides how we operate. Your work will directly support reliable reporting, regulatory compliance, and smarter decision-making a…",
+    "longitude": 80.24963,
+    "id": "5786021635",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5786021635?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "AstraZeneca",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/4686706089?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2024-05-10T07:38:59Z",
+    "id": "4686706089",
+    "longitude": 80.24963,
+    "description": "We are looking out fresher/experienced for data analyst role in our organization. Incumbent must have good knowledge in data research.Salary would be 8000-10000 Per Month.Regards,Mr.Sridhar.S",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI0Njg2NzA2MDg5In0.08l143Off8VBpOQKVmdkyk7iZBfVRMambPlC5-puba4",
+    "latitude": 13.06041,
+    "title": "Data Research Executive",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MzU0NTA2MiIsInMiOiJFS3NKYWFkNDhSRy0ydEhBeE5BblpRIn0.YuoEsIPhqhF1jiGJ3IlNhB6WD9fy3wpj9CRyC7Yz1do",
+    "contract_time": "full_time",
+    "latitude": 13.06041,
+    "title": "ANALYST L1",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "id": "5763545062",
+    "longitude": 80.24963,
+    "description": "Job description: Job Description ͏ ͏ ͏ ͏ Mandatory Skills: Business Analyst/ Data Analyst(Media) . Reinvent your world. We are building a modern Wipro. We are an end-to-end digital transformation partner with the boldest ambitions. To realize them, we need people inspired by reinvention. Of yourself, your career, and your skills. We want to see the constant evolution of our business and our industry. It has always been in our DNA - as the world around us changes, so do we. Join a business power…",
+    "contract_type": "permanent",
+    "created": "2026-06-14T17:22:34Z",
+    "company": {
+      "display_name": "Wipro",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5763545062?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "title": "Liquidity/ Treasury",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY3ODc3NzUxOCIsInMiOiJFS3NKYWFkNDhSRy0ydEhBeE5BblpRIn0.T5FdVKe1MXDHPQXGi0tIlzRTWYCq6EUF1eUto0iFREc",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu"
+    },
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "People First Consultants"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5678777518?utm_medium=api&utm_source=7cd92d92",
+    "description": "We have an urgent requirement for Senior Business / Data Analyst profiles with strong expertise in Capital Management Technology. Requesting your immediate support in sharing 2 to 3 resumes today which is mandatory subject to its emergency. Requirement Details: Location: Chennai / Bangalore Notice Period: Immediate to 30 days Level: Up to Manager (M) level 3 years to 14 years Role Overview: The Senior Business / Data Analyst – Capital Management Technology will act as a hands-on subject matter …",
+    "id": "5678777518",
+    "created": "2026-03-26T08:38:30Z"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5761955396?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Lexisnexis Risk Solutions"
+    },
+    "created": "2026-06-13T08:52:43Z",
+    "longitude": 80.24963,
+    "id": "5761955396",
+    "description": "Key Responsibilities Develop and maintain scalable ETL/ELT data pipelines using Python and PySpark. Write efficient and optimized SQL queries for data extraction, transformation, and analysis. Design and support data integration workflows across Vertica and Snowflake environments. Collaborate with data analysts, data scientists, and business stakeholders to gather data requirements and translate them into technical solutions. Perform light DBA activities such as table partitioning, indexing, us…",
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MTk1NTM5NiIsInMiOiJFS3NKYWFkNDhSRy0ydEhBeE5BblpRIn0.t3eTfl5kKm0gIZjBJIojE761kY6KqYelJPaGaxNqaX8",
+    "title": "Software Engineer III",
+    "latitude": 13.06041,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    }
+  },
+  {
+    "id": "5731966518",
+    "longitude": 80.24963,
+    "description": "Design, develop, and maintain big data solutions to meet business requirements and support data-driven decision making. Work with stakeholders to understand their data needs and determine how to best use big data technologies to meet those needs. Design and implement scalable, high-performance big data architectures, using technologies such as Hadoop, Spark, and NoSQL databases. Extract, transform, and load large data sets into a big data platform for analysis and reporting. Write complex SQL q…",
+    "created": "2026-05-17T06:49:59Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Allime Tech Solutions"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5731966518?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMTk2NjUxOCIsInMiOiJFS3NKYWFkNDhSRy0ydEhBeE5BblpRIn0.i-trEVKaXpP0Ri2ApfnFv7sQxsdLZHu6LXHuelNBLB0",
+    "latitude": 13.06041,
+    "title": "Big Data Developer (Hadoop and Scala)",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "company": {
+      "display_name": "NTT America, Inc.",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5788791734?utm_medium=api&utm_source=7cd92d92",
+    "longitude": 80.24963,
+    "id": "5788791734",
+    "description": "Work On Analytics, Reporting and Business Intelligence Projects Accountabilities Understand, Gathering and Prepare the requirements for Business. Works under supervision with internal and external teams to understand customer requirements Ability to elaborate on the details of a project Collaborate with Automation Engineers, Machine Learning Engineers, Data Analysts and Business Intelligence Analyst to execute deliverables. Must possess technical writing, decision making, and problem-solving sk…",
+    "created": "2026-07-05T10:44:06Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4ODc5MTczNCIsInMiOiJFS3NKYWFkNDhSRy0ydEhBeE5BblpRIn0.KNWWfaQXk3dY5kPYs65krPqWD6QcH4NknpolPrVMT48",
+    "title": "Data & Business Insights Sr. Associate",
+    "latitude": 13.06041,
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "description": "Job Details We value our talented employees, and whenever possible strive to help one of our associates grow professionally before recruiting new talent to our open positions. If you think the open position you see is right for you, we encourage you to apply! Our people make all the difference in our success.  About us: Analytics Information management (AIM) is a global community that is driving data driven transformation across Citi in multiple functions with the objective to create actionable…",
+    "longitude": 80.24963,
+    "id": "5766336378",
+    "created": "2026-06-17T10:26:34Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Citigroup"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5766336378?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "title": "Senior Analyst Data Governance and Quality- Assistant Vice President",
+    "latitude": 13.06041,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUtzSmFhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzY2MzM2Mzc4In0.uVhla8Tk80-ymMMxrT3QmjvjD6HxSdFljQTJLo_BVR4",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "salary_is_predicted": "0"
+  }
+]

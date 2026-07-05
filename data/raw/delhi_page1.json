@@ -1,0 +1,1520 @@
+[
+  {
+    "id": 1993882092,
+    "description": "Data Analyst Job Duties Data analyst responsibilities include conducting full lifecycle analysis to include requirements, activities and design. Data analysts will develop analysis and reporting capabilities. They will also monitor performance and quality control plans to identify improvements. Responsibilities Interpret data, analyze results using statistical techniques and provide ongoing reports Develop and implement databases, data collection systems, data analytics and other strategies tha…",
+    "created": "2021-02-15T04:27:43Z",
+    "salary_max": 300000,
+    "company": {
+      "display_name": "SveltetechTechnologies Pvt Ltd",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/1993882092?utm_medium=api&utm_source=7cd92d92",
+    "salary_min": 0,
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxOTkzODgyMDkyLCJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSJ9.st6bFQmSduzw9VbwOo3jmQM6BFSCnojwWdNGIsBRCXc",
+    "contract_time": "full_time",
+    "title": "Data Analyst",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Delhi"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India"
+    }
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "latitude": 28.62523,
+    "title": "Data Analyst",
+    "salary_min": 1000000,
+    "redirect_url": "https://www.adzuna.in/details/4514376622?utm_medium=api&utm_source=7cd92d92",
+    "salary_max": 1200000,
+    "created": "2024-01-07T15:08:07Z",
+    "description": "Job Title: Data Analyst Job Brief: The successful candidate will turn data into information, information into insight and insight into business decisions. Data Analyst Job Duties Data analyst responsibilities include conducting full lifecycle analysis to include requirements, activities and design. Data analysts will develop analysis and reporting capabilities. They will also monitor performance and quality control plans to identify improvements. About Us We began in 2015 with an entrepreneuria…",
+    "longitude": 77.224601,
+    "id": "4514376622",
+    "salary_is_predicted": "0",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI0NTE0Mzc2NjIyIn0.RjV0FJ-IrgJettQVLFcI5416e84KkyOkOzAqax8i9Ls",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Qrata",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Qrata"
+    },
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI0NTE0Mzc2MTg5In0.qwIoboUN3jk4gbG-3HI-QLOIfXumNBAJ7IY6uMMP-uY",
+    "contract_time": "full_time",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/4514376189?utm_medium=api&utm_source=7cd92d92",
+    "salary_max": 1300000,
+    "created": "2024-01-07T15:07:49Z",
+    "longitude": 77.224601,
+    "id": "4514376189",
+    "description": "Job Title Data Analyst Job Brief The successful candidate will turn data into information, information into insight and insight into business decisions. Data Analyst Job Duties Data analyst responsibilities include conducting full lifecycle analysis to include requirements, activities and design. Data analysts will develop analysis and reporting capabilities. They will also monitor performance and quality control plans to identify improvements. Responsibilities ● Interpret data, analyze results…",
+    "location": {
+      "display_name": "Delhi, India",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "title": "Data Analyst",
+    "latitude": 28.62523,
+    "salary_min": 800000
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Delhi"
+      ],
+      "display_name": "Delhi, India",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "title": "Data Analyst",
+    "latitude": 28.62523,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MjMxNDc5OCIsInMiOiJrRmc1VGFkNDhSRy0ydEhBeE5BblpRIn0.PKBquZupdHZFJC8iYqyrq_plhjxovGfI0TPwACKhzi4",
+    "contract_time": "full_time",
+    "created": "2026-06-13T14:22:17Z",
+    "description": "Job Title: Data Analyst Location: Delhi Job Type: Full-Time (On-Site) About Us: Hubhopper is a leading podcasting platform dedicated to empowering content creators and providing the best listening experience for our users. We are seeking a talented Data Analyst to join our team and help us gain valuable insights from our data to enhance our platform further. Job Description: As a Data Analyst at Hubhopper, you will play a crucial role in analyzing and interpreting data to drive data-informed de…",
+    "id": "5762314798",
+    "longitude": 77.224601,
+    "redirect_url": "https://www.adzuna.in/details/5762314798?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Hubhopper"
+    }
+  },
+  {
+    "created": "2023-10-02T13:22:26Z",
+    "description": "What you will do: Understand the process of CaaStle business teams, KPIs, and pain points Build scalable data products, self-service tools, data cubes to analyze and present data associated with acquisition, retention, product performance, operations, client services, etc. Closely partner with data engineering, product, and business teams and participate in requirements capture, research design, data collection, dashboard generation, and translation of results into actionable insights that can …",
+    "longitude": 77.224601,
+    "id": "4344577959",
+    "redirect_url": "https://www.adzuna.in/details/4344577959?utm_medium=api&utm_source=7cd92d92",
+    "salary_max": 600000,
+    "salary_min": 100000,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "title": "Data Analyst",
+    "latitude": 28.62523,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Jobdost",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Energy, Oil & Gas Jobs",
+      "tag": "energy-oil-gas-jobs"
+    },
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI0MzQ0NTc3OTU5In0.EgBftp6rlMRBubcFYbuZdM8D65lirBdul1gG07qPjCw",
+    "contract_time": "full_time"
+  },
+  {
+    "company": {
+      "display_name": "Unnati",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiIyNTcwMDY5OTQ4In0.bkuLjtzWAVQfQQg6zw8Ef-AIC_BE5jAJDdn0Ra_1YQU",
+    "contract_time": "full_time",
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "pr-advertising-marketing-jobs",
+      "label": "PR, Advertising & Marketing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_max": 1500000,
+    "redirect_url": "https://www.adzuna.in/details/2570069948?utm_medium=api&utm_source=7cd92d92",
+    "id": "2570069948",
+    "longitude": 77.224601,
+    "description": "Are you looking for a team that is built on comradeship, lets you embrace your individuality and also pays you a handsome compensation? Then read on. Our client is one of the largest shopping and cashback website, that enables all its members to find products from various e-commerce sites like Amazon, Flipkart, Myntra, CliQ etc while allowing to comparing prices for similar products across these sites and also earning handsome cashback or discount coupons for every purchase. Their app and websi…",
+    "created": "2021-10-23T04:34:53Z",
+    "title": "Data Analyst- Marketing",
+    "latitude": 28.62523,
+    "location": {
+      "display_name": "Delhi, India",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "salary_min": 0
+  },
+  {
+    "created": "2026-05-13T02:19:03Z",
+    "description": "Job Description: About the Company Our client is an emerging leader in AI-powered supply chain optimization. Their platform helps businesses eliminate overstocking and under-stocking by leveraging advanced analytics and forecasting models. Built by supply-chain experts, the organization focuses on enabling high-growth startups to scale seamlessly by aligning supply with demand through data-driven decisions. Key Responsibilities Data Management: Collect, clean, wrangle, and transform complex dat…",
+    "id": "5727281189",
+    "longitude": 77.224601,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5727281189?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Mantras2Success"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Delhi"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India"
+    },
+    "salary_is_predicted": "0",
+    "latitude": 28.62523,
+    "title": "Python Data Analyst (Delhi )",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzI3MjgxMTg5In0.WVFhKO3WmSeDNewua-c6toJPlIwO_LJmvWPUbkp63mA",
+    "contract_time": "full_time"
+  },
+  {
+    "created": "2026-06-23T10:11:23Z",
+    "id": "5773191550",
+    "longitude": 77.224601,
+    "description": "Job Title: Analyst - Data Operations Location: Delhi Job Overview: We are seeking a highly skilled and driven Data Analyst to join our CEO’s office, providing crucial insights into both the internal performance and financial data of the organization, as well as analyzing external activities to support executive decision-making. This role offers the unique opportunity to work closely with the CEO and senior leadership, directly influencing strategic initiatives through data-driven insights. Key …",
+    "redirect_url": "https://www.adzuna.in/details/5773191550?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "People First Consultants"
+    },
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Delhi, India",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MzE5MTU1MCIsInMiOiJrRmc1VGFkNDhSRy0ydEhBeE5BblpRIn0.nbCX20AQ1IHdDFmpPP_Jd0VC50Y7tfM3qDkgKe0Smyc",
+    "latitude": 28.62523,
+    "title": "Analyst - Data Operations"
+  },
+  {
+    "salary_max": 1500000,
+    "redirect_url": "https://www.adzuna.in/details/3512731427?utm_medium=api&utm_source=7cd92d92",
+    "description": "Interpret data, analyze results using statistical techniques and provide ongoing reports  Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality  Acquire data from primary or secondary data sources and maintain databases/data systems  Identify, analyze, and interpret trends or patterns in complex data sets  Filter and “clean” data by reviewing computer reports, printouts, and performance indicators to lo…",
+    "longitude": 77.224601,
+    "id": "3512731427",
+    "created": "2022-09-23T06:58:19Z",
+    "latitude": 28.62523,
+    "title": "Business Analyst",
+    "location": {
+      "area": [
+        "India",
+        "Delhi"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India"
+    },
+    "salary_min": 1200000,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "The Talent Keepers"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiIzNTEyNzMxNDI3In0.SLMV4ScX6tImXImybek4CoV1J7riwSiYGa2qnrDY8IY",
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    }
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Vital",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiIyNjIxOTI1MDA2In0.GzN8w0zdyPm6eNMVCdjl14FlJQmh2gJyL_MLKqIPWKc",
+    "contract_time": "full_time",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/2621925006?utm_medium=api&utm_source=7cd92d92",
+    "salary_max": 540000,
+    "created": "2021-11-08T04:05:17Z",
+    "longitude": 77.224601,
+    "id": "2621925006",
+    "description": "6 months of proven experience as a Data Scientist or Data Analyst Understanding of machine-learning and operations research Extensive knowledge of R, SQL and Excel Analytical mind and business acumen Strong Statistical understanding Problem-solving aptitude BSc/BA in Computer Science, Engineering or relevant field; graduate degree in Data Science or other quantitative field is preferred Skills:- Data Science and Python",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "title": "Jr. Data Scientist",
+    "latitude": 28.62523,
+    "salary_min": 420000
+  },
+  {
+    "latitude": 28.62523,
+    "title": "Business Analyst",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzI3MTM0Mjk2In0.ZWVYS5YdQjOtfr6F3itZW4HeywlNG-4o6O0KSA2BJS4",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Acura Solution"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5727134296?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Job Description: Stakeholder Engagement & Requirement Gathering • Engage with Ministry officials and users to understand business processes, challenges, and transformation objectives. • Conduct requirement elicitation sessions, interviews, workshops, and field visits where needed. • Translate stakeholder inputs into clear functional and non-functional requirements. Business Process Mapping & Gap Analysis • Document AS-IS and TO-BE business process workflows using standard tools (e.g., BPMN). • …",
+    "id": "5727134296",
+    "longitude": 77.224601,
+    "created": "2026-05-13T02:04:00Z"
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Delhi, India",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MjY4NTY2MyIsInMiOiJrRmc1VGFkNDhSRy0ydEhBeE5BblpRIn0.O4l0or8yuYucZ8vKb_xt-VtIl8YojeAHWAaopMnv1hE",
+    "title": "Staff Data Engineer",
+    "latitude": 28.62523,
+    "created": "2026-07-01T07:14:39Z",
+    "longitude": 77.224601,
+    "id": "5782685663",
+    "description": "Job description About The Team As part of the team, you will be responsible for building and running the data pipelines and services that are required to support business functions/reports/dashboard We are heavily dependent on BigQuery/Snowflake, Airflow, Stitch/Fivetran, dbt , Tableau/Looker for our business intelligence and embrace AWS with some GCP. About The Role As a Staff Data Engineer you'll be: Developing end to end ETL/ELT Pipeline working with Data Analysts of business Function. Desig…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5782685663?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "Tide",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "description": "Required Skills YII2/Laravel MVC Concepts PHP OOPs concepts HTTP Verbs and methods for RESTful services, REST verbs and status codes Bootstrap concepts Javascript (hoisting, closures, currying, scope and scope chain, memoization) Summary As a Programmer you will work in the Product Department, which engages in analyzing the business and user requirements for the product. You will work in small groups with the Product Manager, Product Designer, and Data Analyst to contribute in enhancing existin…",
+    "id": 2087142721,
+    "created": "2021-03-31T04:44:43Z",
+    "company": {
+      "display_name": "Institute of Informatics & Communication",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 800000,
+    "redirect_url": "https://www.adzuna.in/details/2087142721?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 540000,
+    "title": "Programmer",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOjIwODcxNDI3MjF9.33rpOe0N2xQuuopaUFhYcREcA3RtrKkpRPAE0YQWc8c",
+    "location": {
+      "display_name": "Delhi, India",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "salary_is_predicted": "0"
+  },
+  {
+    "company": {
+      "display_name": "YipitData",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5777256368?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5777256368",
+    "longitude": 77.224601,
+    "description": "About YipitData: YipitData is the leading market research and analytics firm for the disruptive economy and recently raised up to $475M from The Carlyle Group at a valuation over $1B. We analyze billions of alternative data points every day to provide accurate, detailed insights on ridesharing, e-commerce marketplaces, payments, and more. Our on-demand insights team uses proprietary technology to identify, license, clean, and analyze the data many of the worlds largest investment funds and corp…",
+    "created": "2026-06-26T10:34:31Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1Nzc3MjU2MzY4In0.uqRST2gtLxu6zSc8cGmQlHk-vAShVqQfWklblYoZdLI",
+    "latitude": 28.62523,
+    "title": "Data Specialist",
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "category": {
+      "tag": "scientific-qa-jobs",
+      "label": "Scientific & QA Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5703369620?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ASSPL - Delhi"
+    },
+    "created": "2026-04-18T11:41:52Z",
+    "id": "5703369620",
+    "longitude": 77.21808,
+    "description": "Amazon’s Counterfeit Crimes Unit (CCU) is looking for a talented Risk Manager, to be based in Delhi, to develop and execute Amazon’s external counterfeit enforcement efforts in India. This role will partner closely with Amazon’s Selling Partner Services team and other stakeholders and include the following duties: open-source intelligence; internal data deep-dives; and, preparation of case files and law enforcement referrals. Some travels will be required. A successful individual should be high…",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Delhi",
+        "New Delhi"
+      ],
+      "display_name": "New Delhi, Delhi",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzAzMzY5NjIwIn0.omMYTAs5u1drbPiUnGtXYdw69uK_6LfIY5jMc7HRVt8",
+    "latitude": 28.62623,
+    "title": "Risk Manager",
+    "category": {
+      "tag": "legal-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Legal Jobs"
+    }
+  },
+  {
+    "category": {
+      "label": "Legal Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "legal-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1Njk0MjMyNDYwIn0.YCEQF7DzScI2JCtCXyc3SnGY64n7neuKjUiqHr5KJHQ",
+    "contract_time": "full_time",
+    "latitude": 28.62623,
+    "title": "Senior Risk Manager",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Delhi",
+        "New Delhi"
+      ],
+      "display_name": "New Delhi, Delhi",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5694232460",
+    "longitude": 77.21808,
+    "description": "Amazon’s Counterfeit Crimes Unit (CCU) is looking for a talented Senior Risk Manager based in Delhi to develop and execute Amazon’s external counterfeit enforcement efforts. You will work with a team of attorneys, investigators, and analysts to identify counterfeiters, their networks, and other bad actors in India, develop and pursue cases against them, and work with law enforcement to disrupt their activities. You will also work closely with law enforcement partners, prosecutors, brands, and r…",
+    "created": "2026-04-09T11:37:01Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ASSPL - Delhi"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5694232460?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "created": "2026-05-14T02:26:35Z",
+    "description": "Job Description: Key Responsibilities 1. Practice Leadership & Strategic Growth • Lead the Forensic & Investigation Services (FIS) practice, driving P&L ownership, revenue growth, and market expansion. • Develop a strategic roadmap to position as a preferred advisor in fraud risk management and forensic investigations. • Represent the firm in industry forums, regulatory discussions, and professional networks to build brand visibility. 2. Client Engagement & Business Development • Originate and …",
+    "id": "5728430096",
+    "redirect_url": "https://www.adzuna.in/details/5728430096?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "RECEX"
+    },
+    "category": {
+      "tag": "accounting-finance-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Accounting & Finance Jobs"
+    },
+    "location": {
+      "display_name": "Delhi, India",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "title": "Forensic Auditor/Director",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzI4NDMwMDk2In0.BM5jgm6St0d0kRBR_EWQaHp-CdgegNexIs7qgh3Ru60",
+    "contract_time": "full_time"
+  },
+  {
+    "created": "2026-04-19T09:42:36Z",
+    "longitude": 77.21808,
+    "id": "5704231324",
+    "description": "Description Amazon's Counterfeit Crimes Unit (CCU) is looking for a talented Risk Manager, to be based in Delhi, to develop and execute Amazon's external counterfeit enforcement efforts in India. This role will partner closely with Amazon's Selling Partner Services team and other stakeholders and include the following duties: open-source intelligence; internal data deep-dives; and, preparation of case files and law enforcement referrals. Some travels will be required. A successful individual sh…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5704231324?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Amazon"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Legal Jobs",
+      "tag": "legal-jobs"
+    },
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "New Delhi, Delhi",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Delhi",
+        "New Delhi"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzA0MjMxMzI0In0.NhZEDv00trzLglgrQRM76xT6w6zal8azwdQtYyZ_QIo",
+    "latitude": 28.62623,
+    "title": "Risk Manager"
+  },
+  {
+    "description": "Responsibilities: Test Automation & Framework: Lead the development of automated test framework for financial data pipelines using PySpark/Python and AWS services (e.g., Glue, Athena, EMR, Redshift) Should be able to write test cases based on product requirement, execute them and report issues Data Validation: Automate data validation for financial data sets (like back test datasets, prices and returns data and other calculated metrics), ensuring data consistency and correctness across distribu…",
+    "longitude": 77.224601,
+    "id": "5756755732",
+    "created": "2026-06-09T06:51:52Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Morningstar"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5756755732?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "title": "Sr. QA Automation Engineer (Data)",
+    "latitude": 28.62523,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1Njc1NTczMiIsInMiOiJrRmc1VGFkNDhSRy0ydEhBeE5BblpRIn0.C0OST9PPzV4AWeS-xeL8cwHlPn-BMqieTWKHc0crumA",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "salary_is_predicted": "0"
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Delhi",
+        "New Delhi"
+      ],
+      "display_name": "New Delhi, Delhi",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1Njk1MjY4Mzc3In0.oq5OpnzphrFC13g70adsLEfw4idzZ6rlhLLojW6_T44",
+    "title": "Senior Risk Manager",
+    "latitude": 28.62623,
+    "category": {
+      "label": "Legal Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "legal-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5695268377?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "Amazon",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-04-10T09:39:24Z",
+    "id": "5695268377",
+    "longitude": 77.21808,
+    "description": "Description Amazon's Counterfeit Crimes Unit (CCU) is looking for a talented Senior Risk Manager based in Delhi to develop and execute Amazon's external counterfeit enforcement efforts. You will work with a team of attorneys, investigators, and analysts to identify counterfeiters, their networks, and other bad actors in India, develop and pursue cases against them, and work with law enforcement to disrupt their activities. You will also work closely with law enforcement partners, prosecutors, b…"
+  },
+  {
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MzgzNDUwMSIsInMiOiJrRmc1VGFkNDhSRy0ydEhBeE5BblpRIn0.hJGeQt9goiKG7Vh_34fhpLlUsvCKtdyHlfYkGJasdn4",
+    "latitude": 28.62623,
+    "title": "“Gurgaon” “Biz OPS” “Specialist- AI, Data & Automation”",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Delhi",
+        "New Delhi"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "New Delhi, Delhi"
+    },
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "company": {
+      "display_name": "Protiviti",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5763834501?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": 77.21808,
+    "id": "5763834501",
+    "description": "JOB REQUISITION “Gurgaon” “Biz OPS” “Specialist- AI, Data & Automation” LOCATION NEW DELHI ADDITIONAL LOCATIONS JOB DESCRIPTION KEY RESPONSIBILITIES AI, Agents & Intelligent Automation • Design, build, and deploy AI-enabled solutions and agents using Microsoft Copilot Studio, Azure OpenAI, and the broader M365 Copilot ecosystem, targeting L&D use cases like content authoring support, learner self-service, instructor tools, and feedback synthesis. • Apply LLMs thoughtfully to real L&D problems, …",
+    "created": "2026-06-15T02:49:04Z"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Training Basket",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "contract_type": "permanent",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2NTc0MjE2MyIsInMiOiJrRmc1VGFkNDhSRy0ydEhBeE5BblpRIn0.8gB5KzKoLEB8l5taviWfNj8Ptp8UNpzBPIIVVcvDuwU",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5765742163?utm_medium=api&utm_source=7cd92d92",
+    "salary_max": 20000,
+    "created": "2026-06-16T23:14:31Z",
+    "id": "5765742163",
+    "longitude": 77.1968,
+    "description": "Build the front-end of applications through appealing visual design Develop and manage well-functioning databases and applications Write effective APIs Test software to ensure responsiveness and efficiency Troubleshoot, debug and upgrade software Create security and data protection settings Build features and applications with a mobile responsive design Write technical documentation Work with data scientists and analysts to improve software Maintain the HRMS Requirements Proven experience as a …",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "H.S.Sangh, North West Delhi",
+      "area": [
+        "India",
+        "Delhi",
+        "North West Delhi",
+        "H.S.Sangh"
+      ]
+    },
+    "latitude": 28.71066,
+    "title": "Full Stack Developer",
+    "salary_min": 10000
+  },
+  {
+    "latitude": 28.62623,
+    "title": "Senior Sales Analytics Specialist",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0MzAzMDQ0OCIsInMiOiJrRmc1VGFkNDhSRy0ydEhBeE5BblpRIn0.Xutdd6-aRkWVGbd-B_WsN6OEhRrgBd37YTQbvpCGfn0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "New Delhi, Delhi",
+      "area": [
+        "India",
+        "Delhi",
+        "New Delhi"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "company": {
+      "display_name": "NTT America, Inc.",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5743030448?utm_medium=api&utm_source=7cd92d92",
+    "description": "Make an impact with NTT DATA Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion - it's a place where you can grow, belong and thrive. Your day at NTT DATA The Senior Sales Analytics Specialist is an advanced subject matter expert, accountable for driving the success of sales operations through comprehensive d…",
+    "id": "5743030448",
+    "longitude": 77.21808,
+    "created": "2026-05-28T10:25:34Z"
+  },
+  {
+    "longitude": 77.224601,
+    "id": "3185422236",
+    "description": "Supporting today’s data driven business world, our client acts as a full-stack data intelligence platform which leverages granular and deep data from various sources, thus helping the decision-makers at the executive level. Their solutions include supply chain optimization, building footprints, track construction hotspots, real estate, and lots more. Their work embeds geospatial analytics, location intelligence and predictive modelling in the foundations of economic modelling and evaluation the…",
+    "created": "2022-06-01T06:12:55Z",
+    "salary_max": 1500000,
+    "redirect_url": "https://www.adzuna.in/details/3185422236?utm_medium=api&utm_source=7cd92d92",
+    "salary_min": 1200000,
+    "title": "Senior Manager- Data Intelligence|",
+    "latitude": 28.62523,
+    "location": {
+      "area": [
+        "India",
+        "Delhi"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Unnati"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "consultancy-jobs",
+      "label": "Consultancy Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzE4NTQyMjIzNiIsInMiOiJrRmc1VGFkNDhSRy0ydEhBeE5BblpRIn0.b5oZ90E0SS1O3bZsfPiOcEeKpSDuLIDNvTyxvTDLGec",
+    "contract_time": "full_time",
+    "salary_is_predicted": "0"
+  },
+  {
+    "description": "Job Title: Senior Data Modeler Experience Required: 6 Years Location: Remote Employment Type: Full-time / Contract (Remote) Domain: Data Engineering / Analytics / Data Warehousing  Job Summary: We are seeking an experienced and detail-oriented Data Modeler with a strong background in conceptual, logical, and physical data modeling. The ideal candidate will have in-depth knowledge of Snowflake architecture, data modeling best practices (Star/Snowflake schema), and advanced SQL scripting. You wil…",
+    "longitude": 77.224601,
+    "id": "5753748871",
+    "created": "2026-06-06T05:57:40Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ALIQAN Technologies"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5753748871?utm_medium=api&utm_source=7cd92d92",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "title": "Senior Data Modeler",
+    "latitude": 28.62523,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzUzNzQ4ODcxIn0.qq92gH4MS1f17sAJHyS68MXp-cqlUrZlIlnr2LQQGnA",
+    "contract_time": "full_time",
+    "location": {
+      "area": [
+        "India",
+        "Delhi"
+      ],
+      "display_name": "Delhi, India",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0"
+  },
+  {
+    "salary_min": 1000000,
+    "location": {
+      "display_name": "Delhi, India",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "latitude": 28.62523,
+    "title": "Full Stack Developer",
+    "created": "2022-02-26T04:52:02Z",
+    "description": "Responsibilities Work with development teams and product managers to ideate software solutions Design client-side and server-side architecture Build the front-end of applications through appealing visual design Develop and manage well-functioning databases and applications Write effective APIs Test software to ensure responsiveness and efficiency Troubleshoot, debug and upgrade software Create security and data protection settings Build features and applications with a mobile responsive design …",
+    "longitude": 77.224601,
+    "id": "2927156229",
+    "redirect_url": "https://www.adzuna.in/details/2927156229?utm_medium=api&utm_source=7cd92d92",
+    "salary_max": 2500000,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiIyOTI3MTU2MjI5In0.V9_CtPJuHyJu1Qa9jy1zyfzCPmIWHGNk4ecb4WNO43Y",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "TalentXo"
+    }
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "New Delhi, Delhi",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Delhi",
+        "New Delhi"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0NDg0NzE3OSIsInMiOiJrRmc1VGFkNDhSRy0ydEhBeE5BblpRIn0.8c8uVu8lYP0HmfOihpSMV4hAej5g15hs2Pbynoewygs",
+    "latitude": 28.62623,
+    "title": "External Consultant - Niti",
+    "created": "2025-12-17T01:36:42Z",
+    "id": "5544847179",
+    "longitude": 77.21808,
+    "description": "Position: External Consultant - Niti Employment type: 1 year contract with open to extension Location: Delhi ( 5 Days out of Niti Office) Business Unit: Foundations Language preference: English and Hindi About Sattva We Partner to deliver social impact at scale Sattva Consulting is a global impact consulting firm from India. Since 2009 we have been engaging with communities, business and government to achieve societal impact at scale. We believe that Civil society, Business and Government all h…",
+    "redirect_url": "https://www.adzuna.in/details/5544847179?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Sattva Consulting",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Instantpay"
+    },
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzkzMDc0NDQ3NCIsInMiOiJrRmc1VGFkNDhSRy0ydEhBeE5BblpRIn0.Rg2sxSpVRxWw-Nk1uF_dEJ_qHW7Qy6yvb8bNv514yaQ",
+    "contract_time": "full_time",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/3930744474?utm_medium=api&utm_source=7cd92d92",
+    "salary_max": 1200000,
+    "created": "2023-02-18T01:11:14Z",
+    "longitude": 77.224601,
+    "id": "3930744474",
+    "description": "We are looking for an experienced Backend Engineer to join our Technology team. You will be responsible for the server-side of our web applications. You’ll be working closely with our engineers to ensure system consistency and improve user experience. You’ll be part of a cross-functional team that’s responsible for the full software development life cycle, from conception to deployment. Skills and Expertise Strong experience with backend technologies (PHP / Laravel framework) Deep understanding…",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "latitude": 28.62523,
+    "title": "Laravel Developer",
+    "salary_min": 700000
+  },
+  {
+    "created": "2024-07-31T03:20:18Z",
+    "description": "Data Engineer FiFyles is changing lives! As a Lead Architect for Data, you’re eager to jump into a brand new learning experience. We need a Lead Architect for Data to have fun analyzing complex, massive data sets, building amazing tools and gaining insights from it all. If this sounds like you, please read on! Who You Are You entrepreneurial instincts recognize the opportunity of working at a startup-within-a-startup You are extraordinarily well versed in the latest data architectural and model…",
+    "id": "4801636692",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/4801636692?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "Fitfyles LLP",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "title": "Data Engineer",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMTYzNjY5MiIsInMiOiJrRmc1VGFkNDhSRy0ydEhBeE5BblpRIn0.QindctdEMXhSfR0hoTvcsjA1WcSeoBNXv0oXfK_IRWE"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Infinium Associate"
+    },
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3NjMxMDM0MyIsInMiOiJrRmc1VGFkNDhSRy0ydEhBeE5BblpRIn0.73zLNrerj0eoMXrcsYFlOCma4PULYKala1-3VpfaCQ0",
+    "created": "2025-11-02T06:52:09Z",
+    "id": "5476310343",
+    "longitude": 77.224601,
+    "description": "DataHavn IT Solutions is a company that specializes in big data and cloud computing, artificial intelligence and machine learning, application development, and consulting services. We want to be in the frontrunner into anything to do with data and we have the required expertise to transform customer businesses by making right use of data. About the Role: As a Data Scientist specializing in Google Cloud, you will play a pivotal role in driving data-driven decision-making and innovation within ou…",
+    "redirect_url": "https://www.adzuna.in/details/5476310343?utm_medium=api&utm_source=7cd92d92",
+    "salary_max": 4500000,
+    "salary_min": 4000000,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "latitude": 28.62523,
+    "title": "Data Scientist"
+  },
+  {
+    "created": "2021-02-15T04:27:44Z",
+    "id": 1993882129,
+    "description": "Job brief We are looking for a Full Stack Developer to produce scalable software solutions. You’ll be part of a cross-functional team that’s responsible for the full software development life cycle, from conception to deployment. As a Full Stack Developer, you should be comfortable around both front-end and back-end coding languages, development frameworks and third-party libraries. You should also be a team player with a knack for visual design and utility. If you’re also familiar with Agile m…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/1993882129?utm_medium=api&utm_source=7cd92d92",
+    "salary_max": 600000,
+    "company": {
+      "display_name": "SveltetechTechnologies Pvt Ltd",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "salary_min": 0,
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Delhi"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India"
+    },
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxOTkzODgyMTI5LCJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSJ9.E5YdB6_PGJ4ywdtXHt4O6cJZdMxP-gdXCA5qC8wGWRI",
+    "title": "Fullstack Developer"
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/3185422225?utm_medium=api&utm_source=7cd92d92",
+    "salary_max": 700000,
+    "created": "2022-06-01T06:12:55Z",
+    "longitude": 77.224601,
+    "id": "3185422225",
+    "description": "Supporting today’s data driven business world, our client acts as a full-stack data intelligence platform which leverages granular and deep data from various sources, thus helping the decision-makers at the executive level. Their solutions include supply chain optimization, building footprints, track construction hotspots, real estate, and lots more. Their work embeds geospatial analytics, location intelligence and predictive modelling in the foundations of economic modelling and evaluation the…",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "title": "Growth Strategy Executive",
+    "latitude": 28.62523,
+    "salary_min": 600000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Unnati"
+    },
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiIzMTg1NDIyMjI1In0.ZrNaRpCgkcH2wX2z-yyy7RxDnEZJFubRVrnNAt0vBmY",
+    "contract_time": "full_time",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "PR, Advertising & Marketing Jobs",
+      "tag": "pr-advertising-marketing-jobs"
+    }
+  },
+  {
+    "salary_max": 1400000,
+    "company": {
+      "display_name": "Bondburry Recruitmenrt Pvt Ltd",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.in/details/2133622627?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": 2133622627,
+    "description": "Company is among the fastest growing educational technology companies, with a global footprint. The company has a huge presence in India, South Africa, Indonesia and the Middle East. Job brief We are looking for a Full Stack Developer to produce scalable AI based software solutions. You’ll be part of a cross-functional team that’s responsible for the full software development life cycle, from conception to deployment. As a Full Stack Developer, you should be comfortable around both front-end an…",
+    "created": "2021-04-22T11:37:28Z",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoyMTMzNjIyNjI3LCJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSJ9.IGmKd0RgQsy5Ltw5-fPpnxGeZGosqcT5f7BhGoB2eG4",
+    "title": "Fullstack Developer- Python",
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "salary_min": 0,
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "salary_min": 600000,
+    "location": {
+      "area": [
+        "India",
+        "Delhi"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India"
+    },
+    "title": "Talent Acquisition Specialist",
+    "latitude": 28.62523,
+    "created": "2022-06-01T06:12:55Z",
+    "description": "Supporting today’s data driven business world, our client acts as a full-stack data intelligence platform which leverages granular and deep data from various sources, thus helping the decision-makers at the executive level. Their solutions include supply chain optimization, building footprints, track construction hotspots, real estate, and lots more. Their work embeds geospatial analytics, location intelligence and predictive modelling in the foundations of economic modelling and evaluation the…",
+    "longitude": 77.224601,
+    "id": "3185422289",
+    "redirect_url": "https://www.adzuna.in/details/3185422289?utm_medium=api&utm_source=7cd92d92",
+    "salary_max": 700000,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "HR & Recruitment Jobs",
+      "tag": "hr-jobs"
+    },
+    "salary_is_predicted": "0",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiIzMTg1NDIyMjg5In0.xEE5ayENYHWN-5FgvcLocejJoZDBfQIpnZ8YnB9WiMc",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Unnati",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Delhi, India",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzI3MTI5OTk2In0.-NGV0IjNByHiW3BNncd6PxIOomPpHsvuTuroJZx4s0o",
+    "contract_time": "full_time",
+    "title": "Manager Talend Developer (Qlik Replicate)",
+    "created": "2026-05-13T02:03:38Z",
+    "id": "5727129996",
+    "description": "Job Description: Key Roles & Responsibilities:- Design, develop and optimized ETL/ELT pipelines: • Utilized Talend to create efficient data work flow that caters to organizational needs end-to-end ETL processes using Qlik Replicate tool. Data Management: • Implement data Extraction, transformation, and loading process from a wide variety of source systems (e.g., SQL,oracle,mongo db, flat files, cloud services). • Should be able to transform structure /unstructured data into logical model Data Q…",
+    "redirect_url": "https://www.adzuna.in/details/5727129996?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Mancraft Consulting"
+    }
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Delhi"
+      ],
+      "display_name": "Delhi, India",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzYxOTU1MTk0In0.zIBmj770JFg98PmbDmw8D3XEtF_2fsrBobLEYd84BSo",
+    "title": "Data Engineer - WGDT",
+    "latitude": 28.62523,
+    "created": "2026-06-13T08:52:24Z",
+    "id": "5761955194",
+    "longitude": 77.224601,
+    "description": "We are seeking a highly motivated and detail-oriented Data Engineer with expertise in designing, constructing, and maintaining robust data architectures and infrastructure. In this critical role, you will contribute to the successful implementation of digital government policies and programs in India. You will be instrumental in developing scalable and efficient systems to manage large volumes of data, making it accessible for analysis and decision-making, and ultimately driving innovation and …",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5761955194?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Wadhwani Foundation"
+    }
+  },
+  {
+    "id": "5767896744",
+    "longitude": 77.224601,
+    "description": "Project Manager – Artificial Intelligence | Job Description CONFIDENTIAL JOB DESCRIPTION Project Manager – AI ROLE OVERVIEW The Project Manager – Artificial Intelligence (AI-PM) is a strategic and execution-focused role responsible for leading the company's AI transformation journey. This individual will drive automation across every department, aligning AI initiatives with business objectives to save time, reduce costs, and significantly improve quality of output. The AI-PM will bridge the gap…",
+    "created": "2026-06-18T15:15:45Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Techmagnate"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5767896744?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzY3ODk2NzQ0In0.btM4tmn6OxU4X0snXYt4uil4BQZXibNoNzZgcoIA2vQ",
+    "title": "AI Project Manager",
+    "latitude": 28.62523,
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    }
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Delhi"
+      ],
+      "display_name": "Delhi, India",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1MDQwNjUyNTQzIn0.22Dvka8iOmHetBf0xB1hrPKfYrPv9SNjXEpBtWVMBRY",
+    "title": "Data QA Specialist",
+    "latitude": 28.62523,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Accounting & Finance Jobs",
+      "tag": "accounting-finance-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5040652543?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "YipitData"
+    },
+    "created": "2025-02-07T11:21:48Z",
+    "id": "5040652543",
+    "longitude": 77.224601,
+    "description": "About Us: YipitData is the market-leading data and analytics firm. We analyze billions of data points every day to provide accurate, detailed insights across industries, including consumer brands, technology, software, and healthcare. Our insights team uses proprietary technology to identify, license, clean, and analyze the data that many of the worlds largest investment funds and corporations depend on. We raised $475M from The Carlyle Group at a valuation over $1B, further accelerating our gr…"
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzE4Nzk5NDQzMCIsInMiOiJrRmc1VGFkNDhSRy0ydEhBeE5BblpRIn0.zX7M9f-XF7EdhfKqBYlXOnajdRsdV5bHwfhoZ4x8JPQ",
+    "title": "Senior BI Engineer (Luxembourg)",
+    "latitude": 28.62523,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/details/3187994430?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Amazon"
+    },
+    "contract_type": "permanent",
+    "created": "2022-06-01T21:29:10Z",
+    "longitude": 77.224601,
+    "id": "3187994430",
+    "description": "Are you passionate about data? Does the prospect of dealing with massive volumes of data excite you? Do you want to create the next-generation tools for intuitive data access for transportation operations? Amazon Transportation Services (ATS) is a the global middle-mile transportation organization within Amazon - as part of the transportation, we ship several millions of packages every year to customer on time with high customer excellence.Find out more about us in this video: https://www.youtu…"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "display_name": "Delhi, India",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "title": "Content Analyst",
+    "latitude": 28.62523,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMTc0ODkyNyIsInMiOiJrRmc1VGFkNDhSRy0ydEhBeE5BblpRIn0.7deNAoxHMDxnHqFT4kKCKxvG0zJ-Uu93ICO18CDhPZY",
+    "created": "2026-04-17T02:00:23Z",
+    "description": "About AlphaSense: The world’s most sophisticated companies rely on AlphaSense to remove uncertainty from decision-making. With market intelligence and search built on proven AI, AlphaSense delivers insights that matter from content you can trust. Our universe of public and private content includes equity research, company filings, event transcripts, expert calls, news, trade journals, and clients’ own research content. The acquisition of Tegus by AlphaSense in 2024 advances our shared mission t…",
+    "id": "5701748927",
+    "longitude": 77.224601,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5701748927?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "AlphaSense India",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/5699054404?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Avasant"
+    },
+    "created": "2026-04-14T19:27:51Z",
+    "longitude": 77.224601,
+    "id": "5699054404",
+    "description": "Background : Avasant is a Los Angeles, California headquartered leading management consulting firm providing Strategic Sourcing, IT and Business Transformation and Global Strategy services to the global Fortune 1000. Since 2006, Avasant has negotiated over $250B in deals and operates in over 50 countries. The firm has been recognized as \"World's Best Outsourcing Advisor\" by the International Association of Outsourcing Professionals (IAOP) for fourteen consecutive years. In 2020, we were also re…",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Delhi"
+      ],
+      "display_name": "Delhi, India",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5OTA1NDQwNCIsInMiOiJrRmc1VGFkNDhSRy0ydEhBeE5BblpRIn0.Y8l3N0OxugugE99btYiq9OLhP8BRgtt12cnBDO_fMpk",
+    "title": "Lead Research Analyst - Global Capability Centers (GCC)",
+    "latitude": 28.62523,
+    "category": {
+      "label": "Consultancy Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "consultancy-jobs"
+    }
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "latitude": 28.62523,
+    "title": "Senior Business Intelligence Engineer (Luxembourg)",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzE4Nzk5NDQ1NiIsInMiOiJrRmc1VGFkNDhSRy0ydEhBeE5BblpRIn0.EdKxwSOHGdtZ79IePrgnRRau68tb9vpKxI3AJ3hlyek",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "description": "Are you passionate about data? Does the prospect of dealing with massive volumes of data excite you? Do you want to create the next-generation tools for intuitive data access for transportation operations? Amazon Transportation Services (ATS) is a the global middle-mile transportation organization within Amazon - as part of the transportation, we ship several millions of packages every year to customer on time with high customer excellence. Find our more about us in this video: https://www.yout…",
+    "longitude": 77.224601,
+    "id": "3187994456",
+    "created": "2022-06-01T21:29:10Z",
+    "contract_type": "permanent",
+    "company": {
+      "display_name": "Amazon",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/3187994456?utm_medium=api&utm_source=7cd92d92"
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/3187994617?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Amazon"
+    },
+    "created": "2022-06-01T21:29:11Z",
+    "contract_type": "permanent",
+    "description": "Are you passionate about leveraging data to deliver actionable insight that impacts daily business decisions for Amazon? Does the prospect of dealing with massive volume of data excite you? Amazon Fulfillment Technologies (AFT) powers the physical engine at the heart of Amazon Retail. AFT builds and operates software, hardware, and processes that run the global network of fulfillment centers that move many millions of units of inventory, employ hundreds of thousands of employees, and ensure tha…",
+    "id": "3187994617",
+    "longitude": 77.224601,
+    "location": {
+      "area": [
+        "India",
+        "Delhi"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India"
+    },
+    "salary_is_predicted": "0",
+    "latitude": 28.62523,
+    "title": "Business Intelligence Engineer (Luxembourg)",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiIzMTg3OTk0NjE3In0.wJDRICZ7GkqcTSkw7-0mwpxbcI0cJiUplu0t29Jh6Os",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    }
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/5727156129?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "RECEX"
+    },
+    "created": "2026-05-13T02:05:49Z",
+    "id": "5727156129",
+    "longitude": 77.224601,
+    "description": "Job Description: Key Responsibilities: · Manage day-to-day operations of the Pharma Instrumentation Section . · Plan, supervise, and execute testing of APIs, recipients, and formulations using HPLC and other advanced instruments . · Ensure strict adherence to NABL, pharmacopeia (USP/IP/BP/EP), ICH, and CDSCO/WHO guidelines . · Perform and supervise method development, method validation, verification, and system suitability tests . · Maintain, calibrate, and troubleshoot instruments including HP…",
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Delhi, India",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNzE1NjEyOSIsInMiOiJrRmc1VGFkNDhSRy0ydEhBeE5BblpRIn0.Zl7xm2WhqycDi0n8j27mqEgQNNGo-aQ5QBZkoj47dBk",
+    "title": "Analyst /Sr. Analyst/Asst. Manager",
+    "latitude": 28.62523,
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/details/5696953045?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Esri"
+    },
+    "created": "2026-04-12T02:10:08Z",
+    "id": "5696953045",
+    "longitude": 77.21808,
+    "description": "Overview Esri is the world leader in geographic information systems (GIS) and developer of ArcGIS, the leading mapping and analytics software used in 75 percent of Fortune 500 companies. At the Esri R&D Center-New Delhi, we are applying cutting-edge AI and deep learning techniques to revolutionize geospatial analysis and derive insight from imagery and location data. We are passionate about applying data science and artificial intelligence to solve some of the world’s biggest challenges. Our te…",
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "New Delhi, Delhi",
+      "area": [
+        "India",
+        "Delhi",
+        "New Delhi"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5Njk1MzA0NSIsInMiOiJrRmc1VGFkNDhSRy0ydEhBeE5BblpRIn0._2Pyv1lZzcdJXFrq1hiSPzEz0ijW8m1TeEW13em16pQ",
+    "latitude": 28.62623,
+    "title": "Product Engineer - Geospatial Data Science - GeoAI",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Delhi",
+        "New Delhi"
+      ],
+      "display_name": "New Delhi, Delhi",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NTk3NTg3Nzk3In0.PxOp6NxR95bvnFJ7P6t8CHU_fdnVmqPInw3aOWgPMbM",
+    "title": "Data Engineer",
+    "latitude": 28.62623,
+    "created": "2026-01-24T00:59:10Z",
+    "id": "5597587797",
+    "longitude": 77.21808,
+    "description": "Rhombus Power, Inc. delivers AI-powered predictive intelligence in real time for defense and national security organizations worldwide. Our mission-built products— Ambient AI and Guardian— are transforming strategic, operational, and tactical decision-making. By empowering the shift from reactive analysis to proactive, predictive intelligence and decision support, Rhombus Power is providing foresight and freedom of action when it matters most. Come join our cross-disciplinary and world-class te…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5597587797?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "Rhombus Power",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "NTT"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5733428191?utm_medium=api&utm_source=7cd92d92",
+    "description": "Make an impact with NTT DATA Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion – it’s a place where you can grow, belong and thrive. Your day at NTT DATA The Senior Business Analyst is an advanced subject matter expert, responsible for working with internal and external clients to determine requirements and …",
+    "longitude": 77.224601,
+    "id": "5733428191",
+    "created": "2026-05-19T02:15:02Z",
+    "latitude": 28.62523,
+    "title": "Lead Business Analyst",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMzQyODE5MSIsInMiOiJrRmc1VGFkNDhSRy0ydEhBeE5BblpRIn0.LRcrQHVJWfLED9fFQBi3CrR-IGsPirSbJucMUqvLa7E",
+    "contract_time": "full_time",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    }
+  },
+  {
+    "created": "2026-05-18T10:13:16Z",
+    "description": "Make an impact with NTT DATA Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion - it's a place where you can grow, belong and thrive. Your day at NTT DATA The Senior Business Analyst is an advanced subject matter expert, responsible for working with internal and external clients to determine requirements and …",
+    "id": "5732875284",
+    "longitude": 77.21808,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/5732875284?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "display_name": "NTT America, Inc.",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Delhi",
+        "New Delhi"
+      ],
+      "display_name": "New Delhi, Delhi",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "latitude": 28.62623,
+    "title": "Lead Business Analyst",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiI1NzMyODc1Mjg0In0.KjrTR2NZl9XmkU25ikgTchZPlYPqgC6-ZsySf9TUY2k"
+  },
+  {
+    "contract_type": "permanent",
+    "created": "2022-06-01T21:29:11Z",
+    "id": "3187994578",
+    "longitude": 77.224601,
+    "description": "Are you a talented and inventive scientist with a strong passion about modern data technologies and interested to improve business processes, extracting value from the data? Would you like to be a part of an organization that is aiming to use self-learning technology to process data in order to support the management of the procurement function? The Global Procurement Technology, as a part of Global Procurement Operations, is seeking a skilled Data Scientist to help build its future data intell…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/details/3187994578?utm_medium=api&utm_source=7cd92d92",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Amazon"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Delhi, India",
+      "area": [
+        "India",
+        "Delhi"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZnNVRhZDQ4UkctMnRIQXhOQW5aUSIsImkiOiIzMTg3OTk0NTc4In0.OPxGHIiEKKNvapzcIvJpv8f2PT40Efpg80V8VYwRyfQ",
+    "latitude": 28.62523,
+    "title": "Data Scientist (Luxembourg)"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Avasant"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5700497094?utm_medium=api&utm_source=7cd92d92",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Background : Avasant is a Los Angeles, California headquartered leading management consulting firm providing Strategic Sourcing, IT and Business Transformation and Global Strategy services to the global Fortune 1000. Since 2006, Avasant has negotiated over $250B in deals and operates in over 50 countries. The firm has been recognized as \"World's Best Outsourcing Advisor\" by the International Association of Outsourcing Professionals (IAOP) for fourteen consecutive years. In 2020, we were also re…",
+    "id": "5700497094",
+    "longitude": 77.21808,
+    "created": "2026-04-16T01:58:38Z",
+    "title": "Lead Research Analyst - Global Capability Centers (GCC)",
+    "latitude": 28.62623,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMDQ5NzA5NCIsInMiOiJrRmc1VGFkNDhSRy0ydEhBeE5BblpRIn0.ijYqf7rIfQyhE5On4fMODBupMcbqTJ-EgU5XJKcrmUI",
+    "contract_time": "full_time",
+    "location": {
+      "area": [
+        "India",
+        "Delhi",
+        "New Delhi"
+      ],
+      "display_name": "New Delhi, Delhi",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "consultancy-jobs",
+      "label": "Consultancy Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  }
+]
