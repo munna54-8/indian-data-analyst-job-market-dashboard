@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Indian Data-Analyst Job-Market Intelligence Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root{
+    --bg:#F3F5F9; --card:#FFFFFF; --border:#E1E5EC;
+    --ink:#1B2333; --muted:#5B6478;
+    --teal:#146C64; --teal-soft:#DCEEEC;
+    --amber:#C6742A; --amber-soft:#F6E7D8;
+    --slate:#3D4B63;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font-family:'Inter',system-ui,sans-serif; line-height:1.5;
+    padding:40px 24px 80px;
+  }
+  .wrap{max-width:1080px; margin:0 auto;}
+  .eyebrow{
+    font-size:12px; font-weight:600; letter-spacing:0.12em; text-transform:uppercase;
+    color:var(--teal); margin-bottom:10px;
+  }
+  h1{
+    font-family:'Fraunces',serif; font-weight:600; font-size:clamp(28px,4vw,42px);
+    margin:0 0 10px; letter-spacing:-0.01em;
+  }
+  .subtitle{color:var(--muted); font-size:15px; max-width:640px; margin:0 0 36px;}
+
+  .hero{
+    background:linear-gradient(135deg,var(--ink) 0%, #2A3A52 100%);
+    border-radius:16px; padding:32px 36px; color:#fff; margin-bottom:28px;
+    display:flex; flex-wrap:wrap; gap:32px; align-items:center; justify-content:space-between;
+  }
+  .hero-text{max-width:400px;}
+  .hero-label{font-size:12px; letter-spacing:0.1em; text-transform:uppercase; color:#9FB0C8; margin-bottom:8px;}
+  .hero-title{font-family:'Fraunces',serif; font-size:22px; font-weight:600; line-height:1.3;}
+  .hero-stats{display:flex; gap:28px;}
+  .hero-stat{text-align:center;}
+  .hero-stat .num{font-family:'Fraunces',serif; font-size:42px; font-weight:700; line-height:1;}
+  .hero-stat.rag .num{color:#E8A45C;}
+  .hero-stat.py .num{color:#9FB0C8;}
+  .hero-stat .lbl{font-size:12px; color:#B7C3D6; margin-top:6px;}
+
+  .kpi-row{display:grid; grid-template-columns:repeat(4,1fr); gap:16px; margin-bottom:28px;}
+  .kpi{
+    background:var(--card); border:1px solid var(--border); border-radius:12px; padding:20px 22px;
+  }
+  .kpi .val{font-family:'Fraunces',serif; font-size:28px; font-weight:600; color:var(--ink);}
+  .kpi .lbl{font-size:12.5px; color:var(--muted); margin-top:4px;}
+
+  .grid{display:grid; grid-template-columns:1.1fr 0.9fr; gap:20px; margin-bottom:20px;}
+  .card{
+    background:var(--card); border:1px solid var(--border); border-radius:12px; padding:24px;
+  }
+  .card h2{font-size:15px; font-weight:600; margin:0 0 4px;}
+  .card .note{font-size:12.5px; color:var(--muted); margin-bottom:16px;}
+  .chart-box{position:relative; height:280px;}
+  .full{grid-column:1 / -1;}
+
+  .findings{list-style:none; padding:0; margin:0;}
+  .findings li{
+    display:flex; gap:12px; padding:12px 0; border-bottom:1px solid var(--border); font-size:13.5px;
+  }
+  .findings li:last-child{border-bottom:none;}
+  .findings .tag{
+    flex-shrink:0; font-size:10.5px; font-weight:700; letter-spacing:0.04em; text-transform:uppercase;
+    color:var(--teal); background:var(--teal-soft); padding:3px 8px; border-radius:6px; height:fit-content;
+  }
+
+  footer{
+    margin-top:28px; padding-top:20px; border-top:1px solid var(--border);
+    font-size:12.5px; color:var(--muted); display:flex; justify-content:space-between; flex-wrap:wrap; gap:8px;
+  }
+
+  @media (max-width:760px){
+    .grid{grid-template-columns:1fr;}
+    .kpi-row{grid-template-columns:repeat(2,1fr);}
+    .hero{flex-direction:column; align-items:flex-start;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="eyebrow"></div>
+  <h1>Indian Data-Analyst Job-Market Intelligence</h1>
+  <p class="subtitle">What does the Indian data-analyst market actually want right now? Analysis of 1,160 live job postings pulled directly from the Adzuna API across 6 major hiring cities.</p>
+
+  <div class="hero">
+    <div class="hero-text">
+      <div class="hero-label">Headline finding</div>
+      <div class="hero-title">RAG (Retrieval-Augmented Generation) is now mentioned in more postings than Python.</div>
+    </div>
+    <div class="hero-stats">
+      <div class="hero-stat rag">
+        <div class="num">95</div>
+        <div class="lbl">RAG &middot; 8.2%</div>
+      </div>
+      <div class="hero-stat py">
+        <div class="num">78</div>
+        <div class="lbl">Python &middot; 6.7%</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="kpi-row">
+    <div class="kpi"><div class="val">1,160</div><div class="lbl">Postings analyzed</div></div>
+    <div class="kpi"><div class="val">6</div><div class="lbl">Cities covered</div></div>
+    <div class="kpi"><div class="val">18.2%</div><div class="lbl">Disclose a salary</div></div>
+    <div class="kpi"><div class="val">SQL</div><div class="lbl">Most in-demand skill (11.7%)</div></div>
+  </div>
+
+  <div class="grid">
+    <div class="card">
+      <h2>Most in-demand skills</h2>
+      <div class="note">Share of postings mentioning each skill in the description</div>
+      <div class="chart-box"><canvas id="skillsChart"></canvas></div>
+    </div>
+    <div class="card">
+      <h2>Postings by city</h2>
+      <div class="note">Bengaluru leads, but only just</div>
+      <div class="chart-box"><canvas id="cityChart"></canvas></div>
+    </div>
+  </div>
+
+  <div class="grid">
+    <div class="card">
+      <h2>Average disclosed salary by city (₹ lakhs/year)</h2>
+      <div class="note">Based on the 211 postings that disclose a salary range</div>
+      <div class="chart-box"><canvas id="salaryChart"></canvas></div>
+    </div>
+    <div class="card">
+      <h2>Key findings</h2>
+      <ul class="findings">
+        <li><span class="tag">Skill</span> SQL (11.7%) and Excel (10.3%) remain the top two fundamentals — still worth learning first.</li>
+        <li><span class="tag">GenAI</span> RAG outranks Python and Power BI — a real, current differentiator most candidates aren't demonstrating yet.</li>
+        <li><span class="tag">Geography</span> Bengaluru, Hyderabad, and Pune post within 8 jobs of each other — hiring is far less Bengaluru-centric than assumed.</li>
+        <li><span class="tag">Pay</span> Mumbai and Chennai show the highest average disclosed ranges; Delhi the lowest.</li>
+        <li><span class="tag">Transparency</span> Fewer than 1 in 5 postings disclose salary at all, making benchmarking hard for candidates.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card full">
+    <h2>Recommendation</h2>
+    <p style="font-size:13.5px; color:var(--slate); margin:0;">For someone entering the Data Analyst job market in India today: prioritize SQL and Excel first — still the most-requested fundamentals — then build working familiarity with RAG/GenAI tools, which now outrank core Python skills in demand and remain a genuine differentiator. Don't over-index applications on Bengaluru alone; Hyderabad and Pune carry nearly identical hiring volume and likely less applicant competition.</p>
+  </div>
+
+  <footer>
+    <span>Data: Adzuna API (api.adzuna.com), collected via Python + pandas, aggregated in SQLite</span>
+    <span>Tools: Python &middot; SQL &middot; Chart.js</span>
+  </footer>
+
+</div>
+
+<script>
+Chart.defaults.font.family = "'Inter', sans-serif";
+Chart.defaults.color = '#5B6478';
+
+const skillsCtx = document.getElementById('skillsChart');
+new Chart(skillsCtx, {
+  type: 'bar',
+  data: {
+    labels: ['SQL','Excel','RAG','ETL','Python','Power BI','Azure','Spark','AWS','Snowflake'],
+    datasets: [{
+      data: [136,119,95,94,78,45,44,44,35,33],
+      backgroundColor: (ctx) => ctx.dataIndex === 2 ? '#C6742A' : '#146C64',
+      borderRadius: 4,
+      barThickness: 14
+    }]
+  },
+  options: {
+    indexAxis: 'y',
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      x: { grid: { color: '#E1E5EC' }, ticks: { font: { size: 11 } } },
+      y: { grid: { display: false }, ticks: { font: { size: 12 } } }
+    }
+  }
+});
+
+const cityCtx = document.getElementById('cityChart');
+new Chart(cityCtx, {
+  type: 'bar',
+  data: {
+    labels: ['Bengaluru','Hyderabad','Pune','Mumbai','Chennai','Delhi'],
+    datasets: [{
+      data: [250,249,242,209,158,52],
+      backgroundColor: '#146C64',
+      borderRadius: 6,
+      barThickness: 32
+    }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      y: { grid: { color: '#E1E5EC' }, ticks: { font: { size: 11 } } },
+      x: { grid: { display: false }, ticks: { font: { size: 11.5 } } }
+    }
+  }
+});
+
+const salaryCtx = document.getElementById('salaryChart');
+new Chart(salaryCtx, {
+  type: 'bar',
+  data: {
+    labels: ['Bengaluru','Chennai','Delhi','Hyderabad','Mumbai','Pune'],
+    datasets: [
+      { label: 'Avg. min', data: [8.3,8.6,7.2,7.7,9.8,9.2], backgroundColor: '#DCEEEC', borderRadius: 4, barThickness: 14 },
+      { label: 'Avg. max', data: [16.0,18.7,12.3,14.7,16.7,15.0], backgroundColor: '#146C64', borderRadius: 4, barThickness: 14 }
+    ]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { position: 'top', labels: { boxWidth: 12, font: { size: 11.5 } } } },
+    scales: {
+      y: { grid: { color: '#E1E5EC' }, ticks: { font: { size: 11 }, callback: (v) => v + 'L' } },
+      x: { grid: { display: false }, ticks: { font: { size: 11.5 } } }
+    }
+  }
+});
+</script>
+</body>
+</html>
