@@ -10,7 +10,6 @@ Indian data-analyst hiring is booming, but there's no clear, current picture of 
 - Python (requests, pandas) to pull and clean postings
 - SQLite + SQL for aggregation (postings by city, salary by city, salary disclosure rate)
 - Keyword-based skill-tag extraction across job descriptions
-- Power BI for the dashboard
 
 ## Key findings
 - **Top 5 in-demand skills**: SQL (136 postings, 11.7%), Excel (119, 10.3%), RAG (95, 8.2%), ETL (94, 8.1%), Python (78, 6.7%)
