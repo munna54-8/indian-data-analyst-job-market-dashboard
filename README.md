@@ -26,4 +26,4 @@ For someone entering the Data Analyst job market in India today: prioritize SQL 
 Python, SQL (SQLite), Power BI, Adzuna API
 
 ## Dashboard
-[link to your published Power BI dashboard]
+https://munna54-8.github.io/indian-data-analyst-job-market-dashboard/dashboard/job_market_dashboard.html
